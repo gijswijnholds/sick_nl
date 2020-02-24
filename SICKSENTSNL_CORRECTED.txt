@@ -2378,23 +2378,23 @@ Een man leunt op een racemotor
 Een houten fluit wordt bespeeld door een man
 Een vrouw staat dicht bij drie kinderen
 Een hemdloze vrouw springt over een boomstam
-De mannen zijn niet aan het knokken in een ring SOFARSOGOOD
-Iemand haalt de okra uit een pot
+De mannen zijn niet aan het knokken in een ring
+Iemand haalt de okra uit een pan
 De man ligt naakt bij een surfplank
 Een gele hond loopt een zandpad op
 De man staat naast een vogelkooi
 Een jongen springt uit het water
 Twee mensen waden door het water
 Een man speelt op een fluit van bamboe
-De pandabeer ligt niet op de stammen
+De pandabeer ligt niet op de boomstammen
 Twee honden lopen door hoog gras
 Een man zingt en speelt gitaar
 De man smeert geen boter op het brood
-Een man beklimt een klif met een touw
-Een chimpansee is boos op het doelwit
+Eén man beklimt een klif met een touw
+Eén chimpansee schopt boos het doelwit
 De dame kraakt een ei in een schaal
 De dame neemt een ei uit een kom
-De man wordt van een paard geslagen
+De man wordt van een paard af getikt
 Een trieste familie poseert bij de open haard
 De agent zit niet op een politiefiets
 Twee mensen stoppen op een motor
@@ -2406,15 +2406,15 @@ De spelers manoeuvreren voor de bal
 Een eekhoorn loopt in cirkels rond
 Twee kinderen rollen in vuil water
 De vrouw roert geen eieren in een kom
-Het gehelmde meisje zit op de fiets
+Het gehelmde meisje strijkt neer op een fiets
 Het meisje brengt make-up aan op haar gezicht
 De kudde kariboes steekt een weg over
 Het kind speelt buiten met speelgoed
-Een man speelt een elektronisch toetsenbord
-Sommige zwemmers komen uit een meer
+Een man speelt op een elektronisch keyboard
+Sommige zwemmers komen een meer uit
 Een man legt wat kaas op een pizza
 Niemand roert noedels in het water
-Een man opent een soda en drinkt het
+Een man opent een frisdrankje en drinkt het op
 Een man zit comfortabel aan een tafel
 Een konijn speelt met een knuffelhaasje
 Een man stapt in een auto in een garage
@@ -2423,26 +2423,26 @@ Een dier speelt met een klein flesje
 Een vrouw, die oud is, is in de buurt van een witte hond
 Een vrouw is het water uit een mok aan het legen
 Een vrouw snijdt wat vlees in stukken
-De lucht bedriegt een uitvoerende fietser
-Een mollige jongen draagt een zonnebril
+De lucht bedriegt een uitvoerende fietser DOUBLECHECK
+Een jongen met een mollig gezicht draagt een zonnebril
 Een meisje heeft gekleurde vlekken op de wangen
 Een vrouw danst sierlijk op een podium
-Er zijn geen racers die over een circuit lopen
+Er zijn geen racers een circuit aflopen
 Een man speelt gepassioneerd op de gitaar
-Een man is een akoestische gitaar aan het inpakken
+Een man is een akoestische gitaar aan het opbergen
 Een boot vaart rustig over het water
 Twee witte puppies spelen in de buurt van water
 Niemand speelt gitaar en zingt
 Een vrouw verzamelt kraanwater in een mok
 Een rots wordt beklommen door de zwarte hond
-De hond bijt wat wat waterdruppels
+De hond bijt op wat waterdruppels
 Een kat speelt op een bewegende plafondventilator
 De persoon snijdt voorzichtig een aardappel
 Een man houdt een elektronisch apparaat omhoog
 Twee kinderen spelen niet in de branding
 Een jong meisje zit in zwemkleding
 Een klein meisje stapt uit een speelgoedauto
-Een meisje slaat touw over in de buurt van een straat
+Een meisje springt touw in de buurt van een straat DOUBLECHECK POSMISTAKE
 De staart van een hond wordt getrokken door een aap
 De jongen in de blauwe overall is aan het schilderen
 Meerdere kinderen springen op een trampoline
@@ -2450,22 +2450,22 @@ Jongens dansen in het bijzijn van sommige mensen
 Een leeuw is de hele pen aan het vermoeien door te stappen
 De aap beoefent geen vechtsporten
 Een vogel rust zijn vleugels uit in het water
-Een herdershond verspreidt een kudde schapen
+Een herdershond drijft een kudde schapen uiteen
 Twee fietsen worden bereden door twee personen
-Een hond zwemt niet in een waterlichaam
+Een hond zwemt niet in een waterlichaam DOUBLECHECK
 De man giet olie op een paar tomaten
 Een dier zwemt in een waterlichaam
 Een man doet niet mee aan een bmx-race
 Een witte hond staat op gevallen bladeren
 De katten spelen niet met elkaar
-Een vrouw snijdt een grote peper
-Een motorrijder loopt over een man heen
+Een vrouw snijdt een paprika die groot is
+Een motorrijder rent een man omver
 Er is geen man die van een besneeuwde heuvel af skiet
 Een man giet geen olie op de tomaten
 Het vlees wordt niet in een pan gedaan
 Een grote witte hond loopt over een gazon
 Een eekhoorn draait rond in cirkels
-Er is geen speelgoedtrein die op een speelgoedwagen slaat
+Er is geen speelgoedtrein die een speelgoedwagen slaat
 Een hond aan de lijn loopt in het water
 Een oude vrouw schudt de hand van een man
 Twee mannen vechten in een hok voor vee
@@ -2477,18 +2477,18 @@ De hond loopt over het vuile pad
 Een man met een shirt houdt een voetbal vast
 Een getrouwd stel loopt het gangpad op
 Een vrouw draagt een Egyptische hoofdtooi
-Een vrouw is voorzichtig met het verwijderen van haar make-up
-De fietser rijdt op een straat in de stad
+Een vrouw is voorzichtig haar make-up aan het verwijderen
+De fietser rijdt door een stadsstraat
 Een grote hond gaat een steile heuvel af
 Een bruine en zwarte hond kijkt omhoog
 Een man snijdt een groot touw door met een zwaard
 Een vrouw tikt met haar vingers op een bureau
 Een kitten speelt met een blauw touw
-Een persoon roert groenten in een pot
-Mensen rijden twee kamelen op het zand
+Een persoon roert groenten in een pan
+Mensen rijden op twee kamelen op het zand
 De aardappel wordt niet geschild door een vrouw
 Een kleine hond zit achter een grote bruine koe aan
-Drie mannen oefenen karate buitenshuis
+Drie mannen oefenen buiten karate
 Een man zit gestaag op de stoel
 Een boom wordt gekapt door een man met een bijl
 Een man is naakt en ligt in het veld
@@ -2497,7 +2497,7 @@ Een interview wordt gegeven door de man
 Een bij is aan het opstijgen van een gele bloem
 Een persoon vouwt geen stuk papier
 Iemand zingt en bespeelt een gitaar
-Niemand giet ingrediënten in een pot
+Niemand giet ingrediënten in een pot SOFARSOGOOD
 Een blond kind houdt een gele fles vast
 Er is geen topless vrouw die bedekt is met modder
 Er is geen hond die op een trampoline stuitert
