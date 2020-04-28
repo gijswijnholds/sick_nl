@@ -2497,14 +2497,14 @@ Een interview wordt gegeven door de man
 Een bij is aan het opstijgen van een gele bloem
 Een persoon vouwt geen stuk papier
 Iemand zingt en bespeelt een gitaar
-Niemand giet ingrediënten in een pot SOFARSOGOOD
+Niemand giet ingrediënten in een pot
 Een blond kind houdt een gele fles vast
 Er is geen topless vrouw die bedekt is met modder
 Er is geen hond die op een trampoline stuitert
 Een hond met een gouden vacht ligt in het water
 Een persoon snijdt een wortel in stukken
-Een man met een hoed loopt door een winkel
-Er is geen leeuw die moe in een hok loopt
+Een man in een hoed loopt door een winkel
+Er is geen leeuw die vermoeid in een hok loopt
 Een paar mannen spelen vrolijk cricket
 Er is geen hond die op een met gras begroeide heuvel loopt
 Niemand snijdt een paprika in stukken
@@ -2520,7 +2520,7 @@ Een vrouw kijkt naar het uitzicht op een stad
 De kat likt geen melk uit een schotel
 Een baby neushoorn volgt een volwassen neushoorn
 Een vrouw tikt nerveus op haar vingers
-Verschillende jongens springen op een trampoline
+Meerdere jongens springen op een trampoline
 Een kikker wordt onzorgvuldig vastgehouden door een man
 Een konijn speelt met een knuffelkonijn
 Er is geen bruine hond die in de lucht springt
@@ -2533,36 +2533,36 @@ De man bespeelt vakkundig de gitaar
 Een jongen bespeelt een blaasinstrument
 Sommige jongens staan voor dansende mensen
 Een dame is precies wat vlees aan het snijden
-Een grote zangeres danst aan het plafond
+Een grote zanger danst aan het plafond
 De herdershond groepeert een kudde schapen
 Een persoon doet geen trucje op een glijbaan
-Twee grote honden zijn aan het dartelen in een veld
+Twee grote honden zijn aan het stoeien in een veld
 De hond slaat een jongen in het water
 Een vrouw danst prachtig in een kooi
 Iemand roert noedels in het water
 Een snowboarder springt door de lucht
-Twee dieren lopen door het park
+Twee dieren rennen door het park
 De man speelt geen akoestische gitaar
 Een vrouw verwijdert de schil van een aardappel
-Een hond rent een heuvel op vol met gras
-Er is geen vrouw die een groene peper snijdt
+Een hond rent een heuvel vol met gras op
+Er is geen vrouw die een groene paprika snijdt
 Een persoon doet een trucje op een snowboard
 Drie mannen oefenen karate in een sportschool
 Een persoon snijdt een ui in stukken
 Er is geen man die op een mechanische stier rijdt
 Iemand speelt gitaar en zingt
-Er is geen vrouw die op de oogschaduw schrijft
+Er is geen vrouw die oogschaduw aanbrengt
 Iemand verwijdert de schil van een banaan
 Een man rijdt op een waterspeeltje in het water
 Iemand rijdt op een jetski in de golven
-Een vrouw bereidt een ei voor in een koekenpan
+Een vrouw maakt ei klaar in een koekenpan
 Iemand speelt prachtig op de piano
 Een zwarte hond staat in ondiep water
 Een meisje snijdt boter in twee stukken
 Een persoon maakt een potje bakolie schoon
 De man is vrolijk aan het wandelen in het bos
 Vier mensen voeren buiten muziek uit
-Iemand springt in de lucht op een bord
+Iemand springt in de lucht op een board DOUBLECHECK
 Twee jonge meisjes zitten op de grond
 Er is geen raam dat door een man wordt schoongemaakt
 Er is geen hond die langs een sneeuwjacht loopt
@@ -2574,21 +2574,21 @@ De vrouw voegt geen suiker toe aan het vlees
 De menigte kijkt niet naar een voetbalwedstrijd
 De dame snijdt het vlees voorzichtig in stukken
 De man zingt en speelt gitaar
-Een man doet terug flips op een trampoline
-Een man beklimt de klif met een touw
+Een man doet achterwaartse salto's op een trampoline
+Eén man beklimt de klif met een touw
 Een vrouw knijpt sap uit een citroen
 De papegaai praat in de microfoon
 Iemand doet een trucje op een skateboard
 Een man is een zittende gitarist aan het vloeren
-De man schopt niet met een trainer
+De man is niet aan het kickboksen met een trainer
 Niemand rijdt op de fiets op één wiel
-Rugbyspelers pakken elkaar niet aan
+Rugbyspelers tackelen elkaar niet
 De vrouw giet geen olie in de pan
 Een oude, topless vrouw is bedekt met verf
 Iemand giet ingrediënten in een pot
 De dame is een ei aan het breken voor de mixer
 Een man hakt een boom om met een bijl
-Een man haalt de olie uit een koekenpan
+Een man haalt de olie uit een koekenpan ORIGINALTYPO
 Er is geen klein meisje dat piano speelt
 Er is geen hond die van de ene naar de andere kant rolt
 Mensen rijden op twee kamelen op het strand
@@ -2599,13 +2599,13 @@ De persoon is snel een groente aan het snijden
 Een motorrijder zit bij een politieagent
 Een persoon roert groenten in een kom
 Een meisje in een band bespeelt een instrument
-Vier kinderen doen ruggensteunen in het park
+Vier kinderen doen backbends in het park
 Een man is op een schip voor de zonsondergang
 Een zwarte hond beweegt zich op rotsachtig terrein
 De hardlopers racen niet rond een circuit
 Een paar jongens spelen een videospel
 Een lichtbruine hond loopt in het gras
-Een skateboarder valt van een halve pijp af
+Een skateboarder valt van een half pipe af
 Een man eet hongerig een kom ontbijtgranen
 Een man staat zonder shirt op straat
 Een klein meisje slaat een bal van een tee
@@ -2616,13 +2616,13 @@ De dame breekt rauwe eieren in een kom
 Een vrouw zet een kind in een afvalbak
 De dame is een ei aan het kraken voor de mixer
 Sommige kinderen spelen op een speelplaats
-Een vrouw praat op een telefoontoestel
+Een vrouw praat aan een telefoontoestel
 Een man wordt geraakt door een kind met een wapen
 Een man met een hoed loopt door een winkel
 Een man zonder shirt springt over een boomstam
 De man strooit kaas op de pizza
 Een kat glijdt ondersteboven onder een bankstel
-Een clown zingt en de mensen dansen
+Een clown zingt en mensen dansen
 Het jonge kind spettert in het water
 Iemand giet tomatenolie over de man
 Er is geen man die vloeistof in een pot giet
@@ -2630,12 +2630,12 @@ Een man zonder shirt houdt een voetbal vast
 Een jonge vrouw schudt de hand van een man
 Een vis is op jacht naar een schildpad in zee
 Een man zit op een boot voor de zonsondergang
-Iemand springt in de lucht op een bord
+Iemand springt in de lucht op een board
 Er is geen panda beer die wat bamboe eet
-Een hond loopt ademloos op de weg
+Een hond rent ademloos op de weg
 Drie mannen kijken naar iets in de buurt
-Verschillende jumpers zwemmen in het water
-Een man springt op een muur die laag staat
+Verschillende springers zwemmen in het water
+Een man springt op een muur die laag is
 Een hond springt op een boom in de schaduw
 Een jongen slaat een man met een speelgoedwapen
 Een hond met een gouden vacht is uit het water
@@ -2645,29 +2645,29 @@ Motoren worden bereden door twee personen
 Iemand roert geen chili in een ketel
 Een zwarte en bruine hond kijkt naar een insect
 Een jong meisje springt in een stilstaand meer
-Een man daalt een klif af met een touw
+Eén man daalt een klif af met een touw
 Veel cheerleaders lopen in een parade
 Er wordt geen papier met een schaar geknipt
-Een jongen loopt naar de vislijn toe
-Een lichtbruine hond loopt in het water
-Een man bespeelt een gitaar onder een raam
-De man slaat een spijker met een camera
+Een jongen rent naar de vislijn toe
+Een lichtbruine hond rent in het water
+Een man bespeelt een gitaar onder een raam ORIGINALTYPO
+De man slaat op een spijker met een camera
 De patiënt wordt geholpen door de dokter
 Een fotograaf wordt omringd door mannen
 Een kom soep wordt gereinigd door een chef-kok
 Een vrouw gooit eieren in een koekenpan
 Een vrouw leunt op een racemotor
 Een man stopt wat voedsel in een container
-Een peuter rijdt op een plastic scooterspeeltje
+Een peuter rijdt op een plastic speelgoedscooter
 Een man houdt een groot dier in één hand
 Er is geen man die roekeloos op een paard rijdt
 Een jong stel ligt samen op een bed
 Er is geen aap die door een moeras waadt
 Een vrouw opent een frisdrank en drinkt het
-Twee stippels spelen met een rode bal
+Twee teckels spelen met een rode bal ORIGINALTYPO
 Er is geen kat die met een watermeloen speelt
-Een beroemde zangeres danst aan het plafond
-Een stierhond wordt door de aap geborsteld
+Een beroemde zanger danst aan het plafond DOUBLECHECK
+Een bulldog wordt door de aap geborsteld
 Een vrouw legt onhandig vlees in een pan
 Een vrouw serveert volleyballen over een net
 Een hond is ver van de rode bal in de lucht
@@ -2676,12 +2676,12 @@ Een bruid met een witte sluier kijkt naar beneden
 Een man schopt krachtig tegen een voetbal
 De olifant wordt bereden door de vrouw
 De man voedt de slang met een muis
-Een man neemt deel aan een race voor bmxs
+Een man neemt deel aan een race voor BMX'en
 Een vrouw hurkt en houdt een camera vast
-Iemand gooit een kat aan het plafond
+Iemand gooit een kat naar het plafond
 Er zijn geen kinderen die op een standbeeld spelen
 Het meisje springt roekeloos op een auto
-Een hond loopt over een rotsachtig landschap
+Een hond rent over een rotsachtig landschap
 Iemand rijdt op de fiets langs het parcours
 Een man op de fiets rijdt op het strand
 Een racer leunt op een racemotor
@@ -2700,11 +2700,11 @@ Er is geen persoon die wat paddenstoelen snijdt
 Iemand doet de ingrediënten in een pan
 Een vrouw kraakt wat eieren in een kom
 Twee groepen mensen spelen voetbal
-Er is geen hond die loopt met een volleybal
-Mensen rijden en peddelen niet op een vlot
+Er is geen hond die rent met een volleybal
+Mensen rijden en peddelen niet op een vlot DOUBLECHECK
 Een man is boter aan het hakken in een container
 Een man verwijdert een wortel uit een machine
-De olifant wordt over een vrouw gereden
+De olifant wordt over een vrouw heen gereden
 Er is geen surfer die op een surfplank leunt
 Mensen zingen en een clown danst
 Een vogel wappert met zijn vleugels op het water
@@ -2713,30 +2713,30 @@ Een man stopt midden op een weg
 Een bruid met een zwarte sluier kijkt naar beneden
 Er zijn geen kinderen die spelen en wachten
 Een vrouw neemt een mengsel uit een kom
-Een vrouw rust haar vingers uit op een tafel
+Een vrouw laat haar vingers op een tafel rusten
 Er zijn geen kinderen die op een trampoline springen
 Het meisje in de blauwe overall is aan het schilderen
-Een gele hond loopt over een zandpad
+Een gele hond rent een zandpad af
 Er is geen man die een gitaar bespeelt op het podium
 Twee zwarte puppies spelen in de buurt van een zwembad
 Een zwart-witte hond rent naar buiten
 Sommige kinderen springen op een trampoline
 Een persoon doet een trucje met wat kaarten
 Er is geen man die de rand van een kom afveegt
-Een man brengt de achterkant van de race naar boven
+Een man komt als laatste van de race binnen DOUBLECHECK
 Er is geen meisje in het roze dat een lintje draait
-Een man leunt op de richel van een balkon
+Een man leunt op de rand van een balkon
 Twee honden rusten samen in het gras
-De zwart-witte hond loopt binnenshuis
+De zwart-witte hond rent binnenshuis
 Drie jongens in karatekostuums zijn aan het vechten
 De vrouw doet geen make-up op de man
 Sommige paarden rusten op het groene gras
 De man wordt abrupt van een paard geslagen
 De kok bestrooit de pizza met kaas
 Er is geen aap die vechtsporten beoefent
-Een man doet een fietstruc in de lucht
+Eén man doet een fietstruc in de lucht
 Een bruid met een witte jurk kijkt naar beneden
-Een hond springt voor een frisbee in de sneeuw
+Een hond springt naar een frisbee in de sneeuw
 Een getrouwd stel loopt door het gangpad
 Een blonde man hangt aan gymnastiektouwen
 Iemand streelt de buik van een dier
@@ -2762,40 +2762,40 @@ Twee kinderen hangen aan een grote tak
 De vrouw met een mes snijdt een peper
 Iemand giet bakolie in een pot
 Er wordt wat bamboe gegeten door een pandabeer
-Een jongen springt snel van een stoel
+Een jonge jongen springt snel van een stoel
 Een man sluit een gat in een stuk hout
-De lichtbruine hond loopt een straat op
+De lichtbruine hond rent een straat op
 Een paar kinderen springen op een trampoline
 Twee honden spelen samen op het gras
-Een kat wordt door een persoon aan het plafond gegooid
+Een kat wordt door een persoon naar het plafond gegooid
 Een man zonder hoed zit op de grond
 Een skateboarder maakt een sprong van een schans
 Een jongen loopt angstig over een brug
-Mensen groeperen zich op een stand op de beurs
+Mensen groeperen zich op een kraam op de beurs
 Een motorrijder rijdt langs de top van een hek
 Een man bespeelt een gitaar die akoestisch is
 Vijf kinderen staan in een houten hut
-Iemand luistert naar een trompetspel
+Iemand luistert naar trompetspel
 Iemand zingt en speelt gitaar
 Een vrouw gooit volleyballen over een net
 Een vrouw snijdt vlees met een scherp mes
 Een groep padvinders kampeert in het gras
-Veel mensen zitten in een schaatspark
+Een hoop mensen zitten in een schaatspark
 Een grote natte gele hond haalt een stuk speelgoed op
 Een man en een vrouw staan op de stoep
-Er is geen mens die groenten in een pot mengt
+Er is geen man die groenten in een pot mengt
 Een man klopt een alligator op de mond
 Een gele bloem wordt vastgeklampt door een bij
 Een vrouw giet ingrediënten in een kom
 Een meisje communiceert met gebarentaal
 Een man is een stenograafmachine aan het opbergen
-Drie vrienden maken gezichten voor een foto
+Drie vrienden trekken gezichten voor een foto
 Een man snijdt een dik touw door met een zwaard
 Er is geen klein meisje dat op een scooter trapt
 Drie tienermeisjes zitten in de kamer te luieren
 De vrouw bakt een stuk gepaneerd varkensvlees
 Een waterval stroomt in een ondiep bassin
-De machine scheert het uiteinde van een potlood
+De machine slijpt het uiteinde van een potlood
 Er is geen man die een geluiddemper aan een pistool vastmaakt
 Een man snijdt een gat in een stuk hout
 Het kind zwemt door de blauwe oceaan
@@ -2814,13 +2814,13 @@ Een kleine witte hond loopt over een gazon
 Er is geen man die op een elektrische fiets rijdt
 Vier mensen staan geruisloos buiten
 Een man legt een elektronisch apparaat neer
-Een mollige jongen draagt een donkere bril
-De zwarte hond loopt door het gras
+Een jongen met een mollig gezicht draagt een donkere bril
+De zwarte hond rent door het gras
 De snowboarder springt over witte sneeuw
 Een groep kinderen speelt tamboerijnen
 Een man met een zwarte hoed reikt naar een doos
 Sommige kinderen springen van een trampoline af
-Een man speelt gepassioneerd op de gitaar
+Eén man speelt gepassioneerd op de gitaar SOFARSOGOOD
 Een paar mannen lopen wedstrijden buiten
 Een groep mensen danst op een concert
 Een vrouw wordt gemeten door een andere vrouw
