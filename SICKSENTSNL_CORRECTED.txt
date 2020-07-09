@@ -2863,7 +2863,7 @@ De fietser versnelt in een stadsstraat
 Een man is vrolijk aan het spelen met een footbag
 Een gebruind kind kijkt naar de camera
 Drie kleine honden snuffelen aan iets
-Een snowboarder is een lange rail aan het slijpen
+Een snowboarder is van een een lange rail af aan het schuren
 Een vrouw haalt de eieren uit een koekenpan
 Een vrouw aait een hond in de buurt van een stenen pad
 Iemand snijdt champignons met een mes
@@ -3512,7 +3512,7 @@ Mannen in kostuums lopen rond in de straat
 Een kind loopt in en uit de golven van de oceaan
 De vrouw kraakt twee eieren in een glazen schaal
 Een vrouw trekt wat kleverig spul uit een kom
-Een klein kind ligt buiten op een grasrijke omgeving
+Een klein kind ligt buiten op een grasveld
 Een vrouw speelt met twee jonge jongens in een park
 Er is geen man die achterwaarste salto's doet op een trampoline
 Een hond, die bruin is, loopt door de sneeuw
@@ -4026,7 +4026,7 @@ Een handstand wordt uitgevoerd door een man op het strand
 Drie mensen rijden vierwielige quads in een straat
 Een vrouw speelt met een bruine kat op een tuinpad
 Iemand schopt een voetbal tussen zijn voeten
-Een harige bruine hond loopt door het grasgebied
+Een harige bruine hond loopt door het grasveld
 De snowboarder doet een salto over een berg sneeuw
 De man is sierlijk aan het zingen en spelen op de gitaar
 Een bruine en zwarte hond wijst de neus naar beneden
@@ -4265,7 +4265,7 @@ Een in het zwart geklede skiër springt een klein beetje in de lucht
 Verschillende mensen lopen niet in de rij over een brug
 Twee bruine honden spelen met een frisbee in het water
 Een jonge man krijgt een crossmotor een zandheuvel op
-De harige bruine hond rent door het grasgebied
+De harige bruine hond rent door het grasveld
 Er is geen bruine hond die door hoog groen gras rent
 Geen groep mensen verzamelt zich bij een kraam op de beurs
 Een sociale klimmer bindt een man aan een klif met een touw
@@ -4497,28 +4497,28 @@ Een Amerikaanse voetballer draagt de rood-witte strip
 Een hond verspreidt een roedel witte schapen op een stoffige boerderij
 Sommige vrouwen houden elkaar in een kring vast en dansen
 Een gezin koopt niet iets in een automaat
-Een bruine hond loopt achter een witte hond aan op een rotsachtige oever SOFARSOGOOD
+Een bruine hond loopt achter een witte hond aan op een rotsachtige oever
 Een grote zwarte hond springt in de lucht over een besneeuwd gebied
 Er is geen bruine hond die opstaat en een tennisbal vangt
 Een persoon op een fiets zit niet in de lucht in de buurt van een waterlichaam
 De mannen pakken geen koffers in de kofferbak van een auto
-Drie Aziatische kinderen zijn aan het dansen en een serieuze man is op zoek naar
+Drie Aziatische kinderen zijn aan het dansen en een serieuze man kijkt
 Een gele hond loopt op witte sneeuw op een zeer zonnige dag
 Een hond met een blauwe halsband speelt met de bal buiten
 Een man breekt een betonnen plaat met een voorhamer
 De jongen in het blauwe shirt springt in het water
-Een kleine jongen draagt een geel tanktopje en lacht
+Een kleine jongen draagt een gele tanktop en lacht
 Het stelletje mannen speelt rugby op een veld vol modder
 Een zwarte en een witte hond lopen vrolijk over het gras
-Een klein kind is buiten op een grasveldje aan het klimmen
-Er is geen kind in een rode outfit die op een trampoline springt
+Een klein kind is buiten op de trap aan het klimmen in een grasveld
+Er is geen kind in een rode outfit dat op een trampoline springt
 Een jongen van jonge leeftijd speelt in het park met zijn moeder
-Een jongen springt op een stoepje bij een parkeergarage
+Een jongen springt touwtje op een stoep bij een parkeergarage
 Een grote witte hond springt in de lucht over een besneeuwd gebied
-Een man op een groene fiets doet trucjes op een vuilnisbelt
+Een man op een groene fiets doet trucjes op een zandhelling
 Een vader neemt zijn dochter mee uit een zwembad
 Een man is aan het bergbeklimmen, pauzeren en het berekenen van de route
-Twee vrouwen dragen bikini's op het zandstrand
+Twee vrouwen dragen bikini's op het strand dat zanderig is
 De oranje rijder rijdt niet met een motorfiets op één wiel
 Een jachtluipaard achtervolgt zijn prooi ademloos over een veld
 Twee kinderen liggen in de sneeuw en tekenen engelen
@@ -4527,14 +4527,14 @@ Een meisje draagt veel kleurrijke sjaals op het strand
 Een zwart-witte hond speelt met een gebroken volleybal
 Een zwart meisje zonder bikini draagt een hoed op het strand
 Een kind zit in een speelgoedauto, gekleurd in rood en geel
-Mensen hangen aan de riemen en schoppen tegen elkaar aan
-Sommige jonge fietsers krijgen een crossmotor op een zanderige heuvel
+Mensen bungelen aan de riemen en schoppen tegen elkaar aan
+Sommige jonge fietsers krijgen een crossmotor een zandheuvel op
 De kat die op de tafel zit, kijkt niet uit het raam
-Er is geen enkele snowboarder die een berg sneeuw omdraait
-Er zijn geen witte honden die rennen en springen langs het strand
+Er is geen enkele snowboarder die een salto doet over een berg sneeuw
+Er zijn geen witte honden die rennen en springen langs een strand
 Vijf kinderen staan voor een houten hut
-Er is geen hond in een gekleurde vacht die over het erf loopt
-Een tennisser met een groene hoofdband slaat de bal
+Er is geen hond in een gekleurde vacht die over het erf rent
+Een tennisser met een groene hoofdband raakt de bal
 Een vrouw en drie mannen poseren roerloos voor een foto
 Er is geen persoon die een hoed draagt en op het gras zit
 Iemand die voetbalt, schopt een bal in het doel
@@ -4542,62 +4542,62 @@ Twee vrouwen dragen bikini's en lopen op het zand
 Twee mannen gekleed in wit en zwart zitten op een bank
 Een persoon die een spijkerbroek draagt, zit boven op een paardenzadel
 Een blond kind gaat op een glijbaan en gooit zijn armen omhoog
-Een blonde jongen glijdt over een duin van zand op een skateboard naar beneden
-Een koppel zit op een patio en staart naar de oceaan
-Er is geen kleine bijen die op een bos gele bloemen landen
+Een blonde jongen glijdt van een zandduin af op een skateboard
+Een stel zit op een patio en staart naar de oceaan
+Er is geen kleine bij die op een bos gele bloemen landt
 De persoon in het blauwe jasje draagt een kleurrijke helm
 Een vrouw op een rots ligt op een deken en leest een boek
 De mannen stoppen geen koffers in de kofferbak van een auto
 Een dame staat op straat en wordt omringd door kinderen
-Een groep mensen staat rond een geluidsmixertafel
-Een man smeert boter op een groot stuk brood
+Een groep mensen staat rond een mengpaneel
+Een man smeert boter op een groot stuk brood dat groot is
 Er is geen hond die door een veld rent en achter een bal aanzit
 Een man is aan het bergbeklimmen, stoppen en het berekenen van de route
-Een meisje springt van een rots en een ander staat er op
+Een meisje springt van een rots af en een ander staat er op
 Blauwe en zwarte broek worden gedragen door de motorcrossrijder
 Een persoon die het snowboarden beoefent, valt uit de lucht
-Een man die speelt loopt met de bal in zijn handen
+Een man die speelt rent met de bal in zijn handen
 Er is geen paard dat de cowboy in een rode en blauwe broek gooit
 Iemand die aan het snowboarden is, springt in de lucht
 Een persoon met een groen shirt springt hoog over het gras
-Een gebruinde hond spettert in het water op de oever van een rivier
+Een gebruinde hond spettert in het water op de oever van een rivier DOUBLECHECK
 Twee toeschouwers zijn aan het kickboksen en sommige mensen kijken toe
 Het stelletje mannen speelt met de modder op een rugbybalveld
 Het meisje met de zwarte hoed draagt een bikini op het strand
-Er is geen snowboarder die een lange betonnen rail afslijpt
-Een zwart dier nadert een gouden hond op het kiezelstrand
-Een groep voetballers staat stil op het veld
+Er is geen snowboarder van een lange betonnen rail af aan het schuren
+Een zwart dier nadert een gouden hond op een kiezelstrand
+Een groep voetballers staat stil in het veld
 Meerdere mensen zitten aan kleine tafels in een lichte kamer
 Een menigte poseert voor een grote cameraman in zware kleding
-Een gekleurd speeltje wordt door een bruine hond in het gras gedragen
+Een gekleurd speeltje wordt gedragen door een bruine hond in het gras
 Twee jonge vrouwen met gevouwen armen kijken naar het scherm
 Een man doet een skateboardtruc op een openluchtparkeerplaats
 De mensen zitten op een bankje voor een restaurant
 Een jonge gamer speelt met een kind dat een witte jas draagt
-Een zwarte hond springt van n hooibal naar een andere hooibal
-Een groep mensen die voetbalt loopt in het veld
-Een hond loopt langs een hek op een pad vol met vuil
-Twee kinderen en een volwassene staan naast een boomstam
+Een zwarte hond springt van een hooibal naar een andere hooibal
+Een groep mensen die voetbalt rent in het veld
+Een hond rent langs een hek op een pad vol met vuil
+Twee kinderen en een volwassene staan naast een boomtak
 Drie mensen staan bij een bankje onder enkele palmbomen
 Het meisje juicht de man in het blauw-witte uniform toe
 Een groep honden is aan het racen en heeft een muilkorf op de neus
 Een persoon staat in de sneeuw aan de rand van een berg
-Twee mannen houden wat water vast in de buurt van de vispalen
+Twee mannen houden wat water vast en staan dichtbij vishengels
 Een vrouw staat op het strand met een dier aan de lijn
 Er staat niemand in een uitgestrekt veld van gletsjerijs
-De harige bruine hond loopt niet door het gras
-Geen enkele racewagen staat op een weg voor een grasveld
+De harige bruine hond rent niet door het gras
+Geen racewagen staat op een weg voor een grassig parkeerterrein
 De oosterse dame snijdt een wortel niet in dunne stukjes
 Een zwarte kat springt van een hooibal naar een andere hooibal
 Er staat geen witte hond op de bladeren op de grond
-Sommige ingrediënten worden door een persoon in een kom gescheiden
-Een jong kind rent naar buiten over een paar gevallen bladeren
+Sommige ingrediënten worden gescheiden in een kom door een persoon
+Eén jong kind rent naar buiten over een paar gevallen bladeren
 Twee volwassenen staan op een scooter in een veld met bloemen
 Een jong kind, gekleed voor koud weer, staat buiten
-Een meisje springt met een touw op een stoep bij een parkeergarage
+Een meisje springt touwtje op een stoep dicht bij een parkeergarage
 De kinderen van een familie zijn geduldig aan het spelen en wachten
 Een persoon voert een truc uit op een surfplank in het water
-Een man opent een pakje dat geen koptelefoon bevat
+Een man opent een pakje dat geen koptelefoon bevat SOFARSOGOOD
 Een grijze hond stuitert met een voetbal op zijn hoofd op een gazon
 Twee kinderen trekken een opblaasbare krokodil uit een zwembad
 Er is geen kind dat in de sneeuw ligt en sneeuwengelen maakt
@@ -5493,7 +5493,7 @@ Een man in een rode jas en kaki-broek loopt door een Amerikaanse staat
 Een vrouw gebruikt een potlood voor de ogen en brengt een eyeliner aan op haar ooglid
 Twee kinderen in witte outfits en rode beschermende kleding zitten op een matje
 Mensen kijken naar enkele kostuums die in de buurt van het bos zijn verzameld
-Twee bruine en witte honden vechten op een met gras begroeid gebied voor een plant
+Twee bruine en witte honden vechten op een met grasveld voor een plant
 Een motorrijder met een rode helm rijdt op een blauwe motor op de weg
 Twee vrouwen met zwart haar staan gestaag voor een wand van multiplex
 Een jonge zwemmer zit in een badpak en wacht op de volgende wedstrijd
