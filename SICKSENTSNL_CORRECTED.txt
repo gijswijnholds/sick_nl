@@ -3448,7 +3448,7 @@ Mensen lopen niet door een drukke straat
 Twee kinderen spelen geen voetbal in het park
 De vrouw draagt geen bril of een hoofdtooi
 Het jonge meisje in het blauw heeft plezier op een schommel
-De oudere dame wacht niet op het trottoir
+De oudere dame wacht niet op de stoep
 Er is geen kleine hond die een grote bruine koe achtervolgt
 Iemand slaat een cameralens tegen een spijker
 Een klein meisje speelt op een vleugel op het podium
@@ -4277,7 +4277,7 @@ Er zijn geen bruine hond en zwarte hond die in het zand spelen
 Een man schudt een container over een gootsteen in de keuken
 Een man en een jongen springen van een gele kajak
 Drie jongens lopen voorzichtig op rotsen langs een rivier
-Een kleine bruine en witte hond loopt op het trottoir
+Een kleine bruine en witte hond loopt op de stoep
 Een jongen naast een paar emmers met vodden houdt een voorwerp vast
 Een jong meisje in een blauw gympak springt op de grond
 Een groep mensen in een groot Aziatisch restaurant eet
@@ -5067,7 +5067,7 @@ Een voetballer draagt een ambtenaar voorbij een rollende voetbal
 De zwarte hond loopt niet langs een boomstambrug over water DOUBLECHECK
 Het jonge meisje met een roze overhemd ligt vredig op het gras
 De vrouw is niet op de gitaar, die akoestisch is, aan het spelen, of aan het zingen
-Een jong kind rijdt op een driewielige scooter over het trottoir
+Een jong kind rijdt op een driewielige scooter over de stoep
 Een vrouwelijke cheerleader springt op de knie van een mannelijke cheerleader
 Een autocoureur staat op en wijst met zijn hand naar de hemel
 De jonge jongens spelen buiten en de man lacht in de buurt
@@ -5254,7 +5254,7 @@ Een hond naast een boom, die waarschijnlijk een den is, laat een emmer vallen
 Twee mensen in sneeuwpakken liggen in de sneeuw en maken sneeuwengelen
 Er is geen bmx biker die over zandhellingen springt voor een waterlichaam
 Een bruine puppy knaagt aan een metalen paal die vastzit in de grond
-Niemand loopt door de sneeuw van het prachtige sneeuwlandschap
+Niemand treedt door de sneeuw van het prachtige sneeuwlandschap
 Er is geen persoon die een grijze broek draagt in de lucht op een snowboard
 Een hond springt op droge bladeren in een veld met glimmende blauwe voetballen
 Sommige mensen zitten in de sneeuw, met kleren aan die voor camouflage zorgen
@@ -5552,7 +5552,7 @@ Vijf mensen staan met drie honden in het groene veld naast de weg
 Er zijn geen honden van verschillende rassen die naar elkaar kijken aan de overkant van de straat
 Een man draagt een blauw geruit hemd en rijdt op een eenwieler in de straat
 Er is geen kleine jongen die op de grond rent en met een klein meisje speelt
-Een witte kat die op een klein houten kastje zit, kijkt naar buiten door het raam
+Een witte kat die op een klein houten kastje zit, kijkt door het raam naar buiten
 De hond, die zwart-wit is, is aan het rennen en er staat een persoon achter
 Een kleine jongen met bruin haar springt van een bruine stoel af op de grond
 Twee mannetjes staan op een klifrand en niemand springt in het water
@@ -5797,35 +5797,35 @@ De vrouw in een rood kostuum leunt tegen een bakstenen muur en bespeelt een inst
 Een kleine jongen steekt zijn tong uit voor de camera en een andere jongen kijkt toe
 Een man draagt een paars shirt en zwarte leren chaps en poseert voor de camera
 Een man met verf bedekte kleren zit buiten in een drukbezochte ruimte iets te schrijven DOUBLECHECK
-Een vrouw wordt besmeurd met een bruine substantie en een wazige menigte is op de achtergrond SOFARSOGOOD
+Een vrouw wordt besmeurd met een bruine substantie en een wazige menigte is op de achtergrond
 Twee grote honden, een lichtgekleurde en een donkere, lopen door besneeuwd terrein
-Een klein meisje en een vrouw die een geel shirt draagt, worden in de buurt van een fontein gespat
-Een vrouw met een blauw shirt en hoge hakken staat op het trottoir naast een hond
-Een man staat op een rots hoog boven enkele bomen en staat in een ongemakkelijke positie
-Een kind speelt buiten met een waterspuwer en de rest van zijn familie kijkt toe
+Een klein meisje en een vrouw die een geel shirt draagt, worden bespat in de buurt van een fontein
+Een vrouw met een blauw shirt en hoge hakken staat op de stoep naast een hond
+Een man staat op een rots hoog boven een aantal bomen en staat in een ongemakkelijke positie
+Een kind speelt buiten met een waterhoos en de rest van zijn familie kijkt toe
 Een man in het groen schopt een voetbal en een man in het paars en wit valt naar beneden
-Er is geen hond die zich op de oever bevindt en een andere bruine hond in de vijver bekijkt
-De vrouw draagt een grote zonnebril en houdt de kranten in beide handen
+Er is geen hond die op de oever staat en naar een andere bruine hond in de vijver kijkt
+De vrouw draagt een grote maat zonnebril en houdt kranten in beide handen
 Een vrouw trekt een mantel uit, die erg groot is, en onthult extravagante kleding
-Een vrouw met een blauw shirt en hoge hakken staat op het trottoir naast een man
-Een man met een witte snor zit op een balkon en kijkt naar de weg eronder
-Een man in het groen slaat een voetbal en een man in het paars en wit valt naar beneden
-De vrouw die een zilveren broek, een roze klokbodem en een roze sjaal draagt, rijdt niet op een fiets
+Een vrouw met een blauw shirt en hoge hakken staat op de stoep naast een man
+Een man met een witte snor zit op een balkon en kijkt naar de weg erbeneden
+Een man in het groen raakt een voetbal en een man in het paars en wit valt naar beneden
+De vrouw die een zilveren broek, roze bell bottoms en een roze sjaal draagt, rijdt niet op een fiets
 De menigte kijkt naar twee auto's die ontworpen zijn om te racen en die de startlijn verlaten
-Een jong meisje met een roze bordje houdt een blauw shirt omhoog en loopt op het trottoir
+Een jong meisje naast een roze bord houdt een blauw shirt omhoog en loopt op de stoep
 Een witte rallyauto gooit modder in de lucht en nadert een bocht in de baan
 Een zwarte rallyauto gooit modder in de lucht en nadert een bocht in de baan
-Een volledig gekleed persoon zit achter een stapel rotsen en een heldere hemel is op de achtergrond
+Een volledig gekleed persoon zit achter een stapel rotsen en een heldere lucht is op de achtergrond
 Een kleine jongen steekt zijn tong uit voor de camera en een andere jongen kijkt niet
 De man staat niet op een rotsachtige berg en grijze wolken zijn niet op de achtergrond
-Een bal van hout wordt gespeeld door een deur voor een grote groep jongens
-Een kind in lichtgekleurde kleding staat met gestrekte armen naar buiten
+Een bal van hout wordt door een deur gespeeld voor een grote groep jongens
+Een kind in kleding die lichtgekleurd is staat met de armen naar buiten gestrekt
 Een jongen klimt op een muur die kunstmatig is gebouwd om te klimmen en is vastgemaakt aan een touw
-Een grote hond en een kleine hond staan naast het aanrecht en zijn aan het snuffelen
-Een klimmer aan de muur is met een kunstmatig gebouwd touw aan de klimjongen bevestigd
+Een grote hond en een kleine hond staan naast het keukenaanrecht en zijn aan het snuffelen
+Een klimmer aan de muur zit vast aan de klimmende jongen met een kunstmatig gebouwd touw
 Een vrouw, die jong en Aziatisch is, met roze gekleurde handschoenen, staat in de sneeuw
 Een jongen springt van de kant van een waterfontein van steen voor een gebouw
-Een man op blote voeten in een pyjama kijkt naar de hemel en loopt op de tennisbaan
+Een blootvoetse man in een pyjama kijkt naar de lucht en loopt op de tennisbaan
 Een oude vrouw draagt een overhemd met rozenmotief en draagt onhandig twee kranten
 Een jongen onder een paraplu wordt vastgehouden door zijn vader die een blauw geverfde jas draagt
 Een hond die harig en zwart is, zit in een achtertuin en draagt een mandje in zijn bek
@@ -5833,71 +5833,71 @@ De ijshockeykeeper draagt geen gele trui en verdedigt het doel niet
 Het jonge meisje speelt op de rand van een fontein en een oudere vrouw kijkt naar haar
 De kleine jongen steekt zijn tong uit voor de camera en een andere jongen kijkt toe
 De man op het strand doet geen handstand op het natte zand aan de rand van het water
-Er is geen jong meisje in een winterjas die van een kei in het zand springt op een strand
-De man staat op een meestal kale grond en filmt een wheelie met een motor
+Er is geen jong meisje in een winterjas die van een kei af in het zand springt op een strand
+De man staat op een voornamelijk kale grond en filmt een wheelie die wordt gedaan met een motor
 Een hond die harig en zwart is, zit in een achtertuin en draagt een mandje in zijn bek
-Een model draagt een paars overhemd en zwarte lederen chaps en poseert voor de camera
+Een model draagt een paars overhemd en zwarte leren chaps en poseert voor de camera
 Mensen bij een dragrace rennen weg van de vlammen die uit de auto's komen
 Een basketbalspeler staat op de vloer van het veld en de bal wordt gepakt door een andere speler
 Een grote, grijze bal raakt een rennende hond, die wat gras in zijn bek draagt
 Een vrouw rijdt in een auto en praat geanimeerd tegen de man die naast haar zit
 Een man draagt een blauw geruit hemd en rijdt vrolijk op een eenwieler in de straat
-Een man met een witte snor staat op een balkon en kijkt naar de weg eronder
+Een man met een witte snor staat op een balkon en kijkt naar de weg erbeneden
 Een vrouw doet een mantel af, die erg groot is, en onthult een extravagante jurk
-Een klaslokaal vol met leerlingen kijkt in dezelfde richting binnen een bamboestructuur
+Een klaslokaal vol met leerlingen kijkt in dezelfde richting binnenin een bamboestructuur
 Een karatebeoefenaar schopt tegen een andere man die beschermende bokshandschoenen draagt
-Een kleine jongen en een vrouw met een geel overhemd worden bespat door een stadsfontein
+Een kleine jongen en een vrouw die met een geel overhemd draagt worden bespat door een stadsfontein
 Een man uit het midden-oosten staat met de rug tegen een lantaarnpaal in de buurt van andere mensen
-Het meisje heeft rood haar en rode wenkbrauwen, verschillende piercings in een oor en een tatoeage op de rug
-Sommige korenhonden worden opgegeten door twee peuters die in een wagon zitten, die echt klein is
-Een vrouw met een blauw shirt en hoge hakken staat op het trottoir naast de man
+Het meisje heeft rood haar en wenkbrauwen, meerdere piercings in een oor en een tatoeage op de rug
+Sommige corndogs worden opgegeten door twee peuters die in een wagon zitten, die echt klein is
+Een vrouw die een blauw shirt en hoge hakken draagt staat op de stoep naast de man
 Een persoon met een rode jas met capuchon en een zwarte rugzak loopt niet in de buurt van een rotswand
 Er is geen vrouw die een grote zonnebril draagt en kranten in beide handen heeft
-Mensen in kostuums verzamelen zich in een bos en kijken in dezelfde richting
-Een groep honden die gefokt zijn voor het racen draagt gestreepte uniformen en loopt over een parcours
-De vrouw gekleed in lederen chaps en een paars overhemd staat voor de toeschouwers
-Een man op blote voeten in een pyjama kijkt naar de hemel en staat op de tennisbaan
+Mensen in kostuums verzamelen in een bos en kijken in dezelfde richting
+Een groep honden die gefokt zijn voor het racen draagt gestreepte uniformen en rent over een parcours
+De vrouw gekleed in leren chaps en een paars overhemd staat voor de toeschouwers
+Een blootvoetse man in een pyjama kijkt naar de lucht en staat op de tennisbaan
 Een rode slee wordt vastgehouden door een klein meisje in een groene jas en een jongen die in de sneeuw loopt
 De witte rallyauto gooit modder in de lucht en nadert een bocht in de baan
 De man met een cowboyhoed loopt door een markt en steekt een hand in zijn zak
 Een vrouw trekt een mantel aan, die erg groot is, en verbergt een extravagante jurk
-Sommige mensen lopen door de sneeuw van het landschap dat mooi en besneeuwd is
+Sommige mensen treden door de sneeuw van het landschap dat mooi en besneeuwd is
 Er is geen hond die harig en zwart is in een achtertuin met een mandje in zijn bek
 Het meisje draagt een wit hemd en een roze rok en staat voor een huis
 Een jong kind draagt laarzen van groen rubber en speelt in een plas vol modder
-Een roze hemd met witte letters erop wordt gedragen door een meisje dat in het gras ligt
+Een roze hemd met wit schrift erop wordt gedragen door een meisje dat in het gras ligt
 Een topless vrouw wordt besmeurd met een bruine substantie en een niemand staat op de achtergrond
-Een groep moeders in uniformen staat bij de kinderen en een van hen kust het hek
+Een groep moeders in uniformen staat bij de kinderen en één kust het hek
 Een vrouw snowboard snel een helling af en een andere vrouw staat achter haar
-Een klein meisje en een vrouw met een geel overhemd worden bespat door een stadsfontein
-Een man op blote voeten in een pyjama kijkt naar de sterren en loopt op de tennisbaan
-Een gele palm staat voor een gebouw en een donker gevild mannetje staat ernaast
-Het meisje heeft rood haar en rode wenkbrauwen, verschillende piercings in een oor en een tekening op de rug
+Een klein meisje en een vrouw die een geel overhemd draagt worden bespat door een stadsfontein
+Een blootvoetse man in een pyjama kijkt naar de sterren en loopt op de tennisbaan
+Een gele palm staat voor een gebouw en een mannetje met donkere huid staat ernaast
+Het meisje heeft rood haar en wenkbrauwen, verschillende piercings in een oor en een tekening op de rug
 Een vrouw die een roze sjaal draagt, rijdt op een fiets over een brug die voor voetgangers is gebouwd
 Een kind spettert in een zwembad voor kinderen en andere kinderen spelen op de achtergrond
-Een man draagt geen paars hemd en zwarte lederen chaps en poseert voor de camera
-Het meisje heeft rood haar en rode wenkbrauwen, verschillende piercings in een oor en geen tatoeage op de rug
+Een man draagt geen paars hemd en zwarte leren chaps en poseert voor de camera
+Het meisje heeft rood haar en wenkbrauwen, verschillende piercings in een oor en geen tatoeage op de rug
 Een man in een paars geverfd hemd loopt weg van een man in een zwart hemd, die serieus is
-Een jong meisje speelt op de rand van een fontein en een oudere vrouw let niet op haar
+Een jong meisje speelt op de rand van een fontein en een oudere vrouw kijkt niet naar haar
 De man staat op een berg, die rotsachtig is, en grijze wolken staan op de achtergrond
 Een groep mensen loopt op straat en een persoon met een groene hoed is aan de telefoon
-Een jong meisje in een jas die voor de winter is gemaakt, springt van een rotsblok in het zand op een strand
+Een jong meisje in een jas die voor de winter is gemaakt, springt van een rotsblok af in het zand op een strand
 Het kind speelt buiten met de waterhoos en de rest van zijn familie kijkt toe
 Drie mannen zitten op een berghelling en kijken met een verrekijker naar het uitzicht
 Een vrouw uit het Midden-Oosten staat met haar rug tegen een lantaarnpaal in de buurt van andere mensen
 Een meisje in een oranje overhemd en clown make-up loopt in een park en anderen kijken toe
 Het kleine kind waadt niet door het water en wordt niet begeleid door een ander persoon
-Twee grote personen zitten op een parkbank en hebben een flesje frisdrank tussen zich in
+Twee grote personen zitten op een parkbank en hebben een flesje frisdrank tussen hen in
 Een vrouw die een roze boa draagt, rijdt op een fiets over een brug die voor voetgangers is gebouwd
-Een jongen, die er jong uitziet en een rood badpak draagt, springt in een blauw kinderbad
-Een dappere performer doet een wheelie met een motor over een man in een blauwe jumpsuit
-De vrouw houdt een wit jasje en een rood glas voor de man met een t-shirt
+Een jongen, die er jong uitziet en een rood badpak draagt, springt in een blauw kinderbadje DOUBLECHECK
+Een dappere artiest doet een wheelie met een motor over een man in een blauw jumpsuit
+De vrouw houdt een wit jasje en een rood glas vast voor de man die een t-shirt draagt
 Een man en een vrouw staan voor een kunstgalerie en kijken naar een uithangbord
-Een man staat aan het stuur van een klassieke Amerikaanse auto die de deur en de kofferbak open heeft staan
-Een kat met een witte jas, die op een klein houten kastje zit, kijkt buiten het raam
-De man in het rode jasje staat naast de gele kajak op enkele rotsen bij de oceaan
-Twee mannen doen een sketch, wat erg grappig is, met een bokser voor een menigte mensen
-Er loopt geen jong meisje in een blauw shirt op de stoep en houdt een roze bordje omhoog
+Een man staat aan het stuur van een klassieke Amerikaanse auto die de deur en de kofferbak open heeft
+Een kat met een witte vacht, die op een klein houten kastje zit, kijkt door het raam naar buiten
+De man in het rode jasje staat naast de gele kajak op een paar rotsen bij de oceaan
+Twee mannen doen een sketch, die erg grappig is, met een bokser voor een menigte mensen
+Er is geen jong meisje in een blauw shirt dat op de stoep loopt en een roze bord omhoog houdt SOFARSOGOOD
 De groep mensen zit op een richel die rotsachtig is en er zit een mooi uitzicht achter
 Er staat geen man in een rood jasje naast een gele kajak op enkele rotsen bij de oceaan
 Een man in een blauwe spijkerbroek staat voor een groep kinderen naast een stenen huis
@@ -5964,7 +5964,7 @@ Een meisje in een blauw shirt, dat er jong uitziet, loopt op de stoep en houdt e
 Er is geen klaslokaal vol met leerlingen die in dezelfde richting kijken binnen een bamboestructuur
 Er is geen vrouw die een helling afloopt en er is geen andere vrouw die achter haar staat
 Een vrouw die een roze boa opstijgt, houdt haar fiets tegen op een brug die voor voetgangers is gebouwd
-Een vrouw hurkt naast een hond en lacht naar een jong meisje dat op het trottoir zit
+Een vrouw hurkt naast een hond en lacht naar een jong meisje dat op de stoep zit
 Sommige groene laarzen in een plas vol modder zijn het doelwit van een speels jong kind dat een sjaal draagt
 Er is geen karatebeoefenaar die tegen een andere man schopt die beschermende bokshandschoenen draagt
 De lachende jongen in winterkleren zwaait met zijn handjes buiten het gebouw in de sneeuw
@@ -5978,13 +5978,13 @@ Een vrouw spreekt op haar mobiele telefoon en houdt een tasje en een gele tas op
 Een speler gekleed in zwart-wit houdt het tennisracket omhoog en wacht op de bal
 Een groep kinderen met dezelfde kleren wacht bij een hekje en men kust de moeder
 Een kind spettert in een zwembad voor kinderen en er spelen geen andere kinderen op de achtergrond
-Een vrouw hurkt naast een hond en lacht naar een klein meisje dat op het trottoir zit
+Een vrouw hurkt naast een hond en lacht naar een klein meisje dat op de stoep zit
 De vrouw in een rood kostuum leunt niet tegen een stenen muur en bespeelt geen instrument
 Een man staat met blote handen naast een gele kano op enkele rotsen met water op de achtergrond
 Er is geen persoon op een fiets die door de lucht springt met de zon die door het fietsframe flitst
 Een grote tennisbal wordt gebruikt om een hond te leren rennen in het gras en hem te vangen met zijn bek
 Een racer in volle uitrusting draagt een helm met sponsorlogo's en rijdt op een rode sportmotor
-Twee personen van groot formaat zitten op een parkbankje en hebben een flesje frisdrank tussen zich in
+Twee personen van groot formaat zitten op een parkbankje en hebben een flesje frisdrank tussen hen in
 Twee jongens dragen bruine shirts en trekken enthousiast aan een touw op een houten platform
 Het blonde meisje met het roze topje lacht en draagt een grappige bril met een grote neus
 Een topless persoon met een rugzak staat voor een stapel rotsen en de wolken staan op de achtergrond
