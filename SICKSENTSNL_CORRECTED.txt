@@ -401,12 +401,12 @@ De panda eet bamboe
 Een man duikt van een rots af
 Een man leest de e-mail
 De man zit binnen
-Een kat speelt keyboard
+Een kat speelt op keyboards
 Een schattige panda ligt
 Een man zingt voor een meisje
 De man vangt een vis
 De man tilt gewichten op
-Een man speelt keyboard
+Een man speelt op keyboards
 Honden racen op een circuit
 Een man maait geen gazon
 Een man speelt fluit
@@ -507,7 +507,7 @@ Iemand houdt een stinkdier vast
 De kat eet wat maïs
 Er is geen kind dat wakker wordt
 Een vrouw snijdt broccoli
-Een man bespeelt een keyboard
+Een man speelt op een keyboard
 Een vrouw frituurt voedsel
 Een man is een mes aan het slijpen
 Een groep mensen is stil
@@ -699,7 +699,7 @@ Een man is stationair op de vloer
 Een band treedt op het podium op
 Een man schiet met een boog
 Een vrouw voegt eieren samen
-De kat speelt keyboard
+De kat speelt op keyboards
 De jongen rijdt op een driewieler
 De baby is vrolijk aan het kruipen
 Iemand schopt een aap
@@ -847,7 +847,7 @@ Een vrouw loopt van een podium af
 Er is geen vrouw die eieren kookt
 Een vrouw snijdt een groente
 Een jong stel ligt in bed
-Een man speelt geen keyboard
+Een man speelt niet op keyboards
 Iemand speelt met een kikker
 Een hond ligt op een trampoline
 Het regent op een wandelende man
@@ -926,7 +926,7 @@ Een persoon pakt een courgette in
 Een man wandelt in de regen
 Een vrouw danst bij een vuur
 De dame is de aardappel aan het schillen
-Een persoon bespeelt een keyboard
+Een persoon speelt op een keyboard
 Een hond opent een potje met voedsel
 Een groep mensen staat
 Een jongen speelt op een instrument
@@ -1024,7 +1024,7 @@ Een deur wordt geopend door een man
 Een dier rent in rondjes
 Een vrouw snijdt wat bloemen
 De man gaat het water in
-Een man danst aan het plafond
+Een man danst op het plafond
 Een man giet olie in een pan
 Er wordt gitaar gespeeld door een man
 Een vrouw rijdt op een bruin paard
@@ -1168,7 +1168,7 @@ Twee honden spelen in de sneeuw
 Er is niemand die een banaan pelt
 Een man met een hoed bespeelt een harp
 Drie kinderen rennen de heuvel af
-Een bruine hond rust uit in de sneeuw
+Een bruingele hond rust uit in de sneeuw
 De persoon speelt op de gitaar
 Eieren worden gekookt door een vrouw
 Er is geen meisje dat fluit speelt
@@ -1355,7 +1355,7 @@ Een vrouw koelt een aardappel
 Een kale persoon speelt op een gitaar
 De dame eet plakjes vlees
 Een kleine jongen speelt met een hond
-Er is geen kat die keyboard speelt
+Er is geen kat die op keyboards speelt
 Twee mannen staan in de oceaan
 De das graaft geen gat
 Niemand is aan het knokken in een ring
@@ -1391,7 +1391,7 @@ Een afspeelapparaat vermaakt een kat
 Een hond loopt weg van een baby
 De vrouwen zingen en dansen
 De neushoorn graast op het gras
-Een bruine hond rust in de buurt van een borstel
+Een bruingele hond rust in de buurt van een borstel
 Een vrouw rijdt op een waterscooter
 Een vrouw gooit een aardappelschil
 De surfer rijdt op een kleine golf
@@ -1437,7 +1437,7 @@ Iemand houdt een klein dier vast
 Er is geen chef-kok die een maaltijd bereidt
 Het meisje is aan het draven op het paard
 Een vrouw eet een stuk vlees
-Een meisje is aan het touwtje springen in een park
+Een meisje springt touwtje in een park
 Sommige honden spelen in een beekje
 Er is geen man die de e-mail leest
 Een hond stuitert op een trampoline
@@ -1820,7 +1820,7 @@ Drie vrouwen rennen in een dorp
 Drie kinderen springen in de bladeren
 Er is geen vrouw die viool speelt
 Iemand rijdt op een oude motor
-Een hond zwemt in een hoop water
+Een hond zwemt in een waterlichaam
 Een man staat voor een muur
 De man rijdt op een paard bij een beek
 Er is geen motorrijder die in de lucht springt
@@ -1913,7 +1913,7 @@ Een kat speelt met een klein flesje
 Een vrouw snijdt een teen knoflook
 De man spreekt aan de telefoon
 Een vrouw is een stuk vlees aan het kruiden
-Een grote hond beklimt een steile heuvel
+Een grootse hond beklimt een steile heuvel
 Een man is atletisch op een muur aan het springen
 Iemand is een stuk papier aan het vouwen
 Een vrouw is langzaam een aardappel aan het schillen
@@ -2019,7 +2019,7 @@ Er is geen vrouw die op haar vingers tikt
 De baby lacht en kruipt niet
 Een koppel rent en houdt handen vast
 Een man skiet van een besneeuwde berg af
-Een meisje is aan het touwtjespringen op een stoep
+Een meisje springt touwtje op een stoep
 Uien worden door de persoon in stukken gesneden
 Een geconcentreerde vrouw speelt fluit
 Een kat zwemt achter een tennisbal aan
@@ -2041,7 +2041,7 @@ Motorrijders rijden niet op een parcours
 Een man springt in de lucht in hout
 De bruine hond speelt niet buiten
 De aardappel wordt geschild door een vrouw
-Mensen rijden en peddelen op een vlot DOUBLECHECK
+Mensen rijden en peddelen op een vlot
 Een vrouw botert een stuk brood in
 Een jongen is aan het skateboarden op een halfpipe
 Twee honden rennen door het park
@@ -2081,7 +2081,7 @@ Een bang jongetje ligt op de grond
 De pianospeler is een stoere man
 Twee mannen lopen door het water
 Een vrouw speelt op een elektrische gitaar
-Een bruine hond loopt door de sneeuw
+Een bruingele hond loopt door de sneeuw
 De dokter helpt de patiënt niet
 Een man is langzaam aan het wandelen in het bos
 De mensen staan op een kermis
@@ -2155,7 +2155,7 @@ Een band bespeelt sommige instrumenten niet
 Een man op een motor doet een truc
 Fretten klimmen van een plank naar beneden
 Een zwarte vogel zit op een dode boom
-Een zwarte hond en een bruine hond zijn aan het vechten
+Een zwarte hond en een bruingele hond zijn aan het vechten
 De vrouw meet de andere vrouw
 Een man met een hoed loopt langs een winkel
 Er is geen man die op een houten fluit speelt
@@ -2186,7 +2186,7 @@ Een kind oefent met een instrument
 Een kleine witte hond loopt in een gazon
 De hond beweegt zich door het natte zand
 Een persoon staat in de buurt van een motor
-Een zwarte hond en een bruine hond slapen
+Een zwarte hond en een bruingele hond slapen
 Er is geen persoon die wat gember snijdt
 Er wordt wat tofu gesneden door één vrouw
 Er is geen kind dat een waterpistool vasthoudt
@@ -2212,7 +2212,7 @@ Het hert springt niet over het hek
 De man verwijdert messen uit een boom
 Een dame staat dicht bij drie kinderen
 Een man op een fiets rijdt op de wal
-Een bruine hond loopt door de borstel POSMISTAKE
+Een bruingele hond loopt door de borstel POSMISTAKE
 Een meisje in het blauw glijdt van een glijbaan af
 De vrouwen zijn goddelijk aan het dansen buiten
 Een man spoelt een groot stuk vlees af
@@ -2372,7 +2372,7 @@ Iemand laat het vlees in een pan vallen
 Een man hurkt en houdt een camera vast
 Een potlood wordt door de machine geschoren
 De man rijdt niet op een mechanische stier
-Een gitarist heeft blond en opvliegend haar DOUBLECHECK
+Een gitarist heeft blond en wegvliegend haar
 Een hond rent door de witte sneeuw
 Een man leunt op een racemotor
 Een houten fluit wordt bespeeld door een man
@@ -2423,7 +2423,7 @@ Een dier speelt met een klein flesje
 Een vrouw, die oud is, is in de buurt van een witte hond
 Een vrouw is het water uit een mok aan het legen
 Een vrouw snijdt wat vlees in stukken
-De lucht bedriegt een uitvoerende fietser DOUBLECHECK
+De lucht bedriegt een presterende fietser
 Een jongen met een mollig gezicht draagt een zonnebril
 Een meisje heeft gekleurde vlekken op de wangen
 Een vrouw danst sierlijk op een podium
@@ -2442,7 +2442,7 @@ Een man houdt een elektronisch apparaat omhoog
 Twee kinderen spelen niet in de branding
 Een jong meisje zit in zwemkleding
 Een klein meisje stapt uit een speelgoedauto
-Een meisje springt touw in de buurt van een straat DOUBLECHECK POSMISTAKE
+Een meisje springt touwtje in de buurt van een straat ORIGINALTYPO
 De staart van een hond wordt getrokken door een aap
 De jongen in de blauwe overall is aan het schilderen
 Meerdere kinderen springen op een trampoline
@@ -2452,7 +2452,7 @@ De aap beoefent geen vechtsporten
 Een vogel rust zijn vleugels uit in het water
 Een herdershond drijft een kudde schapen uiteen
 Twee fietsen worden bereden door twee personen
-Een hond zwemt niet in een waterlichaam DOUBLECHECK
+Een hond zwemt niet in een waterlichaam
 De man giet olie op een paar tomaten
 Een dier zwemt in een waterlichaam
 Een man doet niet mee aan een bmx-race
@@ -2479,7 +2479,7 @@ Een getrouwd stel loopt het gangpad op
 Een vrouw draagt een Egyptische hoofdtooi
 Een vrouw is voorzichtig haar make-up aan het verwijderen
 De fietser rijdt door een stadsstraat
-Een grote hond gaat een steile heuvel af
+Een grootse hond gaat een steile heuvel af
 Een bruine en zwarte hond kijkt omhoog
 Een man snijdt een groot touw door met een zwaard
 Een vrouw tikt met haar vingers op een bureau
@@ -2533,7 +2533,7 @@ De man bespeelt vakkundig de gitaar
 Een jongen bespeelt een blaasinstrument
 Sommige jongens staan voor dansende mensen
 Een dame is precies wat vlees aan het snijden
-Een grote zanger danst aan het plafond
+Een grootse zanger danst op het plafond
 De herdershond groepeert een kudde schapen
 Een persoon doet geen trucje op een glijbaan
 Twee grote honden zijn aan het stoeien in een veld
@@ -2562,7 +2562,7 @@ Een meisje snijdt boter in twee stukken
 Een persoon maakt een potje bakolie schoon
 De man is vrolijk aan het wandelen in het bos
 Vier mensen voeren buiten muziek uit
-Iemand springt in de lucht op een board DOUBLECHECK
+Iemand springt in de lucht op een board
 Twee jonge meisjes zitten op de grond
 Er is geen raam dat door een man wordt schoongemaakt
 Er is geen hond die langs een sneeuwjacht loopt
@@ -2666,7 +2666,7 @@ Er is geen aap die door een moeras waadt
 Een vrouw opent een frisdrank en drinkt het
 Twee teckels spelen met een rode bal ORIGINALTYPO
 Er is geen kat die met een watermeloen speelt
-Een beroemde zanger danst aan het plafond DOUBLECHECK
+Een beroemde zanger danst op het plafond
 Een bulldog wordt door de aap geborsteld
 Een vrouw legt onhandig vlees in een pan
 Een vrouw serveert volleyballen over een net
@@ -2701,7 +2701,7 @@ Iemand doet de ingrediënten in een pan
 Een vrouw kraakt wat eieren in een kom
 Twee groepen mensen spelen voetbal
 Er is geen hond die rent met een volleybal
-Mensen rijden en peddelen niet op een vlot DOUBLECHECK
+Mensen rijden en peddelen niet op een vlot
 Een man is boter aan het hakken in een container
 Een man verwijdert een wortel uit een machine
 De olifant wordt over een vrouw heen gereden
@@ -2861,7 +2861,7 @@ Iemand wordt gekookt met okra in een pot
 Een vrouw laat de hond op straat lopen
 De fietser versnelt in een stadsstraat
 Een man is vrolijk aan het spelen met een footbag
-Een gebruind kind kijkt naar de camera
+Een kind met bruingele huid kijkt naar de camera
 Drie kleine honden snuffelen aan iets
 Een snowboarder is van een een lange reling af aan het schuren
 Een vrouw haalt de eieren uit een koekenpan
@@ -2967,7 +2967,7 @@ Een voetballer draagt zwarte armbanden
 De vrouw bakt geen gepaneerde varkenskotelet
 Een vrouw maakt een koekenpan klaar voor de eieren
 Een groep rijdt niet met de stroom mee in een vlot
-Een grote hond is wild bezig met het beklimmen van een steile heuvel
+Een grootse hond is wild bezig met het beklimmen van een steile heuvel
 Een kok snijdt snel wat paprika's in stukken
 De man is de tekening op het bord aan het uitwissen
 Een blond meisje hangt aan gymnastiektouwen
@@ -3016,7 +3016,7 @@ Het jonge meisje in het blauw springt in de lucht
 Er is geen konijn dat met een speelgoedkonijn speelt
 Kinderen in rode shirts spelen in de bladeren
 De man rijdt op een stier die mechanisch is
-Een gebruind kind kijkt naar de camera
+Een kind met bruingele huid kijkt naar de camera
 Een man voert een handstand uit op het strand
 Twee bange jongens praten aan de telefoon
 Een jongen slaat een man met een plastic zwaard
@@ -3079,7 +3079,7 @@ Een man vult een container van plastic
 Een jongen speelt slip en glijdt in het gras DOUBLECHECK
 Een voetbal rolt niet in een doelnet
 Een zwarte hond springt van een dok in het water
-Twee preadolescente tweelingjongens spelen met kaarten DOUBLECHECK
+Twee preadolescente tweelingjongens spelen met kaarten
 De gitarist houdt hartstochtelijk van de man
 Een man loopt langzaam over een touwbrug
 Een man is vrolijk aan het spelen met de voetzak
@@ -3101,7 +3101,7 @@ Mensen zitten 's nachts rond een vreugdevuur
 Een witte hond staart naar de zwarte straat
 De motorrijder rijdt langs de top van een hek
 Er wordt wat kaas op een pizza gelegd door een man
-De groep mensen zit in een schemerige kamer
+De groep mensen zit in een slecht verlichte kamer
 Een tienermeisje draagt kralen die rood zijn
 Een meisje snijdt de boter in twee stukken
 Een vrouw, die oud is, is verre van een blanke hond
@@ -3109,7 +3109,7 @@ Verschillende mensen steken in de rij een brug over
 Een waterval stroomt uit een ondiep bassin
 Er is geen man die een geweer met kogels laadt
 Een man slaat een jongen met een plastic zwaard
-Vier kinderen doen backbends in de sportschool DOUBLECHECK
+Vier kinderen doen backbends in de sportschool
 De man is een boomstam aan het hakken met een bijl
 De dame breekt geen rauwe eieren in een kom
 Een prooi loopt snel achter de jachtluipaard aan
@@ -3147,14 +3147,14 @@ Drie jongens rusten op rotsen langs een rivier
 Er is geen man die een schoonmaakmiddel in de gootsteen giet
 Er wordt wat vlees in stukken gesneden door een vrouw
 Een meisje steekt met haar arm een blauw uniform op
-Twee preadolescente tweelingkinderen zijn aan het duelleren met stokken DOUBLECHECK
+Twee preadolescente tweelingkinderen zijn aan het duelleren met stokken
 Een vrouw verwijdert cosmetica van haar ooglid
 De man stopt kip in de container
 Een oude man met een grijze baard rijdt op een fiets
 Een bruine en witte hond speelt op het gras
 Het meisje springt roekeloos op een voertuig
 Een man valt van een surfplank in het water
-Een peuter rijdt niet op een plastic speelgoedscooter DOUBLECHECK
+Een peuter rijdt niet op een plastic speelgoedscooter
 Een man boort een gat met een stuk hout
 Er is geen vrouw die spiesen op een rek plaatst
 Drie vijanden trekken rare gezichten voor de camera
@@ -3218,7 +3218,7 @@ Een man zingt en staat op de stoep
 Het meisje, dat klein is, woelt door haar haar
 Drie mensen staan naast een boomtak
 Twee honden rennen snel door het park
-Vier kinderen doen backbends in het park DOUBLECHECK
+Vier kinderen doen backbends in het park
 De vrouw is de tekening op het bord aan het uitwissen
 Een jonge jongen met een slabbetje kijkt naar de camera
 Er is geen witte auto die door de man wordt bestuurd
@@ -3250,7 +3250,7 @@ Er is geen tennisser die naar links lonkt DOUBLECHECK
 Een man doet wat trucjes met een voetbal
 Iemand stopt geen ingrediënten in een wok
 Een gele hond drinkt water uit de kraan
-Een man aan het klavier speelt met zijn neus DOUBLECHECK
+Een man aan het keyboard speelt met zijn neus
 Een vrouw draagt een Egyptische hoed op haar hoofd
 Het kind spettert water in een groot rood zwembad
 Een man gooit gevaarlijk messen naar een boom
@@ -3358,7 +3358,7 @@ Twee jongens doen vechtsporten op een groene mat
 Een man speelt met een waterspeeltje in het water
 Er is geen man die zingt en gitaar speelt
 Een klein meisje speelt viool op een strand
-Een witte en bruine hond loopt door een veld
+Een witte en bruingele hond loopt door een veld
 Een man uit de wildernis is op een wandelpad
 De lange persoon steekt de camera's in brand
 Iemand giet olie om te koken in een pot
@@ -3390,9 +3390,9 @@ Een man draagt een doorzichtige plastic pet en een masker
 Een vrouw plaatst twee eieren in een pot met water
 Een groep van vijf oude volwassenen ligt binnen te loungen
 De man verwijdert gesneden komkommers uit water
-De jongen en het meisje spelen op de buitensportschool DOUBLECHECK
+De jongen en het meisje spelen op het gymrek buiten
 Een hond springt in de lucht om een rode bal te vangen
-Twee mensen zitten comfortabel op het bankje DOUBLECHECK
+Twee mensen zitten comfortabel op het bankje
 De kudde kariboes steekt snel een weg over
 Een man met een witte hoed speelt gitaar op het podium
 Twee honden kijken op naar een keukenaanrecht
@@ -3400,7 +3400,7 @@ Een persoon op een gele crossmotor maakt een sprong
 De kinderen achtervolgen elkaar in het zand
 Er is geen vrouw die een ei klaarmaakt in een koekenpan
 De mannen vechten met hun vuisten in een ring
-Een jongen en een meisje spelen op de buitensportschool DOUBLECHECK
+Een jongen en een meisje spelen op het gymrek buiten
 Er is geen eekhoorn die in cirkels ronddraait
 Twee honden rennen en vangen een tennisbal
 Twee honden rennen en proberen een bal te vangen
@@ -3472,7 +3472,7 @@ Er wordt wat vlees aan elkaar gestikt door een vrouw
 Het toneelstuk gaat over een gelukkige jongen die piano speelt
 De man op het podium zingt in de microfoon
 Een jongen in een blauw geverfd shirt heeft vuil op zijn gezicht
-Een peuter speelt met een plastic scooterspeeltje
+Een peuter speelt met een plastic speelgoedscooter
 Olie wordt door de vrouw in een koekenpan gegoten
 Een zwarte en oranje vogel staat op het gazon
 De man met de strohoed rookt een sigaret
@@ -3528,7 +3528,7 @@ Sommige vrouwen zitten bij elkaar in de buurt van geweven muren
 Een goocheltruc wordt uitgevoerd door de goochelaar
 Een kat kruipt niet onder een meubelstuk
 Iemand is een cameralens aan het spijkeren met luide knallen
-De groep mensen zit niet in een schemerige kamer
+De groep mensen zit niet in een slecht verlichte kamer
 De bruine hond en de zwarte hond zitten in het gras
 Een persoon op een gele schone fiets maakt een sprong
 Er is geen persoon die een kat naar het plafond gooit
@@ -3736,7 +3736,7 @@ De snowboarder springt van een besneeuwde heuvel af
 Een kleine hemdloze jongen glijdt in een groene buis
 Vier meisjes doen backbends en spelen binnen
 Een groep jongens speelt geen voetbal op het strand
-Een bruine hond springt op en vangt een tennisbal
+Een bruingele hond springt op en vangt een tennisbal
 Verschillende mensen zijn verzameld rond een vuur 's nachts
 De zwart-witte hond zit in een groene tuin
 Een natte jongen springt rond op vies en nat gras
@@ -3747,7 +3747,7 @@ De persoon op de motor houdt zijn arm omhoog
 De man zit buiten onder een paarse paraplu
 Een vogel wappert hevig met zijn vleugels op het water
 Een kind zwemt speels onder water in een zwembad
-Twee jonge vrouwen zijn aan het sparren in een kickboksgevecht DOUBLECHECK
+Twee jonge vrouwen zijn aan het sparren in een kickboksgevecht
 Twee mannen met fietsen staan aan de kant van een besneeuwde weg
 Iemand gooit dom een kat naar het plafond
 Twee witte honden en één bruine hond zitten achter een stuk speelgoed aan
@@ -3851,7 +3851,7 @@ Er is geen fietser die een sprong op de fiets maakt
 Kinderen zijn niet gekleed in kostuums en spelen een spel
 De persoon snijdt een teentje knoflook in stukken
 Iemand zingt over een man die gitaar speelt
-Een groep vrienden vaart op de stroming in een vlot DOUBLECHECK
+Een groep vrienden vaart op de stroming in een vlot
 Een gitaar wordt bespeeld door een man naast een drummer
 Een persoon is snel champignons aan het hakken met een mes
 Een familie koopt iets bij de automaat
@@ -3887,7 +3887,7 @@ Een stuk hout wordt aan een muur geschroefd door een man
 De dame meet niet de enkel van een andere vrouw
 Een fietser doet een trucje over een schone muur
 Een camera wordt op de spijker gehamerd door de man
-Een vrouw keert haar rug af van het uitzicht op een stad DOUBLECHECK
+Een vrouw keert haar rug af van het uitzicht op een stad
 Drie mensen rijden in vierwielige quads in een veld
 Een jongen staat naast de opening van een fontein
 Een bruin en wit dier springt op de stoep
@@ -3912,7 +3912,7 @@ Een snowboarder schuurt naar beneden langs een lange betonnen reling
 Het kind speelt met veel plezier buiten met speelgoed
 Er zijn geen mensen die de banden van een tractor omdraaien
 Er wordt wat olie op de tomaten gegoten door de man
-Twee poedels liggen in de sneeuw en één springt hoog DOUBLECHECK
+Twee poedels liggen in de sneeuw en één springt hoog
 Een man met een achterwaartse hoed zit op de grond
 Een man en een vrouw lopen door een woestijngebied
 De mannen spelen rugby op een modderig veld
@@ -3963,10 +3963,10 @@ Een hond achtervolgt de staart van een dier in het gras
 Een gele hond rent een pad af dat bedekt is met zand
 Het voedsel op de dienbladen wordt opgegeten door de kittens
 Een kleine jongen in rode kleren springt in de lucht
-Er is geen gebruind kind dat naar de camera kijkt
+Er is geen kind met bruingele huid dat naar de camera kijkt
 Een man loopt langs een pad door een wildernis
 Een zwarte hond speelt met een bruine hond op het zand
-Een paard en zijn ruiter springen niet over een hindernis heen DOUBLECHECK
+Een paard en zijn ruiter springen niet over een hindernis heen
 Een man en een vrouw rijden de weg af in een auto
 Een jonge jongen met een helm rijdt op een fiets op de weg
 Een grote hond en een kleine witte hond zijn samen aan het spelen
@@ -3995,7 +3995,7 @@ Het blonde meisje danst achter de geluidsapparatuur
 De jongen rijdt op een fiets op de bovenrand van een metalen hek
 Een man zit en tafelt een comfortabele discussie DOUBLECHECK
 De man laat gesneden komkommers in koud water vallen
-Een vrouw danst en een man speelt het klavier DOUBLECHECK
+Een vrouw danst en een man speelt op het keyboard
 Twee honden op het gras spelen met een plastic speeltje
 Mensen lopen door een straat die druk is
 Er is geen persoon die op de fiets langs een modderig pad rijdt
@@ -4095,7 +4095,7 @@ Een gele hond stopt op witte sneeuw op een zonnige dag
 Een neushoorn, die klein is, volgt een volwassen neushoorn
 Twee mannen in een race zijn de banden van een tractor aan het omdraaien
 De oranje rijder rijdt met een motorfiets op één wiel
-De groep mensen zit in een kamer die slecht verlicht is DOUBLECHECK
+De groep mensen zit in een kamer die slecht verlicht is
 Een fiets wordt bereden door de kleine jongen in een race
 Een oude man met een grijze baard rijdt op een fiets
 Een man danst gevaarlijk op het plafond van een kamer
@@ -4145,13 +4145,13 @@ Eieren worden sterk in een kom geklopt door een persoon
 Een man, een vrouw en twee meisjes zitten op het strand
 Vijf mensen staan in het gras met drie honden
 Er zijn geen vrouwen die bikini's dragen op het zandstrand
-Een meisje met rood haar en rode wenkbrauwen is aan het spreken DOUBLECHECK
-Eén vrouw onthoudt een andere vrouw de volleyballen DOUBLECHECK
+Een meisje met rood haar en rode wenkbrauwen is aan het spreken
+Eén vrouw onthoudt een andere vrouw de volleyballen
 Een persoon draagt een hoed en zit op het gras
 Een man staat op een zandheuvel naast een zwarte jeep
 Er is geen man op een fiets die maar op één wiel rijdt
 Er is geen man die in de lucht springt in een bosrijke omgeving
-Twee mannen kijken uit en één houdt een zaktelescoop vast DOUBLECHECK
+Twee mannen kijken uit en één houdt een zaktelescoop vast
 Een man in een zwarte trui staat in een sportschool
 Kinderen worden gekleed in kostuums en spelen een spelletje
 Het jonge meisje blaast een luchtbel die erg klein is
@@ -4206,7 +4206,7 @@ Een kind in een wit t-shirt spat in ondiep water
 Twee kinderen duwen een opblaasbare krokodil in een zwembad
 Een man draagt een kleurrijk shirt en veel sieraden
 Een jonge man duwt een crossmotor een zandheuvel op
-Twee jonge vrouwen zijn niet aan het sparren in een kickboksgevecht DOUBLECHECK
+Twee jonge vrouwen zijn niet aan het sparren in een kickboksgevecht
 Een zwarte man rent in bruin gras en racet met een hond
 Een truc wordt uitgevoerd door een rolschaatser op een helling
 Een man in een zwart jasje doet trucjes op een motor
@@ -4282,7 +4282,7 @@ Een jongen naast een paar emmers met vodden houdt een voorwerp vast
 Een jong meisje in een blauw gympak springt op de grond
 Een groep mensen in een groot Aziatisch restaurant eet
 Een meisje draagt een spijkerbroek en een roze hemd en rent
-Een bruine hond speelt in het water aan de oever van een vijver
+Een bruingele hond speelt in het water aan de oever van een vijver
 Een volwassene is in het amfitheater en praat met een jongen
 Een man in een rood shirt doet een trucje met een skateboard
 Een persoon is niet snel champignons aan het hakken met een mes
@@ -4302,7 +4302,7 @@ Een man staat in de sneeuw aan de rand van een berg
 Een witte hond met beige vlekken rent door een veld
 Een man houdt een dier, dat klein is, in één hand
 Een persoon in een roze jasje rent niet het veld op
-De man is aan het zwemmen in een waterlichaam bij een waterval DOUBLECHECK
+De man is aan het zwemmen in een waterlichaam bij een waterval
 Een klein kind drinkt gulzig water uit de beker
 Een instrument wordt bespeeld door een vrouw in een rode jurk
 Een man in een pak staat bij een microfoon en zingt
@@ -4372,7 +4372,7 @@ Een cowgirl rijdt op een vat bij een paard in de hoek
 Een grote groep Aziaten eet in een restaurant
 Iemand draagt een strohoed en rookt een sigaret
 De gouden hond loopt door een veld met hoog gras
-Een stuntman op een fiets zit in de lucht in de buurt van een waterlichaam DOUBLECHECK
+Een stuntman op een fiets zit in de lucht in de buurt van een waterlichaam
 Een lachende jongen zit in een gele tank en draagt een topje
 Een hond hoedt een groep witte schapen op een stoffige boerderij
 Een blonde jongen loopt een zandduin op met een skateboard
@@ -4389,7 +4389,7 @@ De vrouw kraakt twee eieren in een kom van glas
 De man en het kind kajakken door rustige wateren
 Een vrouw en een hond zitten vredig op een boomstronk
 Het meisje houdt van rood en draagt geen kralen voor tieners
-Vier meisjes doen backbends en spelen in de tuin DOUBLECHECK
+Vier meisjes doen backbends en spelen in de tuin
 Een jongen in zijn tienerjaren praat niet met een meisje met een webcam
 Een kind met een rode korte broek springt in een peuterbad
 Niemand doet aan waterveiligheid en het dragen van reddingsvesten
@@ -4470,7 +4470,7 @@ Een tennisser met een groene hoofdband mist de bal
 Een kleine groep mensen is aan het wachten om in een restaurant te eten
 Een jong kind loopt met een fiets over een ruw zandpad
 Een man in een rood shirt doet een trucje met het skateboard
-Een gebruinde hond spettert in het water op de oever van een vijver
+Een bruingele hond spettert in het water op de oever van een vijver
 Er is geen man die langs een pad door een wildernis loopt
 Iemand in een zwart jasje doet trucjes op een motor
 Drie mensen zitten op een bankje onder wat palmbomen
@@ -4482,7 +4482,7 @@ Een man drinkt sinaasappelsap en loopt op een zonnige dag
 Een paar mensen zitten op een bankje onder wat palmbomen
 Een klimmende jongen redt de bange kat van over de muur
 Er is geen jongen die met zijn moeder in het park speelt
-Er is geen aap die tegen de gehandschoende hand van een persoon schopt DOUBLECHECK
+Er is geen aap die tegen de gehandschoende hand van een persoon schopt
 Een man en een vrouw staan samen en houden elkaars hand vast
 Het kitten drinkt niet graag wat melk uit de kom
 Er is geen hond die opgewonden met water in het gras speelt
@@ -4499,7 +4499,7 @@ Sommige vrouwen houden elkaar in een kring vast en dansen
 Een gezin koopt niet iets in een automaat
 Een bruine hond loopt achter een witte hond aan op een rotsachtige oever
 Een grote zwarte hond springt in de lucht over een besneeuwd gebied
-Er is geen bruine hond die opstaat en een tennisbal vangt
+Er is geen bruingele hond die opstaat en een tennisbal vangt
 Een persoon op een fiets zit niet in de lucht in de buurt van een waterlichaam
 De mannen pakken geen koffers in de kofferbak van een auto
 Drie Aziatische kinderen zijn aan het dansen en een serieuze man kijkt
@@ -4560,7 +4560,7 @@ Een man die speelt rent met de bal in zijn handen
 Er is geen paard dat de cowboy in een rode en blauwe broek gooit
 Iemand die aan het snowboarden is, springt in de lucht
 Een persoon met een groen shirt springt hoog over het gras
-Een gebruinde hond spettert in het water op de oever van een rivier DOUBLECHECK
+Een bruingele hond spettert in het water op de oever van een rivier
 Twee toeschouwers zijn aan het kickboksen en sommige mensen kijken toe
 Het stelletje mannen speelt met de modder op een rugbybalveld
 Het meisje met de zwarte hoed draagt een bikini op het strand
@@ -4857,10 +4857,10 @@ Een meisje in een blauw uniform steekt haar arm snel op
 Een man zit op het gras en drinkt uit een waterfles
 Iemand die op een fiets rijdt, draagt een uitrusting die zwart is
 Een hond staat met zijn twee voorpoten op een rots in een veld
-Een hond met een bruine vacht springt op en vangt een tennisbal
+Een hond met een bruingele vacht springt op en vangt een tennisbal
 Vijf kinderen staan dicht bij elkaar en één kind heeft een wapen
 De dame houdt de verfkwast naast de schildersezel
-De bruine hond kijkt naar een bruine hond die in een vijver zwemt DOUBLECHECK
+De bruingele hond kijkt naar een bruine hond die in een vijver zwemt DOUBLECHECK
 De cowboy gooit de blauwe en rode broek naar het paard toe
 Een rode hond zit en laat een tennisbal uit zijn bek vallen
 Geen motorrijder staat op op het zadel van een motorfiets
@@ -4895,7 +4895,7 @@ Een grijze hond springt naar een zwart-witte hond in de sneeuw
 Sommige jonge crossers krijgen een crossmotor een zandheuvel op
 Er is geen man in een pak die bij een microfoon staat en zingt
 Een grote golf wordt bereden door een surfer door donkergroen water
-Een zwartbruine hond loopt door het lage en groene gras
+Een zwart en bruingele hond loopt door het lage en groene gras
 Er is geen gezetelde vrouw die een liedje zingt en gitaar speelt
 Er is geen man die een strooien hoed draagt die een sigaret rookt
 Twee mensen staan in de oceaan en kijken naar de zonsondergang
@@ -4928,7 +4928,7 @@ Een man staat naast een vogelkooi die groot en kleurrijk is
 De koekenpan wordt geolied door een vrouw die wat water giet
 Een container wordt boven een gootsteen geschud door een man in de keuken
 Een meisje staat alleen en draagt een zwart hemd en roze kralen
-Een witte en bruine hond rent door het hoge en groene gras DOUBLECHECK
+Een witte en bruingele hond rent door het hoge en groene gras DOUBLECHECK
 Een hond, die klein is, speelt onvermoeibaar op het groene gras
 Een man draagt een sportuniform en rent over het veld
 Langs twee straten worden verschillende rassen van honden bekeken
@@ -5150,7 +5150,7 @@ Een man en een vrouw staan buiten en dragen lichtgekleurde shirts
 Het meisje draagt een bord en een groep mensen volgt haar DOUBLECHECK
 Een kleine jongen zit in een groene tunnel met een glimlach op zijn gezicht
 Een hond met zeer lang haar wordt getoond door een vrouw op een hondenshow
-De bruine hond kijkt niet naar een bruine hond die in een vijver zwemt DOUBLECHECK
+De bruingele hond kijkt niet naar een bruine hond die in een vijver zwemt DOUBLECHECK
 Een man is in het huis en gooit messen naar een dichtbijgelegen doelwit
 Een zwart-witte hond draagt een kleine stok op het groene gras
 Een witte en bruine hond loopt met moeite door het water
@@ -5352,7 +5352,7 @@ Een man met een uitrusting die gebruikt wordt voor het klimmen bevindt zich onde
 Een zwarte hond in de sneeuw springt van de grond en vangt een stok
 Een jonge jongen zit in een badpak en wacht op de volgende race
 Een neushoorn, een jongeling, loopt rond in een hok met zijn moeder
-Een vuile bruine hond rolt in het vuil en kijkt naar de camera DOUBLECHECK
+Een vuile bruingele hond rolt in het vuil en kijkt naar de camera DOUBLECHECK
 De kleine jongen rent op de grond en speelt met een klein meisje
 Een vrouw gebruikt een oogpotlood en brengt eyeliner aan op haar ooglid
 Eén man gooit een kind in het zwembad dat in de buurt van de oceaan is
@@ -5375,7 +5375,7 @@ Twee jongens in witte outfits en rode beschermende kleding staan te sparren op e
 Verschillende dingen uit een oorlog worden aan een aantal mensen getoond door een veteraan
 Een klein meisje met een roze shirt speelt t-ball en neemt een schommel
 Twee mannen en een meisje voor een houten panelen muur trekken gekke gezichten
-Een vuile bruine hond rolt in het water en kijkt naar de camera DOUBLECHECK
+Een vuile bruingele hond rolt in het water en kijkt naar de camera DOUBLECHECK
 Het meisje in het blauw zit achter de basisloper aan met een nummer op de trui DOUBLECHECK
 Een grijze zijdeachtige hond slaapt in het gras en een bruine hond kijkt toe
 Een paarse menigte mensen eet aan verschillende rood verlichte restauranttafels
@@ -5676,7 +5676,7 @@ Een paar paarden racen woedend over het groene gras en springen over de hinderni
 Een man met snorren staat op een balkon en kijkt naar de weg eronder
 Er is geen man die water in de mond van een blanke hond spuit met een spuitpistool
 Een persoon besprenkelt meerdere gesneden en beboterde broden met kruiden
-Een bruine hond die vies is, rolt in het zand en kijkt recht naar de camera
+Een bruingele hond die vuil is, rolt in het zand en kijkt recht naar de camera
 De man gebruikt een voorhamer om een betonnen blok te breken dat op een andere man ligt
 Een jong oosters meisje staat boven de menigte en speelt met een windmolentje
 Een man bij een muur van bakstenen draagt een masker rond zijn mond en een haarnet
