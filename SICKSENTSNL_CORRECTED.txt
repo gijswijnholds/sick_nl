@@ -55,7 +55,7 @@ Een clown zingt
 Een vrouw is aan het surfen
 Een man is roerloos
 Het kind is stil
-Een meisje wordt wakker
+Een meisje ontwaakt
 Sommige mannen zijn stationair
 De man denkt
 Twee mannen zijn aan het knuffelen
@@ -85,7 +85,7 @@ Een meisje is aan het sporten
 Een man is eten aan het bakken
 Een papegaai spreekt
 Een klaslokaal is leeg
-Twee mannen zijn aan het vechten
+Twee mannen zijn aan het strijden
 Twee welpen zijn aan het spelen
 Een man danst niet
 Mannen zijn hout aan het snijden
@@ -220,8 +220,8 @@ Sommige kittens hebben honger
 Een man rijdt op een paard
 Een vrouw is vlees aan het snijden
 Een vrouw is tofu aan het snijden
-Een man springt over een muur
-Een man rijdt op een paard
+Een man bespringt een muur
+Een kerel rijdt op een paard
 Een hond kijkt rond
 Een man eet een pizza
 Een man is de schoen aan het vastbinden
@@ -243,7 +243,7 @@ Iemand speelt piano
 Een man vangt een vis
 Een man schudt een drankje
 Een blond meisje is aan het surfen
-Een vrouw breekt eieren
+Een vrouw kraakt eieren
 Een man plant een boom
 Er is geen baby die praat
 Een paar mensen zingen
@@ -268,11 +268,11 @@ Een vrouw roeit met een boot
 Een vrouw eet een taart
 Er is geen man die spuugt
 Een leeuw loopt langzaam
-Een man speelt piano
+Een man speelt op een piano
 Een man knipt een papier
 Een man maait het gazon
 Een man maakt een schets
-Een man speelt fluit
+Een man speelt op een fluit
 Een man kookt een slang
 Een man laat een boom vallen
 Twee mannen zijn niet aan het vechten
@@ -300,7 +300,7 @@ Een vrouw negeert een man
 Een jong vrouwtje danst
 Een vrouw snijdt boter
 Een man roostert een slang
-Een hert springt over een hek
+Een hert bespringt een hek
 Een man rijdt op een scooter
 Een vliegtuig stijgt op
 Een jongen eet een cupcake
@@ -313,7 +313,7 @@ Een man praat met een jongen
 Er wordt geen man geraakt
 Een man aait twee katten
 Er is geen vrouw die danst
-Een man rijdt op een paard
+Eén man rijdt op een paard
 Een vrouw snijdt uien
 Een man leidt de race
 Een man snijdt tomaten
@@ -332,14 +332,14 @@ Een jongen is zijn haar aan het stylen
 De spreker houdt van papegaaien
 Een vrouw rijdt op een paard
 Een aap rijdt op een fiets
-Een jongen speelt gitaar
+Een jongen speelt op een gitaar
 Een man leest een e-mail
 Een man is een uitgesneden doos aan het plakken
 Een peuter zit
 Een klein dier zingt
 De man is wild aan het dansen
-Een kind speelt gitaar
-Een man speelt gitaar
+Een kind speelt op een gitaar
+Een man speelt op een gitaar
 Een man rijdt op een dier
 De man is niet aan het sporten
 Een man snijdt een tomaat
@@ -375,7 +375,7 @@ Er loopt een tijger rond
 Een man is tomaten aan het snijden
 Een vrouw is boter aan het snijden
 Een man is aardappelen aan het snijden
-Een vliegtuig stijgt op
+Een luchtvaartuig stijgt op
 Een man tilt halters op
 Een hond rent bergafwaarts
 Een band speelt op het podium
@@ -409,13 +409,13 @@ De man tilt gewichten op
 Een man speelt op keyboards
 Honden racen op een circuit
 Een man maait geen gazon
-Een man speelt fluit
+Een man speelt op de fluit
 Iemand rijdt op een paard
 Een meisje is haar nagels aan het vijlen
 Een vrouw bakt geen vis
 De vrouw is kruiden aan het snijden
 Een man maakt de gootsteen schoon
-Een man speelt piano
+Een man speelt op de piano
 Sommige vrouwen praten niet
 De hond vangt een bal
 De man doet oefeningen
@@ -471,7 +471,7 @@ De hongerige vrouw eet
 Een vrouw bakt geen vlees
 Een man loopt in een tuin
 Een vrouw is knoflook aan het hakken
-Een vrouw speelt fluit
+Een vrouw speelt op een fluit
 Een man wijst naar een auto
 Een hond blaft naar een bal
 Een hond likt een peuter
@@ -485,7 +485,7 @@ Een man doet een kaarttruc
 Een vrouw snijdt geen tofu
 Een vrouw snijdt een tomaat
 Een vrouw eet een cupcake
-Een kind speelt gitaar
+Een kind speelt op de gitaar
 Er is geen hamster aan het zingen
 Een man rent in een veld
 Honden rennen op een spoor
@@ -577,7 +577,7 @@ Een hond speelt met een stuk speelgoed
 Een man praat met een vrouw
 Iemand snijdt een tomaat
 De kat likt een fles
-Iemand speelt piano
+Iemand speelt op een piano
 Een vrouw is aardappelen aan het snijden
 Een jongen slaat een honkbal
 De man is aardappelen aan het snijden
@@ -632,7 +632,7 @@ Een vrouw kijkt naar het meer
 Een persoon botert een schaal in
 De man speelt fluit
 Niemand houdt een egel vast
-Een vrouw speelt fluit
+Een vrouw speelt op de fluit
 Een vrouw speelt op het drumstel
 Een paar kijkt naar een kaart
 Een vrouw is broccoli aan het hakken
@@ -735,7 +735,7 @@ Een koude fietser viert iets
 Er is geen man die schiet met geweren
 Een man organiseert de tuin
 De man speelt op de gitaar
-Iemand speelt piano
+Iemand speelt op de piano
 Een vrouw duikt in een zwembad
 Een persoon scheurt geen papier
 Er zijn geen mimespelers die optreden
@@ -852,7 +852,7 @@ Iemand speelt met een kikker
 Een hond ligt op een trampoline
 Het regent op een wandelende man
 Een ui wordt gesneden door een man
-Een man speelt een kleine fluit
+Een man speelt op een kleine fluit
 Een aardappel wordt gesneden door een man
 Een hond heeft plezier met een stuk speelgoed
 Een man werkt op de laptop
@@ -944,11 +944,11 @@ De man doet geen oefeningen
 Eèn meisje springt op de auto
 Iemand is een piano aan het demonteren
 De man staat op uit een moeras
-Een man speelt een grote fluit
+Een man speelt op een grote fluit
 Een dier blaft naar een bal
 Een man speelt niet op het drumstel
 De aap borstelt de hond
-Een wild hert springt over een hek
+Een wild hert bespringt een hek
 Drie vrouwen staan stil
 Er is geen vrouw die vis kookt
 Een hond rent op de grond
@@ -1401,7 +1401,7 @@ Een hond vangt een witte frisbee
 Een jongen springt in het water
 Een golden retriever loopt niet
 De man snijdt gekookte octopus
-Eén man zet de magnetron aan
+Eén man voorziet de magnetron van stroom
 Er is geen man die een vrouw masseert
 Een vrouw pepert groene plakjes in
 De dokter helpt de patiënt
@@ -1535,7 +1535,7 @@ Een tijgerwelp speelt met een bal
 Een bruine hond rent in de sneeuw
 Het meisje met de helm op rijdt op een fiets
 Een klein dier ligt op het bed
-Een man speelt gitaar op het podium
+Een man speelt op een gitaar op het podium
 Een man vouwt langzaam een tortilla op
 Twee auto's racen over het circuit
 Een kind wacht met zwemspullen aan
@@ -2031,14 +2031,14 @@ Sommige uien worden door een persoon gesneden
 Een kudde herten steekt de straat over
 Twee honden spelen op een rotsachtig strand
 De trui van de man ligt in het lege zwembad
-Een man speelt piano bij een concert
+Een man bespeelt een piano bij een concert
 Een vrouw dompelt een garnaal in beslag
 Er wordt geen melk gedronken door een kat
 De hond rent op een bruin licht af
 Een officier praat met de soldaten
 Een zwarte hond staat in diep water
 Motorrijders rijden niet op een parcours
-Een man springt in de lucht in hout
+Een kerel springt in de lucht in hout
 De bruine hond speelt niet buiten
 De aardappel wordt geschild door een vrouw
 Mensen rijden en peddelen op een vlot
@@ -2860,7 +2860,7 @@ Een zeevogel vliegt langzaam over enkele rotsen
 Iemand wordt gekookt met okra in een pot
 Een vrouw laat de hond op straat lopen
 De fietser versnelt in een stadsstraat
-Een man is vrolijk aan het spelen met een hacky sack
+Een kerel is vrolijk aan het spelen met een hacky sack
 Een kind met bruingele huid kijkt naar de camera
 Drie kleine honden snuffelen aan iets
 Een snowboarder is van een een lange reling af aan het schuren
@@ -3082,7 +3082,7 @@ Een zwarte hond springt van een dok in het water
 Twee preadolescente tweelingjongens spelen met kaarten
 De gitarist houdt hartstochtelijk van de man
 Een man loopt langzaam over een touwbrug
-Een man is vrolijk aan het spelen met de hacky sack
+Een kerel is vrolijk aan het spelen met de hacky sack
 Er is geen jongen die een kruik met water vult
 Een fietser fietst overdag in een besneeuwd bos
 De man is voorzichtig een stenograaf aan het bedienen
@@ -3267,7 +3267,7 @@ Een kleine jongen met een slabbetje kijkt naar de camera
 Een man met een zwarte hoed reikt niet naar een doos
 Een gitaar wordt gepassioneerd bespeeld door een man
 Een jongen slaat een vrouw met een plastic zwaard
-Een man springt in de lucht in een bosrijke omgeving
+Een kerel springt in de lucht in een bosrijke omgeving
 Eén klein kind drinkt water uit de beker
 Tegels worden met zijn handen gebroken door een man
 Het tienermeisje draagt kralen die rood zijn
@@ -4150,7 +4150,7 @@ Eén vrouw onthoudt een andere vrouw de volleyballen
 Een persoon draagt een hoed en zit op het gras
 Een man staat op een zandheuvel naast een zwarte jeep
 Er is geen man op een fiets die maar op één wiel rijdt
-Er is geen man die in de lucht springt in een bosrijke omgeving
+Er is geen kerel die in de lucht springt in een bosrijke omgeving
 Twee mannen kijken uit en één houdt een zaktelescoop vast
 Een man in een zwarte trui staat in een sportschool
 Kinderen worden gekleed in kostuums en spelen een spelletje
@@ -4161,7 +4161,7 @@ Iemand giet olijfolie in een pot op het fornuis
 De danser danst voor de geluidsapparatuur
 Een jongen in een badpak zit op een ronde fontein
 Twee jonge mannen zitten buiten bij een gouden standbeeld
-De man maakt een foto van zichzelf en een andere man
+De man maakt een foto van zichzelf en een andere kerel
 Een kind lacht naar de camera en zwemt onderwater
 Twee witte honden spelen met een bruine hond en een bal
 De vrouw danst en een man speelt op het keyboard
@@ -4605,7 +4605,7 @@ De jongen is niet het gras bij de stoeprand met een schaar aan het maaien
 De vrouw draagt een kleurrijk hemd en veel sieraden
 Een hond in een gekleurde vacht rent snel over het erf
 De man loopt niet over een pad door de wildernis
-De man neemt geen foto van zichzelf en een andere man
+De man neemt geen foto van zichzelf en een andere kerel
 Een man breekt een blok beton met een voorhamer
 Een vrouw toont een hond met zeer lang haar op een hondenshow
 De witte honden kijken niet nieuwsgierig naar de zwarte lama
@@ -4850,7 +4850,7 @@ Een paar kinderen steken blauw- en groengekleurde tongen uit
 Het kleine meisje lacht en draagt een neppe neus en bril
 Een sterk persoon laat de garde in de kom staan bij de eieren
 Een groep mensen houdt drankjes vast en wijst naar de camera
-Een foto van zichzelf en een andere man wordt door de man genomen
+Een foto van zichzelf en een andere kerel wordt door de man genomen
 Een man met een paarse hoed beklimt een rotswand met blote handen
 Het meisje, dat klein is, kamt haar haar in een paardenstaart
 Een meisje in een blauw uniform steekt haar arm snel op
