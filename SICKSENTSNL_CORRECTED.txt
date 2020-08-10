@@ -1178,7 +1178,7 @@ Een man springt op een lage muur
 Een man spreekt voortdurend over een toneelstuk
 Een zwarte kat zwaait op een ventilator
 Een persoon ontvouwt een tortilla
-De man speelt niet op de fluit
+De man speelt niet op de fluit ORIGINALTYPO
 Graan wordt gegeten door de man
 De vrouw rijdt op de olifant
 Een oude man zit in een veld
@@ -2212,7 +2212,7 @@ Het hert springt niet over het hek
 De man verwijdert messen uit een boom
 Een dame staat dicht bij drie kinderen
 Een man op een fiets rijdt op de wal
-Een bruingele hond loopt door de borstel
+Een bruingele hond loopt door de borstel POSMISTAKE
 Een meisje in het blauw glijdt van een glijbaan af
 De vrouwen zijn goddelijk aan het dansen buiten
 Een man spoelt een groot stuk vlees af
@@ -2238,7 +2238,7 @@ Veel mensen schaatsen in een ijspark
 De man maakt geen grote sprong
 De skateboarder springt in de lucht
 Er wordt een gat gegraven door de das
-Een hert springt over een hek van een cycloon
+Een hert springt over een hek van een cycloon POSMISTAKE
 Een vrouw kookt een ei in een koekenpan
 Er staat geen man naast een bus
 De man heeft een stenograaf nodig om te kunnen werken
@@ -2251,7 +2251,7 @@ Verschillende teams rusten op een veld
 Een aubergine wordt gesneden door een vrouw
 Een vrouw breekt twee eieren in een kom
 Er is geen kat die maïs eet op de kolf
-Een dronken man plast onvoorzichtig over een kat heen
+Een dronken man plast onvoorzichtig over een kat heen POSMISTAKE
 Een vrouw draagt een indiase hoofdtooi
 Modder wordt naar de spelende jongen gegooid
 Een man maakt een foto van een tekening
@@ -2442,7 +2442,7 @@ Een man houdt een elektronisch apparaat omhoog
 Twee kinderen spelen niet in de branding
 Een jong meisje zit in zwemkleding
 Een klein meisje stapt uit een speelgoedauto
-Een meisje springt touwtje in de buurt van een straat
+Een meisje springt touwtje in de buurt van een straat ORIGINALTYPO
 De staart van een hond wordt getrokken door een aap
 De jongen in de blauwe overall is aan het schilderen
 Meerdere kinderen springen op een trampoline
@@ -2588,7 +2588,7 @@ Een oude, topless vrouw is bedekt met verf
 Iemand giet ingrediënten in een pot
 De dame is een ei aan het breken voor de mixer
 Een man hakt een boom om met een bijl
-Een man haalt de olie uit een koekenpan
+Een man haalt de olie uit een koekenpan ORIGINALTYPO
 Er is geen klein meisje dat piano speelt
 Er is geen hond die van de ene naar de andere kant rolt
 Mensen rijden op twee kamelen op het strand
@@ -2650,7 +2650,7 @@ Veel cheerleaders lopen in een parade
 Er wordt geen papier met een schaar geknipt
 Een jongen rent naar de vislijn toe
 Een lichtbruine hond rent in het water
-Een man bespeelt een gitaar onder een raam
+Een man bespeelt een gitaar onder een raam ORIGINALTYPO
 De man slaat op een spijker met een camera
 De patiënt wordt geholpen door de dokter
 Een fotograaf wordt omringd door mannen
@@ -2664,7 +2664,7 @@ Er is geen man die roekeloos op een paard rijdt
 Een jong stel ligt samen op een bed
 Er is geen aap die door een moeras waadt
 Een vrouw opent een frisdrank en drinkt het
-Twee teckels spelen met een rode bal
+Twee teckels spelen met een rode bal ORIGINALTYPO
 Er is geen kat die met een watermeloen speelt
 Een beroemde zanger danst op het plafond
 Een bulldog wordt door de aap geborsteld
@@ -3052,7 +3052,7 @@ De olifant wordt niet bereden door de vrouw
 Een vrouw kraakt wat eieren buiten een kom
 Een man legt knoflook op wat sneetjes brood
 Een zwarte hond springt op een dok in een vijver
-Een vrouw doet voorzichtig wat make-up op
+Een vrouw doet voorzichtig wat make-up op ORIGINALTYPO
 Het meisje met een helm strijkt neer op een fiets
 De kittens eten het voedsel op de dienbladen
 Groenten worden door een man in een pot gedaan
@@ -3429,7 +3429,7 @@ De fietser doet geen trucje in de lucht
 Drie jongens schommelen tijdens de wandeling langs de rivier
 De zwart-witte hond springt voor de bal
 Een meisje is twee stukken boter aan het smelten
-Een paar mensen waden door het water
+Een paar mensen waden door het water ORIGINALTYPO
 Een grote stad smeekt om mannen en geldhouders
 Twee jongens op een bank spelen spelletjes op de TV
 Eieren worden door de vrouw in een schaal gekraakt
@@ -4044,7 +4044,7 @@ Sommige meisjes in hun tienerjaren dansen voor de camera
 Een man en een kind kajakken door rustige wateren
 Een groep rolschaatsers verspreidt zich op straat
 Een bal, die groen en groot is, tikt een aardappel aan
-De bejaarde wacht op een dame op de stoep
+De bejaarde wacht op een dame op de stoep ORIGINALTYPO
 De persoon rijdt niet op een motor op een zandpad
 Een vrouw speelt op het keyboard en een man danst
 Een man in een pak wordt omringd door fotografen
@@ -4102,7 +4102,7 @@ Een man danst gevaarlijk op het plafond van een kamer
 Een man is snel wat champignons aan het hakken met een mes
 Een buiten geplaatste schaatsbaan is vol met mensen
 De persoon vliegt niet door de lucht op een fiets
-Water uit de kraan wordt gedronken door een gele hond
+Water uit de kraan wordt gedronken door een gele hond ORIGINALTYPO
 Een fietser doet onbevreesd een trucje in de lucht
 Een groep mensen verzamelt zich bij een kraam op de beurs
 Een jongen in zijn tienerjaren praat met een meisje met een webcam
@@ -4174,7 +4174,7 @@ Rolschaatsers rollen niet in formatie van een heuvel af
 Een gekostumeerde artiest zingt en mensen dansen
 Een bruine hond en een zwarte hond zijn aan het dartelen in het zand
 Het kitten drinkt gretig wat melk uit de kom
-Een jong meisje in een zwempak springt op het strand
+Een jong meisje in een zwempak springt op het strand ORIGINALTYPO
 Een persoon in een blauw jasje draagt een kleurrijke helm
 Er is geen klein meisje dat een vleugel bespeelt op het podium
 Het voedsel op de schalen wordt niet gegeten door de kittens
@@ -4755,7 +4755,7 @@ De microfoon voor de pratende papegaai wordt gedempt
 Eén meisje springt van een rots en een ander staat er op
 De bruine hond ziet een zwarte hond liggend in het droge veld
 De kinderen dragen geen pakken en het water spat in het rond
-De staart van een dier wordt achtervolgd door een hond in het gras
+De staart van een dier wordt achtervolgd door een hond in het gras ORIGINALTYPO
 De bruine honden zijn niet speels aan het vechten op het zandstrand
 Een naakte dame loopt voor veel mensen in bodypaint
 De presentatie wordt bekeken door een klaslokaal met leerlingen
@@ -4798,7 +4798,7 @@ Er staat geen man naast een grote en kleurrijke vogelkooi
 Er is geen vrouw die een courgette schrobt met een groenteborstel
 Een man op inline skates rolschaatst in een park dat gebouwd is om te rolschaatsen
 Een kleine hond sprint en zijn baasje probeert hem te vangen
-Een man zit op een boot voor de zonsondergang, in de buurt van een vlag
+Een man zit op een boot voor de zonsondergang, in de buurt van een vlag ORIGINALTYPO
 Een wandelaar is op de top van de berg en doet een vreugdevolle dans
 Twee raceauto's staan op een weg voor een grassige parkeerplaats
 Een natte jongen springt vrolijk rond op vies en nat gras
@@ -5135,7 +5135,7 @@ Weinig mensen eten aan rode tafels in een restaurant zonder verlichting
 Een meisje draagt een spijkerbroek en een roze overhemd en is vrolijk aan het rennen
 Een klein kind toont opwinding op een stel schommels in het park
 Een hond naast een boom, die waarschijnlijk een den is, bijt in een emmer
-Een afstandelijk persoon met een blauwe rugzak wandelt in een gebied wandelgebied vol met rotsen
+Een afstandelijk persoon met een blauwe rugzak wandelt in een gebied wandelgebied vol met rotsen ORIGINALTYPO
 Drie mannen liggen op een heuvel en kijken naar de bergen en de lucht
 Een klein meisje in een roze overhemd speelt t-ball en neemt een zwaai
 Een cluster van vier bruine honden spelen in een veld met bruin gras
@@ -5258,7 +5258,7 @@ Niemand treedt door de sneeuw van het prachtige sneeuwlandschap
 Er is geen persoon die een grijze broek draagt in de lucht op een snowboard
 Een hond springt op droge bladeren in een veld met glimmende blauwe voetballen
 Sommige mensen zitten in de sneeuw, met kleren aan die voor camouflage zorgen
-Een man in een auto trekt op naast een vrouw die langs een weg staat
+Een man in een auto trekt op naast een vrouw die langs een weg staat ORIGINALTYPO
 Een kind, dat jong is, gekleed voor koud weer, staat buiten
 Een grote bruine hond en een kleine grijze hond staan op een rotsachtige ondergrond
 Sommige motorrijders doen aan acrobatiek op een parcours in de buurt van water en een skyline
@@ -5270,7 +5270,7 @@ Een vrouw eet courgette en groenten en schrobt met een borstel
 Twee mensen rijden in een jeep en een dame zit er bovenop
 Er is geen hond die een rivier oversteekt op een brug gemaakt van een omgevallen boom
 Voetgangers en auto's rijden door een file in een kleine stad
-Een Aziatische vrouw in het midden van veel mensen draagt een zwarte tas
+Een Aziatische vrouw in het midden van veel mensen draagt een zwarte tas ORIGINALTYPO
 Een sportuniform wordt gedragen door een man die over het veld rent
 Twee kinderen, die klein zijn, spelen op straat met een speelgoedauto
 Eén witte hond en een zwarte zitten naast elkaar op het gras
@@ -5436,7 +5436,7 @@ De man bespeelt de gitaar en heeft de gitaarkoffer open voor donaties
 Het kleine meisje schommelt niet en de vrouw staat niet achter haar
 Een man smeert onzorgvuldig boter op een plakje brood met knoflooksmaak
 Een speler in paars, wit en zwart speelt aan het einde van het veld
-Er is geen witte en bruine hond die met door het water gaat moeilijkheid
+Er is geen witte en bruine hond die met door het water gaat moeilijkheid ORIGINALTYPO
 Een jong kind draagt groene laarzen en speelt in een plas vol modder
 Een jonge man en een vrouw rijden op fietsen op de promenade bij de oceaan
 Een kleine jongen draagt een groen voetbaltenue en rent op het gras
@@ -5459,7 +5459,7 @@ Twee bruine en witte honden vechten op een grasveld voor een boom
 Een oudere man en een vrouw rijden op fietsen op de promenade bij de oceaan
 De gespierde man is aan het dansen en de man achter hem draagt groene kralen
 Een man uit het Midden-Oosten staat tegen een lantaarnpaal in de buurt van andere mensen
-Een bruine en witte hond met een bruine en zwarte bandana is snel aan het rennen
+Een bruine en witte hond met een bruine en zwarte bandana is snel aan het rennen ORIGINALTYPO
 Iemand die voetbalt, rent langs een ambtenaar die een voetbal draagt
 Een kind dat in de oceaan zwemt, gooit een muntje in het zwembad, dicht bij de man
 Een dier springt naar een glimmende blauwe voetbal in een veld met droge bladeren
@@ -5483,7 +5483,7 @@ Een jongen legt een tuinslang neer naast een man en een andere jongen rent weg
 Een grote kat opent een plastic lade met zijn poten en springt naar binnen
 Een aantal juichen worden uitgevoerd door het meisje in het blauwe en witte uniform
 Een vader duwt zijn dochter op een skelter en een ander meisje kijkt toe
-Een bruine en witte hond met een bruine en zwarte bandana loopt erg snel
+Een bruine en witte hond met een bruine en zwarte bandana loopt erg snel ORIGINALTYPO
 Een man in een rode jas en kaki broek loopt door een Europese staat
 Sommige mensen treden door de sneeuw van het prachtige besneeuwde landschap
 Degene die op fietsen rijdt, kijkt naar een ongeluk van een andere fietser
@@ -5499,7 +5499,7 @@ Twee vrouwen met zwart haar staan gestaag voor een wand van multiplex
 Een jonge zwemmer zit in een badpak en wacht op de volgende wedstrijd
 Een vrouw pakt een kangoeroe, die een baby is, op en houdt hem vast in haar armen
 De man die omringd wordt door mannen met een camera draagt een grijs pak en een bril
-Een bruine en witte kat met een bruine en zwarte bandana rent erg snel
+Een bruine en witte kat met een bruine en zwarte bandana rent erg snel ORIGINALTYPO
 Een zwart-witte hond speelt met een kapotte volleybal in een bruin veld
 Een man en een vrouw van middelbare leeftijd rijden paard langs een weg naast het water
 De fiets wordt bereden door een man die een baret draagt op een recreatieparcours
@@ -5603,7 +5603,7 @@ De man en de jongen staan boven aan de trap, die buiten is
 Een man in een blauwe jumpsuit voert moedig een wheelie uit op een motor
 De man staat op een rotsachtige berg en grijze wolken staan op de achtergrond
 Een man en een jongen staan onder aan een trap, die buiten staat
-Twee mannen en een meisje achter een houten paneelmuur poseren met gekke gezichten
+Twee mannen en een meisje achter een houten paneelmuur poseren met gekke gezichten ORIGINALTYPO
 De volwassenen en kinderen worden gegroepeerd in de buurt van een buitenzitplaats
 Een groep jongens speelt met een bal voor een grote houten deur
 Een vrouw in witte kleding en een vrouw in een blauwe jurk staan op een podium
@@ -5627,7 +5627,7 @@ Een autocoureur staat op en wijst fel met zijn hand naar de lucht
 Twee honden van verschillende rassen kijken boos naar elkaar aan de overkant van de straat
 De jongen in het blauwe shirt kijkt naar zijn hand bij de stapel blokken op tafel
 Een eend met bruine veren en een groene kop wappert zijn vleugels in het water
-Twee jonge meisjes kijken naar de camera en één steekt haar tong uit
+Twee jonge meisjes kijken naar de camera en één steekt haar tong uit ORIGINALTYPO
 Er is geen kleine cavia die knaagt en een stuk wortel eet op de vloer
 Een hond, die zwart is, en een witte staren naar elkaar op straat
 Een man met apparatuur voor het klimmen hangt aan een witte, verticale rots
@@ -5781,7 +5781,7 @@ Een tatoeage wordt getekend door de vrouw in de witte trui op de hand van een ti
 Een vrouw draagt een grote maat zonnebril en houdt kranten in beide handen
 De cheerleaders zijn niet aan het paraderen en dragen geen zwarte, roze en witte uniformen
 Een jong meisje met een hart tanktop steekt haar handen op terwijl ze op een glijbaan speelt
-Een persoon kijkt in de verte en mensen lopen tussen de actherliggende gebouwen door
+Een persoon kijkt in de verte en mensen lopen tussen de actherliggende gebouwen door ORIGINALTYPO
 Een vrouw slaat de man die twee eieren in de kom bewaart, met een draadklopper
 Er is geen voetballer in een paarse trui die met de bal rent voor een touchdown
 Sommige mensen bij een dragrace kijken naar de vlammen die uit de auto's komen
@@ -5918,7 +5918,7 @@ Er is geen kind dat buiten met een waterhoos speelt terwijl de rest van zijn fam
 Een man draagt een blauw shirt met lange mouwen en een spijkerbroek en rijdt op een eenwieler door de straat
 Een man in een paars geverfd shirt kijkt naar een man in een zwart shirt die een grappig gezicht trekt
 Een persoon op een fiets springt door de lucht en de zon schijnt door het fietsframe
-De man gekleed in leren chaps en een paars overhemd staat voor iemand die kijkt
+De man gekleed in leren chaps en een paars overhemd staat voor iemand die kijkt ORIGINALTYPO
 Een hond, die groot en grijs is, laat een bal uit zijn bek vallen en stopt in het gras
 Een vrouw staat aan het stuur van een klassieke Amerikaanse auto die de deur en de kofferbak open heeft
 Een lachende jongen in winterkleding zwaait met zijn gehandschoende handen buiten een gebouw in de sneeuw
@@ -6056,7 +6056,7 @@ Een dame van jonge leeftijd, met lichtbruin haar, draagt een rode ketting, een s
 Een rood sweatshirt met een lachende dame erop is geschikt om te worden gedragen met lichtbruin haar, oorbellen en een ketting
 De man met bruin haar draagt geen zonnebril en zit niet aan een tafel met blikjes frisdrank en andere dranken
 Er is geen man die kleren draagt die bedekt zijn met verf of die buiten op een drukke plek zit te schrijven
-Een jonge jongen draagt een blauw patroon zwempak, een zwarte en gele badmuts en heeft een blauwe zwembril op zijn hoofd
+Een jonge jongen draagt een blauw patroon zwempak, een zwarte en gele badmuts en heeft een blauwe zwembril op zijn hoofd ORIGINALTYPO
 Een kat bevindt zich in een zanderig gebied met het zand dat in de lucht wordt geroerd en verschillende planten staan op de achtergrond
 Een jongen in een rood shirt staat voor een muur, die lang en blauw is, en steekt verdacht een wenkbrauw op naar de camera
 Een hond bevindt zich in een zanderig gebied met het zand dat in de lucht wordt geroerd en verschillende planten staan op de achtergrond
@@ -6072,5 +6072,5 @@ Een man in een wit hemd en een zonnebril en een man in een zwart hemd en een zon
 Eén jongen in een oranje korte broek staat op een rotswand over het water en de andere jongen in een zwarte korte broek springt ervan in het water
 Eén meisje in een oranje korte broek staat op een rotswand over het water en het andere meisje in een zwarte korte broek springt eraf in het water
 Een vrouw die een blauw-wit uniform draagt met een witte en blauwe hoed houdt haar mond open en is in de buurt van anderen die op dezelfde manier gekleed zijn
-Een stuk brood, dat groot is, wordt met boter besmeerd door een man OF Een stuk brood, dat groot is, wordt met boter besmeerd door een man
+Een stuk brood, dat groot is, wordt met boter besmeerd door een man OF Een stuk brood, dat groot is, wordt met boter besmeerd door een man ORIGINALTYPO
 De vrouw die het blauwe en witte uniform met een witte en blauwe hoed draagt, houdt haar mond open en is dicht bij anderen die op dezelfde manier gekleed zijn
