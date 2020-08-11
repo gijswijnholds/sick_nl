@@ -30,6 +30,11 @@ def replace_sick_data(origin_data, translation_dict):
                                      for ln in origin_data[1:]])
     return header + new_data
 
+
+def sent_diff(s1, s2):
+    return [(w1, w2) for (w1, w2) in zip(s1.split(), s2.split()) if w1 != w2]
+
+
 print("Processing SICK translation...")
 sick_data = load_sick(sickLocalFN)
 sick_translation_dict = load_parallel_sentences(sick_sentences_origin_fn,
@@ -46,3 +51,13 @@ print("All done, translated dataset written to {}".format(sick_translation_out_f
 
 cnter = Counter([s_out for (s_in, s_out) in sick_translation_dict.items()])
 doubles = [(k,cnter[k]) for k in cnter if cnter[k]>1]
+
+# for d,i in doubles:
+#     print(d)
+dutch_sick_lines = [ln.split('\t') for ln in dutch_sick.split('\n')]
+duplis = [ln for ln in dutch_sick_lines if ln[1] == ln[2]]
+
+duplis_diffs = [(ln[0], sent_diff(ln[7], ln[8])) for ln in duplis]
+
+for l in sorted(duplis_diffs, key=lambda d:d[1]):
+    print(l)
