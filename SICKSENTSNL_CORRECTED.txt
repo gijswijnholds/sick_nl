@@ -2134,7 +2134,7 @@ De man kookt saus voor het vlees
 Sommige katten spelen met elkaar
 Sommige honden spelen niet in een stroom
 Iemand roert voedsel in het water
-Een man snijdt een aardappel in stukken
+Een man snijdt een aardappel door in stukken
 De pandabeer rust op de boomstammen
 Een konijn speelt met een speelgoedkonijn
 Een aardappelschil valt over een vrouw
@@ -2562,7 +2562,7 @@ Een meisje snijdt boter in twee stukken
 Een persoon maakt een potje bakolie schoon
 De man is vrolijk aan het wandelen in het bos
 Vier mensen voeren buiten muziek uit
-Iemand springt in de lucht op een board
+Iemand springt op in de lucht op een board
 Twee jonge meisjes zitten op de grond
 Er is geen raam dat door een man wordt schoongemaakt
 Er is geen hond die langs een sneeuwjacht loopt
@@ -3817,7 +3817,7 @@ Een dier rolt van kant naar kant in een tuin
 Een witte hond staat op een heuvel die bedekt is met gras
 Er is geen man die ondersteboven danst op het plafond
 De oranje reddingsboot vaart over het water
-Twee honden springen door besneeuwd gras en rotsen
+Twee honden springen op door besneeuwd gras en rotsen
 Het meisje in het blauw-witte uniform juicht
 Rolschaatsers rollen in formatie een heuvel af
 Een vrouw plaatst een kom met een scheur bij een ei
@@ -4609,7 +4609,7 @@ De man neemt geen foto van zichzelf en een andere kerel
 Een man breekt een blok beton met een voorhamer
 Een vrouw toont een hond met zeer lang haar op een hondenshow
 De witte honden kijken niet nieuwsgierig naar de zwarte lama
-Een zwarte hond springt van een hooibal naar een andere hooibal
+Een zwarte hond springt op van een hooibal naar een andere hooibal
 Het vliegtuig, dat Zuid-Afrikaans is, vliegt in een blauwe lucht
 Er is geen man die hurkt in een penseel en een foto maakt
 Twee mannen laten twee honden met gouden vacht uit in de sneeuw
@@ -5349,7 +5349,7 @@ Een man en twee vrouwen in een donkere kamer zitten aan een tafel met kaarsen
 Een dakloze man houdt een bord omhoog en smeekt jammerlijk om geld
 Een grote bruine hond en een kleine grijze hond staan op een rotsachtige ondergrond
 Een man met een uitrusting die gebruikt wordt voor het klimmen bevindt zich onder een verticale, witte rots
-Een zwarte hond in de sneeuw springt van de grond en vangt een stok
+Een zwarte hond in de sneeuw springt op van de grond en vangt een stok
 Een jonge jongen zit in een badpak en wacht op de volgende race
 Een neushoorn, een jongeling, loopt rond in een hok met zijn moeder
 Een vuile bruingele hond rolt in het vuil en kijkt recht naar de camera
@@ -5539,7 +5539,7 @@ Het mannetje met donkere huid staat op één hand voor een geel gebouw
 Een boom valt over een brug die over de rivier is gemaakt en waar een hond overheen gaat
 Een jonge zwemmer staat in een badpak en wacht op de volgende wedstrijd
 Een man in een motorcross-uniform draagt een helm en rijdt op een rode motorfiets
-Een bruine en witte hond springt in de lucht met een tennisbal in zijn bek
+Een bruine en witte hond springt op in de lucht met een tennisbal in zijn bek
 Een vrouw, die schoenloos is, zit op een deken onder een lavendelparaplu
 Een vrouw in een zwart geverfd overhemd zit naast een fluorescerende groene tas
 Een vrouw rijdt in een auto en praat met de man die naast haar zit
