@@ -522,7 +522,7 @@ Een man rijdt op een motor
 Een jongen speelt een keyboard
 Iemand doet oefeningen
 Een vrouw kamt haar haar
-Iemand is een tomaat aan het snijden
+Iemand is een tomaat in schijfjes aan het snijden
 De man is stil en kalm
 Sommige mannen lopen een race
 Een jongen draagt een zonnebril
@@ -531,7 +531,7 @@ Een kat zit op een piano
 Er is geen man die voedsel eet
 Een vrouw snijdt aardappelen
 Een man rijdt niet op een paard
-Een vrouw snijdt een wortel
+Een vrouw snijdt een wortel in schijfjes
 De hond zit achter de bal aan
 Een dame doet make-up op
 Een man staat op een dak
@@ -546,10 +546,10 @@ De hond likt de baby
 Een doos wordt gesneden door een man
 Een vrouw streelt een maki
 Iemand plant een boom
-Een man snijdt wat brood
+Een man snijdt wat brood in sneetjes
 Een man vouwt een tortilla op
 Een man stapt in een auto
-De man is een aardappel aan het doorsnijden
+De man is een aardappel in schijfjes aan het snijden
 Een bruine hond gaat zitten
 Een man speelt op de gitaar
 Een hond springt in de lucht
@@ -560,7 +560,7 @@ Een kat springt in een doos
 Een vrouw speelt gitaar
 Een man en een vrouw praten
 Een meisje speelt piano
-Een vrouw snijdt een aardappel in plakjes
+Een vrouw snijdt een aardappel in schijfjes
 Een vrouw rijdt op een dier
 Niemand speelt pingpong
 Een vrouw snijdt een wortel
@@ -569,8 +569,8 @@ Een tijger loopt rond
 Een dier kijkt rond
 Eén man leidt de race
 Eén man eet wat voedsel
-De vrouw is knoflook aan het snijden
-Een vrouw is een ui aan het snijden
+De vrouw is knoflook in schijfjes aan het snijden
+Een vrouw is een ui in schijfjes aan het snijden
 Een man tekent op een bord
 Een vrouw is wat eten aan het bakken
 Een hond speelt met een stuk speelgoed
@@ -578,15 +578,15 @@ Een man praat met een vrouw
 Iemand snijdt een tomaat
 De kat likt een fles
 Een persoon speelt op een piano
-Een vrouw is aardappelen aan het snijden
+Een vrouw is aardappelen in schijfjes aan het snijden
 Een jongen slaat een honkbal
-De man is aardappelen aan het snijden
+De man is aardappelen in schijfjes aan het snijden
 Een surfer rijdt op de golf
 Een ruiter surft op de golf
 Een man zingt voor een vrouw
 De man rijdt op het paard
 Een man pakt de gitaar in
-De man is een tomaat aan het snijden
+De man is een tomaat in schijfjes aan het snijden
 Een vrouw wast haar voeten
 Iemand tekent een persoon
 De jongen speelt gitaar
@@ -600,7 +600,7 @@ Een maki hangt aan een koord
 Een man danst op de weg
 Een band speelt op een podium
 Iemand speelt geen piano
-Een vrouw is wat vlees aan het snijden
+Een vrouw is wat vlees in plakjes aan het snijden
 De vrouw is een wortel in blokjes aan het snijden
 De persoon is een kat aan het borstelen
 Een dronken man melkt een kat
@@ -640,7 +640,7 @@ Een baby speelt met een stuk speelgoed
 Er is geen vrouw aan het sporten
 Er is niemand aan de wal
 Twee mensen rijden op een fiets
-Een persoon snijdt een aardappel in plakjes
+Een persoon snijdt een aardappel in schijfjes
 Een man rijdt op een rodeostier
 Een persoon snijdt een ui
 Een man staat op uit een moeras
@@ -648,7 +648,7 @@ Een aap borstelt de hond
 Een ui wordt niet in schijfjes gesneden
 Een man rijdt op een motorfiets
 Een man en een vrouw eten
-De dame is een tomaat aan het snijden
+De dame is een tomaat in schijfjes aan het snijden
 De vrouw is niet aan het waterskiën
 Een man laat de gitaar vallen
 Een man is een jachtgeweer aan het herladen
@@ -659,7 +659,7 @@ Een man spreekt op een podium
 Een vrouw maakt een garnaal schoon
 Iemand voert een dier
 De vrouw speelt op een fluit
-Een man eet plakjes ui
+Een man eet schijfjes ui
 De vrouw is knoflook aan het hakken
 Een hond rent op de weg
 Twee teams spelen voetbal
@@ -668,7 +668,7 @@ Een meisje draagt een zonnebril
 Een paard rijdt over een man
 Een vis wordt gesneden door een man
 Een man bestuurt een motor
-De persoon is uien aan het snijden
+De persoon is uien in schijfjes aan het snijden
 Een jongen controleert een kalender
 Een vrouw is een ui aan het hakken
 Een vrouw denkt aan een man
@@ -686,7 +686,7 @@ Een persoon is een ui aan het schillen
 Een vrouw doet make-up op
 De man speelt op het drumstel
 Het meisje rijdt op het paard
-Een persoon is een ui aan het snijden
+Een persoon is een ui in schijfjes aan het snijden
 Een man voert een telefoongesprek
 Een vrouw borstelt haar voeten
 Een grote vis vangt een man
@@ -774,15 +774,15 @@ Iemand houdt een egel vast
 Een hond komt uit een meer
 Een meisje gebruikt gebarentaal
 Een persoon eet aan een tafel
-Een vrouw is een komkommer aan het snijden
+Een vrouw is een komkommer in schijfjes aan het snijden
 De chef is de olie aan het kruiden
 Okra wordt gekookt in een pan
 De persoon kookt noedels
-Een man snijdt een rode tomaat
-Een vrouw is groenten aan het snijden
+Een man snijdt een rode tomaat in schijfjes
+Een vrouw is groenten in schijfjes aan het snijden
 Een stel dat op de stoep staat
 Er is geen man die fluit speelt
-Een vrouw snijdt geen knoflook
+Een vrouw snijdt geen knoflook in schijfjes
 Er is geen vrouw die eieren mengt
 Een kind maakt een sneeuwbal
 Een speler gooit de bal
@@ -792,10 +792,10 @@ Een voetballer speelt piano
 Een jongen houdt een waterpistool vast
 Een kind slaat een honkbal
 Een man snijdt geen aardappel
-Er is geen man die een broodje snijdt
+Er is geen man die een broodje in sneetjes snijdt
 Een man speelt niet op een gitaar
 Een jongen loopt op het strand
-De man is groenten aan het snijden
+De man is groenten in schijfjes aan het snijden
 Een neushoorn graast in een veld
 Iemand is een dier aan het schoonmaken
 De man rijdt niet op een paard
@@ -805,8 +805,8 @@ Een vrouw snijdt een octopus
 Een vrouw rijdt niet op een paard
 Een man is buiten aan het touwtje springen
 Een man praat aan de telefoon
-Een vrouw is een octopus aan het snijden
-De vrouw is een ui aan het snijden
+Een vrouw is een octopus in schijfjes aan het snijden
+De vrouw is een ui in schijfjes aan het snijden
 Er is geen hond die een pop eet
 Een man spreekt op een lessenaar
 Een man stopt de fiets
@@ -817,7 +817,7 @@ Een tekenfilmvliegtuig landt
 Een man hangt de telefoon op
 Een kind mist een honkbal
 Er is geen man die een auto bestuurt
-De man is de aardappel aan het snijden
+De man is de aardappel in schijfjes aan het snijden
 Een man vist in de rivier
 Een man rijdt niet op een fiets
 Een kleine hond ligt op een bed
@@ -836,13 +836,13 @@ Een man gaat het water in
 Een man en een vrouw zitten
 Een man en een vrouw lopen
 Een groep mensen loopt
-De vrouw is een tomaat aan het snijden
+De vrouw is een tomaat in schijfjes aan het snijden
 Er is geen man die een doos snijdt
 Een jongen versnippert een kalender
 De vrouwen dansen buiten
 Twee sumoworstelaars zijn aan het vechten
 Drie mensen besturen quads
-Een vrouw snijdt geen wortels
+Een vrouw snijdt geen wortels in schijfjes
 Een vrouw loopt van een podium af
 Er is geen vrouw die eieren kookt
 Een vrouw snijdt een groente
@@ -866,7 +866,7 @@ Een blikje wordt gebeten door een hond
 Een hond sluit een blikje voedsel
 Een vrouw valt van een paard
 Er is geen kind dat gitaar speelt
-Er is geen vrouw die tofu aan het snijden is
+Er is geen vrouw die tofu in schijfjes aan het snijden is
 Er is geen man die een vis snijdt
 Mensen zitten in de buurt van een muur
 Een man is aan het wandelen in het bos
@@ -901,7 +901,7 @@ Een leeuw beweegt zich langzaam rond
 Een man vist in de stroom
 Een persoon rijdt op een motor
 De jongen bestudeert een kalender
-Een persoon is een komkommer aan het snijden
+Een persoon is een komkommer in schijfjes aan het snijden
 Een meisje oefent op de piano
 Een hond zwemt achter een bal aan
 Een baby speelt geen gitaar
@@ -976,7 +976,7 @@ De man danst verwoed
 De man is aan het wandelen in het bos
 Er is geen man die voetbalt
 Er is geen man die uien snijdt
-Een vrouw is een aubergine aan het snijden
+Een vrouw is een aubergine in schijfjes aan het snijden
 Een man snijdt een papieren bord
 Een man zet een wortel weg
 De jongeman is aan het bergbeklimmen
@@ -992,7 +992,7 @@ Een auto wordt bestuurd door een man
 Geen enkele ui wordt door een man gesneden
 De man speelt geen fluit
 Een surfer surft op een grote golf
-Een vrouw is een groente aan het snijden
+Een vrouw is een groente in schijfjes aan het snijden
 Een topless jongen heeft een schoon gezicht
 Een man springt uit een zwembad
 De man doet een goocheltruc
@@ -1004,7 +1004,7 @@ Een bruine puppy bijt in een stokje
 Een baby juicht een andere baby toe
 Een vrouw schilt geen aardappel
 Een jongen speelt op een speelgoedtelefoon
-Een vrouw snijdt geen ui
+Een vrouw snijdt geen ui in schijfjes
 De persoon rijdt op het dier
 Iemand snijdt wat gember
 Er is geen hert dat over een hek springt
@@ -1041,7 +1041,7 @@ Een harp wordt bespeeld door een man
 Iemand tokkelt op de gitaar
 Er loopt geen man buiten
 Een hond slaapt op de grond
-Een vrouw snijdt een grote paprika
+Een vrouw snijdt een grote paprika in reepjes
 Lopers doen mee aan een wedstrijd
 Twee honden slapen bij een boom
 Er is niemand die op een piano speelt
@@ -1069,7 +1069,7 @@ Een man haalt de trommel uit elkaar
 Een kat loopt op het parket
 Er is geen team dat voetbalt
 De man racet voor de leiding
-Iemand snijdt wat gember
+Iemand snijdt wat gember in schijfjes
 Een vrouw zet wortels weg
 Een dame wordt gekust door een man
 De persoon speelt fluit
@@ -1108,10 +1108,10 @@ Een man slaat een voetbal
 Een vis wordt doorgesneden door een man
 Een kat eet maïs op de kolf
 De man loopt rond in een kamer
-De dame is het vlees aan het snijden
+De dame is het vlees in plakjes aan het snijden
 Een groep mensen is op een strand
 Een jonge jongen speelt op een gitaar
-De man snijdt geen aardappelen
+De man snijdt geen aardappelen in schijfjes
 Een kind houdt een waterpistool vast
 Tofu wordt in schijfjes gesneden door een vrouw
 Een man bespeelt het instrument
@@ -1123,12 +1123,12 @@ Een tijger loopt rond in een kooi
 Een kind speelt met een speelgoedhond
 Eén man zit op de stoel
 De man praat aan de telefoon
-Iemand is wat uien aan het snijden
+Iemand is wat uien in schijfjes aan het snijden
 Lopers racen over een circuit
 Twee sumoworstelaars vechten
 Een vrouw legt een fluit neer
 Vis wordt gekookt door een vrouw
-De man is geen aardappel aan het doorsnijden
+De man is geen aardappel in schijfjes aan het snijden
 Er is geen man die op een fluit speelt
 Een man springt van een lage muur af
 Een stel kerels is aan de kust
@@ -1136,7 +1136,7 @@ Een loper draait om een eekhoorn heen
 Er is geen man die een papier snijdt
 Een vrouw legt een citroen neer
 Iemand pelt geen banaan
-Er is geen man die een aardappel in plakjes snijdt
+Er is geen man die een aardappel in schijfjes snijdt
 Een ui wordt gesneden door een vrouw
 Er is geen man die wat voedsel eet
 Een jongen tikt op zijn vingernagels
@@ -1197,8 +1197,8 @@ De schildpad volgt de vis
 De vis volgt de schildpad
 Een touw wordt beklommen door een man
 De man oefent op de gitaar
-Er is geen vrouw die een vis aan het snijden is
-Er is geen man die een ui snijdt
+Er is geen vrouw die een vis aan het doorsnijden is
+Er is geen man die een ui in schijfjes snijdt
 Iemand schrobt een courgette
 Een vrouw rijdt op een olifant
 Iemand kookt okra in een pot
@@ -1231,13 +1231,13 @@ Er is geen aap die op een fiets rijdt
 Een jongen oefent op het keyboard
 Er is geen jongen die een gitaar speelt
 De man speelt niet op het drumstel
-De persoon is de aardappel aan het snijden
+De persoon is de aardappel in schijfjes aan het snijden
 Een vrouw wordt gekust door een man
 Een fluit wordt bespeeld door een man
 Een stel kijkt niet naar een kaart
 De jongen speelt geen piano
 De kat speelt met een apparaat
-De man is wat aardappelen aan het snijden
+De man is wat aardappelen in schijfjes aan het snijden
 Een man is aan het touwtje springen in een veld
 Een man legt de gitaar neer
 Een man doet aan lichaamsbeweging
@@ -1246,7 +1246,7 @@ Er is geen vrouw die een geweer afvuurt
 Er is geen man die een e-mail leest
 Een vrouw maakt het gezicht van een man schoon
 Sommige honden spelen in een rivier
-De persoon snijdt geen uien
+De persoon snijdt geen uien in schijfjes
 De jongen rijdt niet op een driewieler
 De man geeft een interview
 Een man is de gitaar aan het inpakken
@@ -1284,8 +1284,8 @@ Een vrouw legt een wortel weg
 Een dier rijdt op een skateboard
 Een man doet een trucje op een fiets
 Een zeeschildpad is op jacht naar voedsel
-Er is geen man die een tomaat snijdt
-Er is geen man die aardappels snijdt
+Er is geen man die een tomaat in schijfjes snijdt
+Er is geen man die aardappels in schijfjes snijdt
 Een kat speelt grappig op een piano
 De kitten speelt met een speeltje
 Een vrouw hakt geen ui
@@ -1301,10 +1301,10 @@ Sommige vrouwen zijn vrolijk aan het dansen
 Mensen zitten tegen een muur
 Een jongen loopt door het zand
 Een witte hond staat in een meer
-De man is de aardappel niet aan het snijden
-Een vrouw snijdt een groene paprika
+De man is de aardappel niet in schijfjes aan het snijden
+Een vrouw snijdt een groene paprika in reepjes
 Een man kookt noedels in water
-Een vrouw snijdt geen octopus
+Een vrouw snijdt geen octopus in schijfjes
 Rugby wordt gespeeld door sommige mannen
 Er is geen kat die op een ventilator zwaait
 Broccoli's worden gesneden door een vrouw
@@ -1316,13 +1316,13 @@ De mannen hebben een gesprek
 Een klein meisje speelt gitaar
 Een hond vangt een zwarte frisbee
 Een meisje tikt op haar vingernagels
-Een vrouw snijdt geen komkommer
+Een vrouw snijdt geen komkommer in schijfjes
 De vrouwen dansen niet buiten
 Een leeuw loopt moe in een stal
 Een jongeman zit op een bankje
 Een jong kind springt in het water
 De kat drinkt hongerig melk
-De man snijdt geen groenten
+De man snijdt geen groenten in schijfjes
 De bruine hond speelt buiten
 Een man springt in een vol zwembad
 Een pianist speelt op het keyboard
@@ -1343,7 +1343,7 @@ Een baby speelt niet met een pop
 Een vrouw ontdoet zich van een fluit
 Een viool wordt bespeeld door een man
 De patiënt helpt de dokter
-Een man snijdt een plakje brood
+Een man snijdt een sneetje brood
 Een man wordt door een klimmer vastgebonden
 Een hond rent door de sneeuw
 Een gitaar wordt bespeeld door een kind
@@ -1367,7 +1367,7 @@ Een zwarte hond ligt in het gras
 Iemand kookt okra in een pot
 De man en de vrouw lopen niet
 Een fluit wordt bespeeld door een meisje
-De vrouw snijdt geen ui
+De vrouw snijdt geen ui in schijfjes
 Twee jongens spelen een videospel
 Twee sumoworstelaars vechten niet
 Twee honden spelen op het strand
@@ -1442,7 +1442,7 @@ Sommige honden spelen in een stroom
 Er is geen man die de e-mail leest
 Een hond stuitert op een trampoline
 Er is geen hond aan het racen op een parcours
-De persoon is een groente aan het snijden
+De persoon is een groente in schijfjes aan het snijden
 Een voetballer mist een doelpunt
 Een speelgoedtrein slaat een speelgoedwagen
 De man doet geen goocheltruc
@@ -1509,11 +1509,11 @@ Twee jonge jonge kinderen eten corndogs
 Twee mensen staan op een bankje
 Iemand legt de gitaar weg
 Een hond springt op een duikplank
-Iemand snijdt wat paddenstoelen
+Iemand snijdt wat paddenstoelen in schijfjes
 Een jongen rent door het gras
 Een gitaar wordt bespeeld door een baby
 Een topless meisje is bedekt met verf
-Er is geen vrouw die een tomaat snijdt
+Er is geen vrouw die een tomaat in schijfjes snijdt
 Een groep mensen is op een berg
 Een surfer leunt op een surfplank
 De persoon schrobt een courgette
@@ -1522,7 +1522,7 @@ Tofu wordt niet in schijfjes gesneden door een vrouw
 Een hond rent met een volleybal
 Een gitaar wordt bespeeld door een meisje
 Een man giet vloeistof in een pan
-Er is geen vrouw die een aardappel snijdt
+Er is geen vrouw die een aardappel in schijfjes snijdt
 Een cavia verslindt een wortel
 Twee mannen spelen tafelvoetbal
 Er is geen vrouw die een maki streelt
@@ -1545,7 +1545,7 @@ Een man parkeert een auto in een garage
 Er is niemand die op de gitaar speelt
 Rekruten praten met een officier
 Vier mensen drijven op een vlot
-Er is geen vrouw die een ui snijdt
+Er is geen vrouw die een ui in schijfjes snijdt
 Er is geen persoon die noedels kookt
 Een zwarte hond rent in de sneeuw
 Een paard wordt bereden door een vrouw
@@ -1559,7 +1559,7 @@ De artsen doen een man niet herleven
 Een vrachtwagen gaat snel een heuvel op
 Aardappelen worden in schijfjes gesneden door een man
 Er is geen man die op de gitaar speelt
-Er is geen vrouw die aardappels snijdt
+Er is geen vrouw die aardappels in schijfjes snijdt
 Een man speelt luid op de gitaar
 Een piano wordt bespeeld door iemand
 Een vrouw wordt gemasseerd door een man
@@ -1586,7 +1586,7 @@ De dame snijdt het vlees niet in plakjes
 Er is geen man die wat brood in sneetjes snijdt
 Een man veegt de rand van een kom af
 Geen enkele hond loopt door de sneeuw
-Er is geen vrouw die een wortel snijdt
+Er is geen vrouw die een wortel in schijfjes snijdt
 Twee mensen rijden op een motorfiets
 De vrouw kookt niet iets
 Er is geen vrouw die een ui snijdt
@@ -1604,7 +1604,7 @@ De persoon speelt met een schedel
 Een paar dieren zijn uit het water
 Er is geen persoon die piano speelt
 De man is niet aan het wandelen in het bos
-Niemand snijdt een stuk brood
+Niemand snijdt een stuk brood in sneetjes
 Er is geen man die met een jachtgeweer schiet
 Er is geen vrouw die aardappels snijdt
 Een wandelaar is in een hoedenwinkel voor mannen
@@ -1718,8 +1718,8 @@ Een man maakt een geluiddemper aan een geweer vast
 Er wordt wat eten gebakken door een vrouw
 Twee meisjes zitten op de grond
 De hond doet een dutje in het park
-Er is geen persoon die een aardappel snijdt
-Er is geen persoon die een ui snijdt
+Er is geen persoon die een aardappel in schijfjes snijdt
+Er is geen persoon die een ui in schijfjes snijdt
 Een hond laat een bal achter in het vuil
 Een man wordt vóór een klim overgehaald
 De man staat op de stoep
@@ -1752,7 +1752,7 @@ Een tijger loopt doelloos rond
 Een jongen springt op een stoel
 Er is geen vrouw die in een kooi danst
 Een man laat zorgeloos een kikker vallen
-Iemand snijdt geen uien
+Iemand snijdt geen uien in schijfjes
 Een bruine hond springt in het water
 De man doet oefeningen in een sportschool
 Een wortel wordt in schijfjes gesneden door een vrouw
@@ -1772,7 +1772,7 @@ Het drumstel wordt bespeeld door een man
 De man schopt een bokstrainer
 De man slingert messen naar een boom
 De mensen staan bij een optocht
-Een man botert een plakje brood
+Een man botert een sneetje brood
 Een klein meisje peddelt op een step
 Een vrouw snijdt snel een ui
 De dame pakt de kangoeroe op
@@ -1782,7 +1782,7 @@ Twee honden zijn aan het dartelen in de sneeuw
 Een man springt in een leeg bad
 Het eten wordt gefrituurd door een vrouw
 Een man mengt groenten in een pot
-De vrouw snijdt gekookte octopus
+De vrouw snijdt gekookte octopus in schijfjes
 Een aardappel wordt door een vrouw in schijfjes gesneden
 Een aardappel wordt geschild door een vrouw
 Een groep mensen is in de buurt van de oceaan
@@ -1802,7 +1802,7 @@ Een hond speelt op het groene gras
 De vrouw houdt een hele tomaat vast
 De lopers zijn aan het racen in een wedstrijd
 Een baby-tijger speelt met een bal
-Een kok snijdt wat paprika's
+Een kok snijdt wat paprika's in reepjes
 Een fles wordt door de kat gelikt
 Er is geen man die in de regen loopt
 De vrouw snijdt gekookte octopus
@@ -1812,7 +1812,7 @@ De kangoeroe pakt de vrouw op
 Een hond jaagt een bal door het vuil
 De vrouw roert eieren in een kom
 Een auto en een trein slaan een stuk speelgoed neer
-Een persoon snijdt een stuk brood
+Een persoon snijdt een stuk brood in sneetjes
 Een skateboarder springt in de lucht
 Een man maakt de rand van een kom schoon
 Er is geen neushoorn die in een veld graast
@@ -1870,7 +1870,7 @@ Een man en een vrouw eten blij
 De man snijdt geen papieren bord
 Een vrouw wordt opgesloten voor de dans
 Een banaan wordt gepeld door een persoon
-Een vrouw snijdt vlees met een mes
+Een vrouw snijdt vlees in plakjes met een mes
 De hond is aan het uitrusten in het park
 Vier mensen lopen op het strand
 Er wordt een pan over het vlees gegooid
@@ -1910,7 +1910,7 @@ Een hond loopt langs de sneeuwjacht
 Er is geen man die in de rivier vist
 Een man vult een plastic container
 Een kat speelt met een klein flesje
-Een vrouw snijdt een teen knoflook
+Een vrouw snijdt een teen knoflook in schijfjes
 De man spreekt aan de telefoon
 Een vrouw is een stuk vlees aan het kruiden
 Een grootse hond beklimt een steile heuvel
@@ -1960,7 +1960,7 @@ Een skateboarder springt van een schans
 Er spreekt geen man op een podium
 Een man slaat een jongen met een zwaard
 Een zeeschildpad is niet op jacht naar vis
-De persoon snijdt geen groente
+De persoon snijdt geen groente in schijfjes
 De man kraakt eieren in een kom
 Een auto is risicovol over een meisje aan het springen
 Eén man zet de magnetron uit
@@ -2002,7 +2002,7 @@ Een papieren bord wordt door de man gesneden
 De aap borstelt geen bulldog
 Er zijn geen honden die in de sneeuw spelen
 Sommige kinderen spelen op een standbeeld
-Er is geen vrouw die een aubergine snijdt
+Er is geen vrouw die een aubergine in schijfjes snijdt
 De bebaarde man zit in een trein
 Een vrouw kijkt nieuwsgierig naar een man
 Iemand woelt door de vacht van een kat
@@ -2171,7 +2171,7 @@ Er staat geen neushoorn op het gras te grazen
 Een man valt van een mechanische stier af
 De man speelt een spel op het gras
 Een keyboard wordt bespeeld door een persoon
-De vrouw snijdt een teentje knoflook in plakjes
+De vrouw snijdt een teentje knoflook in schijfjes
 Een blond meisje zwaait terwijl ze rijdt
 Een man belt aan een mobiele telefoon
 De piano wordt door niemand bespeeld
@@ -2458,7 +2458,7 @@ Een dier zwemt in een waterlichaam
 Een man doet niet mee aan een bmx-race
 Een witte hond staat op gevallen bladeren
 De katten spelen niet met elkaar
-Een vrouw snijdt een paprika die groot is
+Een vrouw snijdt een paprika die groot is in reepjes
 Een motorrijder rent een man omver
 Er is geen man die van een besneeuwde heuvel af skiet
 Een man giet geen olie op de tomaten
@@ -2545,7 +2545,7 @@ Twee dieren rennen door het park
 De man speelt geen akoestische gitaar
 Een vrouw verwijdert de schil van een aardappel
 Een hond rent een heuvel vol met gras op
-Er is geen vrouw die een groene paprika snijdt
+Er is geen vrouw die een groene paprika in reepjes snijdt
 Een persoon doet een trucje op een snowboard
 Drie mannen oefenen karate in een sportschool
 Een persoon snijdt een ui in stukken
@@ -2572,7 +2572,7 @@ Een gelukkig gezin poseert bij de open haard
 Pasta wordt door een vrouw in een gerecht gestopt
 De vrouw voegt geen suiker toe aan het vlees
 De menigte kijkt niet naar een voetbalwedstrijd
-De dame snijdt het vlees voorzichtig in stukken
+De dame snijdt het vlees voorzichtig in plakjes
 De man zingt en speelt gitaar
 Een man doet achterwaartse salto's op een trampoline
 Eén man beklimt de klif met een touw
@@ -2595,7 +2595,7 @@ Mensen rijden op twee kamelen op het strand
 Sommige mensen kijken naar geluidsapparatuur
 Drie kleine katten snuffelen aan iets
 Drie jongens in karate uniform zijn aan het sparren
-De persoon is snel een groente aan het snijden
+De persoon is snel een groente in schijfjes aan het snijden
 Een motorrijder zit bij een politieagent
 Een persoon roert groenten in een kom
 Een meisje in een band bespeelt een instrument
@@ -2740,7 +2740,7 @@ Een hond springt naar een frisbee in de sneeuw
 Een getrouwd stel loopt door het gangpad
 Een blonde man hangt aan gymnastiektouwen
 Iemand streelt de buik van een dier
-Er is geen kok die wat paprika's in stukken snijdt
+Er is geen kok die wat paprika's in reepjes snijdt
 Er is geen man die een houtblok hakt met een bijl
 Wat melk wordt hongerig gedronken door een kat
 Het meisje besproeit de planten met water
@@ -2750,7 +2750,7 @@ Een harp wordt bespeeld met een hoed door een man
 Kleine koters beklimmen een standbeeld in een park
 Twee dieren lopen door hoog gras
 Verschillende fretten klimmen in de kooi
-Een man snijdt de wortel met een machine
+Een man snijdt de wortel in schijfjes met een machine
 Een jongen speelt een spel met houten blokken
 De vrouw giet geen olie in een koekenpan
 Een man houdt een masker in zijn opgeheven hand
@@ -2759,7 +2759,7 @@ Wat in schijfjes gesneden tofu wordt gegeten door een vrouw
 Een persoon hurkt en houdt een camera vast
 De man speelt piano met zijn neus
 Twee kinderen hangen aan een grote tak
-De vrouw met een mes snijdt een peper
+De vrouw met een mes snijdt een paprika in reepjes
 Iemand giet bakolie in een pot
 Er wordt wat bamboe gegeten door een pandabeer
 Een jonge jongen springt snel van een stoel
@@ -2778,7 +2778,7 @@ Vijf kinderen staan in een houten hut
 Iemand luistert naar trompetspel
 Iemand zingt en speelt gitaar
 Een vrouw gooit volleyballen over een net
-Een vrouw snijdt vlees met een scherp mes
+Een vrouw snijdt vlees in plakjes met een scherp mes
 Een groep padvinders kampeert in het gras
 Een hoop mensen zitten in een schaatspark
 Een grote natte gele hond haalt een stuk speelgoed op
@@ -2825,10 +2825,10 @@ Een paar mannen organiseren buiten wedstrijden
 Een groep mensen danst bij een concert
 Een vrouw wordt gemeten door een andere vrouw
 Een grote eend vliegt over een rotsachtige stroom
-De vrouw snijdt een ui met een mes
+De vrouw snijdt een ui in schijfjes met een mes
 Een man hangt aan de richel van een balkon
 Een Egyptenaar draagt de hoofdtooi van een vrouw
-Een vrouw snijdt een paprika die groen is
+Een vrouw snijdt een paprika die groen is in reepjes
 Een bal wordt gevangen door een hond in de lucht
 Een blond kind in het groen zit op een schommel
 Een zwarte hond loopt over rotsachtig terrein
@@ -2918,12 +2918,12 @@ Een man en een vrouw hebben een gesprek
 De snowboarder springt van een besneeuwde heuvel
 Twee meisjes spelen in een springkasteel
 Iemand doet aan acrobatiek op een snowboard
-Er is geen vrouw die een teentje knoflook snijdt
+Er is geen vrouw die een teentje knoflook in schijfjes snijdt
 Er is geen meisje in het blauw dat in de lucht springt
 Een vrouw haalt de ingrediënten uit een kom
 Een man mengt een paar ingrediënten in een kom
 Er is geen jongen die gras maait met een schaar
-Er is geen vrouw die vlees snijdt met een mes
+Er is geen vrouw die vlees in plakjes snijdt met een mes
 Twee kinderen turen over een verroeste richel
 De zwart-witte hond rent naar buiten
 Iemand krabt de rug van een dier
@@ -2968,7 +2968,7 @@ De vrouw bakt geen gepaneerde varkenskotelet
 Een vrouw maakt een koekenpan klaar voor de eieren
 Een groep rijdt niet met de stroom mee in een vlot
 Een grootse hond is wild bezig met het beklimmen van een steile heuvel
-Een kok snijdt vlug wat paprika's in stukken
+Een kok snijdt vlug wat paprika's in reepjes
 De man is de tekening op het bord aan het uitwissen
 Een blond meisje hangt aan gymnastiektouwen
 De oudere dame wacht op de stoep
@@ -3343,7 +3343,7 @@ Een zwarte hond loopt door wat hoog gras
 Kleine kinderen beklimmen een standbeeld in een park
 Een groep kinderen speelt geen tamboerijnen
 De interviewer geeft de man een pauze
-De vrouw snijdt geen ui met een mes
+De vrouw snijdt geen ui in schijfjes met een mes
 Een hond met een bal wordt in het gras gejaagd
 Een blondine in het groen zit bij een slingerende jongen
 Het meisje zit op de sofa en haakt
@@ -3502,7 +3502,7 @@ Twee vrouwen met honden lopen op een bospad
 Een tennisser in het midden van het spel houdt een racket vast
 Twee mannen nemen geen pauze van de bouw
 Een kleine zwarte hond achtervolgt een kleine bruine hond
-De vrouw met het mes snijdt geen paprika
+De vrouw met het mes snijdt geen paprika in reepjes
 Een vrouw en een hond staan bij een boomstronk
 Twee vrouwen dragen bikini's op het zandstrand
 Het kleine kind zingt en speelt gitaar
@@ -3761,9 +3761,9 @@ Een wit racevoertuig rijdt door een plas
 Een jonge moeder speelt met haar jongen in het park
 Een hond in een gekleurde vacht loopt over het erf
 Een man en een vrouw wandelen door een bosrijke omgeving
-De paprika wordt in schijfjes gesneden door een vrouw met een mes
+De paprika wordt in reepjes gesneden door een vrouw met een mes
 De artiest bedriegt een persoon op een motorfiets
-Er rinkelen wat belletjes bij een kok die paprika's snijdt
+Er rinkelen wat belletjes bij een kok die paprika's in reepjes snijdt
 Een koter in oranje speelt buiten met een sneeuwbal
 Een snowboarder doet een salto over een hoopje sneeuw
 Een bruine en witte hond rent door het water
@@ -3802,7 +3802,7 @@ De trui van een kleine jongen ligt in een plas op straat
 Een bruine en zwarte hond wijst de neus naar boven
 Een natte jongen staat stil op vuil en nat gras
 Een man die een pose aanneemt wordt bekeken door een andere man
-Een man snijdt vol vertrouwen een wortel met een mes
+Een man snijdt vol vertrouwen een wortel in schijfjes met een mes
 De vrouw draagt een bril en een zwarte hoofdtooi
 De rolschaatsers rennen in formatie een heuvel af
 Een jonge klimmer maakt een rotswand voor de jongens
@@ -4133,7 +4133,7 @@ Er is geen man die op de knoppen van een magnetron drukt
 Een man staat buiten dicht bij een doelwit voor het messenwerpen
 Een grote man zit in een militaire accessoirewinkel
 De mannen zijn koffers aan het inpakken in de kofferbak van een auto
-Een man is hersenloos de wortel aan het snijden met een machine
+Een man is hersenloos de wortel in schijfjes aan het snijden met een machine
 De zangeres bespeelt de gitaar voor een persoon
 Een man zonder hoed staat buiten een groene jeep
 De mannen zetten koffers in de kofferbak van een auto
@@ -4328,7 +4328,7 @@ Twee honden rennen en dragen een stuk speelgoed in hun bek
 Een motorrijder op een motor leunt een scherpe hoek in
 De man staat in een waterlichaam in de buurt van een waterval
 Een man stapt op een paard op een in het wild aangelegd spoor
-Een man snijdt wat knoflook en legt het brood weg
+Een man snijdt wat knoflook in schijfjes en legt het brood weg
 Er is geen kind dat een camera voor zijn gezicht houdt
 Een meisje in een uniform, dat blauw is, steekt haar arm op
 Een zwarte hond nadert een gouden hond op het kiezelstrand
@@ -4986,7 +4986,7 @@ Drie mannen staren niet naar de grote groene heuvels in de verte
 Twee bouwvakkers zitten op de top van een gebouw
 De zwart-witte hond is aan het rennen en er staat een persoon achter
 Een fietser houdt een fiets boven zijn hoofd in een groep mensen
-De man smeert onzorgvuldig boter op een plakje knoflookbrood
+De man smeert onzorgvuldig boter op een sneetje knoflookbrood
 Een rotswand wordt beklommen door een man met een paarse hoed met blote handen
 De zwarte vogel met een gele snavel staat in het groene gras
 Eén man in een grote stad houdt een bord omhoog en smeekt om geld
@@ -5434,7 +5434,7 @@ Twee mensen gekleed in groene en rode kostuums staan buiten bij de straat
 De menigte kijkt naar twee raceauto's die de startlijn verlaten
 De man bespeelt de gitaar en heeft de gitaarkoffer open voor donaties
 Het kleine meisje schommelt niet en de vrouw staat niet achter haar
-Een man smeert onzorgvuldig boter op een plakje brood met knoflooksmaak
+Een man smeert onzorgvuldig boter op een sneetje brood met knoflooksmaak
 Een speler in paars, wit en zwart speelt aan het einde van het veld
 Er is geen witte en bruine hond die met door het water gaat moeilijkheid
 Een jong kind draagt groene laarzen en speelt in een plas vol modder
