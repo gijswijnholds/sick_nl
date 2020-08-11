@@ -354,7 +354,7 @@ Een jongen zegt iets
 Een man speelt op de trommel
 Een vrouw is een vis aan het snijden
 Een vrouw bevrijdt een vis
-Een man schiet met een jachtgeweer
+Een man vuurt een jachtgeweer af
 Een man draagt een plant
 Een man houdt een paard tegen
 Een wit paard staat
@@ -577,7 +577,7 @@ Een hond speelt met een stuk speelgoed
 Een man praat met een vrouw
 Iemand snijdt een tomaat
 De kat likt een fles
-Iemand speelt op een piano
+Een persoon speelt op een piano
 Een vrouw is aardappelen aan het snijden
 Een jongen slaat een honkbal
 De man is aardappelen aan het snijden
@@ -609,7 +609,7 @@ Een vrouw borstelt haar hand
 De vrouw meet een man
 Een maki hangt aan een touw
 Een vrouw knijpt een citroen
-Een man maakt een gerecht klaar
+Een man maakt een of ander gerecht klaar
 Een man loopt in de regen
 Een man springt in een zwembad
 De man laat halters zakken
@@ -658,7 +658,7 @@ Twee meisjes spelen gitaar
 Een man spreekt op een podium
 Een vrouw maakt een garnaal schoon
 Iemand voert een dier
-De vrouw speelt fluit
+De vrouw speelt op een fluit
 Een man eet plakjes ui
 De vrouw is knoflook aan het hakken
 Een hond rent op de weg
@@ -682,7 +682,7 @@ Het kind is nog steeds in de sneeuw
 Een vrouw loopt op een weg
 Een man loopt een weg af
 De vrouw port een aardappel
-Iemand is een ui aan het schillen
+Een persoon is een ui aan het schillen
 Een vrouw doet make-up op
 De man speelt op het drumstel
 Het meisje rijdt op het paard
@@ -693,8 +693,8 @@ Een grote vis vangt een man
 Een sneeuwglijbaan zit vol met kinderen
 Iemand snijdt een tomaat
 Een vrouw danst in een kooi
-Iemand pelt een banaan
-Iemand bakt wat voedsel
+Een persoon pelt een banaan
+Een persoon bakt wat voedsel
 Een man is stationair op de vloer
 Een band treedt op het podium op
 Een man schiet met een boog
@@ -702,7 +702,7 @@ Een vrouw voegt eieren samen
 De kat speelt op keyboards
 De jongen rijdt op een driewieler
 De baby is vrolijk aan het kruipen
-Iemand schopt een aap
+Een persoon schopt een aap
 Eén vrouw speelt fluit
 Iemand leest de e-mail
 Een man rent op de weg
@@ -726,7 +726,7 @@ Een jongen speelt geen gitaar
 Een man zingt gepassioneerd
 Een groep mensen is aan het dansen
 Iemand is een dier aan het bevuilen
-Iemand is een ui aan het hakken
+Een persoon is een ui aan het hakken
 Een persoon danst op een dak
 De vrouw verwijdert make-up
 Een vrouw organiseert haar haar
@@ -773,7 +773,7 @@ Een man zit in het bos
 Iemand houdt een egel vast
 Een hond komt uit een meer
 Een meisje gebruikt gebarentaal
-Iemand eet aan een tafel
+Een persoon eet aan een tafel
 Een vrouw is een komkommer aan het snijden
 De chef is de olie aan het kruiden
 Okra wordt gekookt in een pan
@@ -793,7 +793,7 @@ Een jongen houdt een waterpistool vast
 Een kind slaat een honkbal
 Een man snijdt geen aardappel
 Er is geen man die een broodje snijdt
-Een man speelt geen gitaar
+Een man speelt niet op een gitaar
 Een jongen loopt op het strand
 De man is groenten aan het snijden
 Een neushoorn graast in een veld
@@ -826,7 +826,7 @@ Een man ontvouwt een tortilla
 De artsen genezen een man
 Gras wordt gemaaid door een man
 Twee mannen spelen pingpong
-Iemand kookt wat voedsel
+Een persoon kookt wat voedsel
 Een man rijdt niet op een scooter
 Niemand speelt met een pad
 Een kleine kat ligt op een bed
@@ -899,9 +899,9 @@ Een kind spettert in het zwembad
 Een bruine puppy bijt in een paal
 Een leeuw beweegt zich langzaam rond
 Een man vist in de beek
-Iemand rijdt op een motor
+Een persoon rijdt op een motor
 De jongen bestudeert een kalender
-Iemand is een komkommer aan het snijden
+Een persoon is een komkommer aan het snijden
 Een meisje oefent op de piano
 Een hond zwemt achter een bal aan
 Een baby speelt geen gitaar
@@ -917,7 +917,7 @@ De vrouw is de olie aan het kruiden
 Een man speelt op een instrument
 Een man duikt het water in
 De vrouw snijdt geen kruiden
-De vrouw speelt fluit
+De vrouw speelt op de fluit
 De jongen controleert een kalender
 Er is geen hond die achter een bal aanzit
 Iemand speelt met een pad
@@ -1089,7 +1089,7 @@ Er is geen man die het gazon maait
 Een man legt de fluit neer
 Een man staat naast een bus
 Een hond rent snel bergopwaarts
-Een man speelt geen gitaar
+Een man speelt niet op de gitaar
 Een man zet een trompet weg
 Een hond loopt naar een bal toe
 Fretten klimmen op een plank
@@ -1252,7 +1252,7 @@ De man geeft een interview
 Een man is de gitaar aan het inpakken
 Een kleine jongen speelt op een gitaar
 Er is geen man die een aardappel snijdt
-Een paard wordt bereden door een man
+Een paard wordt bereden door een kerel
 Een man legt de gitaar weg
 Een persoon in de buurt van een ui heeft een snee
 Iemand bakt eten in een pan
@@ -1853,7 +1853,7 @@ Een man houdt een toespraak op een podium
 Er is geen koude fietser die iets viert
 Er wordt met een kikker omgegaan door de vrouw
 De fluit wordt bespeeld door één man
-Een voetballer scoort een doelpunt
+Een voetbalspeler scoort een doelpunt
 Aardappelen worden gesneden door een vrouw
 De kleine kat speelt met een speeltje
 De katten spelen met elkaar
@@ -2878,7 +2878,7 @@ Een man loopt met een vrouw door het bos
 Sommige personen rijden en peddelen op een vlot
 Twee koeien vechten in een wei naast een man
 Een groep honden rust zonder muilkorven
-Er wordt wat water gedronken door een kat
+Er wordt gewoontjes wat water gedronken door een kat
 Een paard wordt door een man in een kreek gereden
 De man giet wat olie op de tomaten
 Twee kleine kinderen staan op straat te luieren
@@ -6021,7 +6021,7 @@ Een man in een paars geverfd overhemd kijkt naar een man in een zwart overhemd d
 Iemand kijkt naar een motor die ontworpen is voor motorcross en op zijn kant ligt en een ander racet voorbij
 De vrouw draagt geen rood jasje en houdt geen glas voor de man in een wit t-shirt
 Een vrouw draagt een overhemd, dat blauw is, met een wit vest en een witte pet en praat en marcheert
-Een vrouw die vrijetijdskleding draagt, houdt haar mond dicht en is dicht bij andere mensen die anders gekleed zijn
+Een vrouw die gewone kleding draagt, houdt haar mond dicht en is dicht bij andere mensen die anders gekleed zijn
 Een hond, die groot en grijs is, is moeizaam een bal in zijn bek aan het dragen en over het gras aan het rennen
 Vier mensen lopen over een stoep in een stad en degene met de groene hoed praat niet aan een mobiele telefoon
 Een motorrijder met een blauw jasje, zwarte broek en een witte helm rijdt roekeloos op zand en mensen kijken toe
