@@ -1,6 +1,7 @@
 """ Download and open SICK, then reinsert the Dutch translation using the
 parallel sentences."""
 import os
+from collections import Counter
 
 sickLocalFN = '/Users/gijswijnholds/Code/compdisteval-private/experiment_data/SICK/SICK.txt'
 sick_sentences_origin_fn = '/Users/gijswijnholds/Documents/Code/sick_nl/SICKSENTS.txt'
@@ -40,5 +41,8 @@ if os.path.exists(sick_translation_out_fn):
 
 with open(sick_translation_out_fn, 'w') as out_file:
     out_file.write(dutch_sick)
-    
+
 print("All done, translated dataset written to {}".format(sick_translation_out_fn))
+
+cnter = Counter([s_out for (s_in, s_out) in sick_translation_dict.items()])
+doubles = [(k,cnter[k]) for k in cnter if cnter[k]>1]
