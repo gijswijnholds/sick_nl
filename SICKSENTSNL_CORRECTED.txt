@@ -646,7 +646,7 @@ Een persoon snijdt een ui
 Een man staat op uit een moeras
 Een aap borstelt de hond
 Een ui wordt niet gesneden
-Een man rijdt op een motor
+Een man rijdt op een motorfiets
 Een man en een vrouw eten
 De dame is een tomaat aan het snijden
 De vrouw is niet aan het waterskiën
@@ -667,7 +667,7 @@ Een man oefent op de trommel
 Een meisje draagt een zonnebril
 Een paard rijdt over een man
 Een vis wordt gesneden door een man
-Een man rijdt op een motor
+Een man bestuurt een motor
 De persoon is uien aan het snijden
 Een jongen controleert een kalender
 Een vrouw is een ui aan het hakken
@@ -1080,7 +1080,7 @@ De man eet aardappelschijfjes
 Een vrouw wast een grote paprika
 Weinig mannen houden van het gieten van tomatenolie
 Een kind spettert in de oceaan
-Een persoon rijdt op een motor
+Een persoon rijdt op een motorfiets
 Een band treedt op op een podium
 Het meisje geeft de planten water
 Er is geen man die op een piano speelt
@@ -1438,7 +1438,7 @@ Er is geen chef-kok die een maaltijd bereidt
 Het meisje is aan het draven op het paard
 Een vrouw eet een stuk vlees
 Een meisje springt touwtje in een park
-Sommige honden spelen in een beekje
+Sommige honden spelen in een stroom
 Er is geen man die de e-mail leest
 Een hond stuitert op een trampoline
 Er is geen hond aan het racen op een parcours
@@ -1587,7 +1587,7 @@ Er is geen man die wat brood snijdt
 Een man veegt de rand van een kom af
 Geen enkele hond loopt door de sneeuw
 Er is geen vrouw die een wortel snijdt
-Twee mensen rijden op een motor
+Twee mensen rijden op een motorfiets
 De vrouw kookt niet iets
 Er is geen vrouw die een ui snijdt
 Een kat speelt met een watermeloen
@@ -1644,7 +1644,7 @@ De gitaar wordt bespeeld door een kind
 Een paar mensen drijven op een vlot
 Eén man zet de magnetron aan
 Een oudje zit op een bankje
-Twee mensen bestuurt een motor
+Twee mensen bestuurt een motorfiets
 Sommige vrouwen dansen en zingen
 Een vrouw kookt noedels in water
 Twee kleine jongens dragen smokings
@@ -1657,7 +1657,7 @@ Er is geen persoon die een ui pelt
 Een jonge vrouw speelt gitaar
 Een paar zwemmers zijn aan het racen in een meer
 De persoon draaft op het paard
-Een man stapt van de motor af
+Een man stapt van de motorfiets af
 Een hond loopt niet naar een bal toe
 Een meisje in het roze spant een lint
 Er is geen man die op de weg loopt
@@ -1712,7 +1712,7 @@ De harige man zit in een trein
 Er is geen man die een telefoontje pleegt
 Een man beklimt roekeloos een touw
 Er is geen hond die op een skateboard rijdt
-Er is geen man die op een motor rijdt
+Er is geen man die op een motorfiets rijdt
 De machine scheert geen potlood
 Een man maakt een geluiddemper aan een geweer vast
 Er wordt wat eten gebakken door een vrouw
@@ -1819,7 +1819,7 @@ Er is geen neushoorn die in een veld graast
 Drie vrouwen rennen in een dorp
 Drie kinderen springen in de bladeren
 Er is geen vrouw die viool speelt
-Iemand rijdt op een oude motor
+Iemand rijdt op een oude motorfiets
 Een hond zwemt in een waterlichaam
 Een man staat voor een muur
 De man rijdt op een paard bij een beek
@@ -2061,7 +2061,7 @@ Er is geen jongen die naar een kalender kijkt
 Een snowboarder springt van de sneeuw af
 Een meisje versnelt een steile glijbaan af
 De man zit naast een vogelkooi
-De man rijdt op een paard bij een beek
+De man rijdt op een paard bij een stroom
 Een slang wordt door een man een muis gevoed
 Er is geen dame die wat vlees versnijdt
 Een hond zwemt achter een tennisbal aan
@@ -2095,7 +2095,7 @@ Een man danst met een versleten helm
 De vrouw voegt suiker toe aan het vlees
 Er is geen man die op de laptop werkt
 Een Aziatische vrouw houdt een bontsjaal vast
-Een motor wordt bereden door een man
+Een motorfiets wordt bereden door een man
 Een kattenliedje wordt gespeeld op een piano
 Er is geen man die de weg afrent
 Geen enkele skateboarder springt in de lucht
@@ -2132,7 +2132,7 @@ Er is geen vrouw die een varkenskotelet omhult
 De man is op de rit met het paard
 De man kookt saus voor het vlees
 Sommige katten spelen met elkaar
-Sommige honden spelen niet in een beekje
+Sommige honden spelen niet in een stroom
 Iemand roert voedsel in het water
 Een man snijdt een aardappel in stukken
 De pandabeer rust op de boomstammen
@@ -2152,7 +2152,7 @@ Twee honden spelen op een zandstrand
 Een grote fluit wordt bespeeld door een man
 Een persoon smeert boter op een dienblad
 Een band bespeelt sommige instrumenten niet
-Een man op een motor doet een truc
+Een man op een motorfiets doet een truc
 Fretten klimmen van een plank naar beneden
 Een zwarte vogel zit op een dode boom
 Een zwarte hond en een bruingele hond zijn aan het vechten
@@ -2162,7 +2162,7 @@ Er is geen man die op een houten fluit speelt
 Een man breekt tegels met zijn handen
 De leerlingen vullen het klaslokaal
 Een olifant wordt bereden door een vrouw
-Een politieagent zit op een motor
+Een politieagent zit op een motorfiets
 Een grote groene bal mist een aardappel
 Een persoon rijdt op een elektrische fiets
 De volwassene speelt luid op de gitaar
@@ -2185,7 +2185,7 @@ Een paar dieren spelen in het water
 Een kind oefent met een instrument
 Een kleine witte hond loopt in een gazon
 De hond beweegt zich door het natte zand
-Een persoon staat in de buurt van een motor
+Een persoon staat in de buurt van een motorfiets
 Een zwarte hond en een bruingele hond slapen
 Er is geen persoon die wat gember snijdt
 Er wordt wat tofu gesneden door één vrouw
@@ -2333,7 +2333,7 @@ Hardlopers nemen niet deel aan de race
 Een man haalt groenten uit een pan
 Er is geen man met een hoed die een harp bespeelt
 Het schrijven gaat over een persoon die tekent
-Twee mensen zitten op een witte bank
+Twee mensen zitten op een wit bankje
 Een menigte mensen is ver van het water
 Een vrouw marcheert met een paar honden
 De kleine jongen staat in het bos
@@ -2374,7 +2374,7 @@ Een potlood wordt door de machine geschoren
 De man rijdt niet op een mechanische stier
 Een gitarist heeft blond en wegvliegend haar
 Een hond rent door de witte sneeuw
-Een man leunt op een racemotor
+Een man leunt op een racemotorfiets
 Een houten fluit wordt bespeeld door een man
 Een vrouw staat dicht bij drie kinderen
 Een hemdloze vrouw springt over een boomstam
@@ -2397,7 +2397,7 @@ De dame neemt een ei uit een kom
 De man wordt van een paard af getikt
 Een trieste familie poseert bij de open haard
 De agent zit niet op een politiefiets
-Twee mensen stoppen op een motor
+Twee mensen stoppen op een motorfiets
 Een man repareert tegels met zijn handen
 Een man doet een sprong op een fiets
 Een kat eet gretig maïs op de kolf
@@ -2621,7 +2621,7 @@ Een man wordt geraakt door een kind met een wapen
 Een man met een hoed loopt door een winkel
 Een man zonder shirt springt over een boomstam
 De man strooit kaas op de pizza
-Een kat glijdt ondersteboven onder een bankstel
+Een kat glijdt ondersteboven onder een sofa
 Een clown zingt en mensen dansen
 Het jonge kind spettert in het water
 Iemand giet tomatenolie over de man
@@ -2656,7 +2656,7 @@ De patiënt wordt geholpen door de dokter
 Een fotograaf wordt omringd door mannen
 Een kom soep wordt gereinigd door een chef-kok
 Een vrouw gooit eieren in een koekenpan
-Een vrouw leunt op een racemotor
+Een vrouw leunt op een racemotorfiets
 Een man stopt wat voedsel in een container
 Een peuter rijdt op een plastic speelgoedscooter
 Een man houdt een groot dier in één hand
@@ -2684,7 +2684,7 @@ Het meisje springt roekeloos op een auto
 Een hond rent over een rotsachtig landschap
 Iemand rijdt op de fiets langs het parcours
 Een man op de fiets rijdt op het strand
-Een racer leunt op een racemotor
+Een racer leunt op een racemotorfiets
 Een man speelt gitaar naast een drummer
 Twee kinderen leunen op een roestige richel
 De bebaarde man zit niet op een trein
@@ -2754,7 +2754,7 @@ Een man snijdt de wortel met een machine
 Een jongen speelt een spel met houten blokken
 De vrouw giet geen olie in een koekenpan
 Een man houdt een masker in zijn opgeheven hand
-Een politieagent stapt van een motor af
+Een politieagent stapt van een motorfiets af
 Sommige gesneden tofu wordt gegeten door een vrouw
 Een persoon hurkt en houdt een camera vast
 De man speelt piano met zijn neus
@@ -2841,7 +2841,7 @@ Een jonge, topless vrouw is bedekt met verf
 Een jongen kijkt aandachtig naar een kalender
 De vrouw kijkt naar het uitzicht op een stad
 Een paar fretten klimmen uit de kooi
-Niemand zit comfortabel op de bank
+Niemand zit comfortabel op het bankje
 Twee katten zijn speels aan het vechten met elkaar
 Iemand snijdt een paprika in stukken
 Twee teams doen mee aan een honkbalwedstrijd
@@ -3071,7 +3071,7 @@ Een buiten geplaatste schaatsbaan is leeg
 Een jongen in een vreemde outfit rijdt op de fiets
 Geen enkele hond springt in de schaduw van sommige bomen
 Een kind ervaart verbaasd een nieuwe wereld
-Een man op een motor rijdt op één wiel
+Een man op een motorfiets rijdt op één wiel
 Een klein meisje mist een honkbal op een slagpaal
 Een bruine hond loopt door een besneeuwd spoor
 Een meisje in het blauw glijdt van een groene glijbaan af
@@ -3174,12 +3174,12 @@ Een man en een vrouw zitten in een stadsstraat te niksen
 Twee honden vechten om een frisbee in een meer
 Drie vrienden trekken rare gezichten voor de camera
 Iemand drinkt sinaasappelsap en loopt
-Een man rijdt op een motor door de stad
+Een man rijdt op een motorfiets door de stad
 Een man breekt houten planken met zijn hand
 Een bruine en witte kat speelt op het gras
 Een vrouw plaatst voedsel in een pot met warm water
 Een persoon draagt een grijze broek op een snowboard
-Iemand voert trucjes uit op een motor
+Iemand voert trucjes uit op een motorfiets
 De man roert de saus voor de kip
 Drie jongens in karatekostuums vechten niet
 De man voedt de slang niet met een muis
@@ -3318,7 +3318,7 @@ Een jongen beklimt geen rotswand
 De jachtluipaard loopt snel achter zijn prooi aan
 Een rolschaatser voert een truc uit op een helling
 De menigte kijkt naar het voetbal bij de wedstrijd
-Een politieagent zit moe op een motor
+Een politieagent zit moe op een motorfiets
 Een biefstuk wordt gespoeld met water door een persoon
 Een bruine en zwarte hond rust in de bladeren
 Een groep padvinders wandelt door het gras
@@ -3346,7 +3346,7 @@ De interviewer geeft de man een pauze
 De vrouw snijdt geen ui met een mes
 Een hond met een bal wordt in het gras gejaagd
 Een blondine in het groen zit bij een slingerende jongen
-Het meisje zit op de bank en haakt
+Het meisje zit op de sofa en haakt
 Een paar mannen in een wedstrijd rennen binnenshuis
 De witte vogel landt snel in het water
 Twee mannen rijden op een oranje vlot op het strand
@@ -3364,7 +3364,7 @@ De lange persoon steekt de camera's in brand
 Iemand giet olie om te koken in een pot
 Een vrouw is twee eieren naar een breakdanser aan het bowlen
 Een paar mannen in een wedstrijd rennen naar buiten
-Een man op een motor gaat een hoek om
+Een man op een motorfiets gaat een hoek om
 Een klein meisje kijkt naar een vrouw in kostuum
 Er is geen man die wat kaas op een pizza legt
 Drie mannen en een vrouw poseren voor een foto
@@ -3595,7 +3595,7 @@ Er is geen man die wat olie op de tomaten giet
 Twee honden en twee mensen lopen in het bos
 Er wordt niet gedanst bovenop de berg
 Een voetballer wordt getackeld door zijn tegenstander
-Een vrouw op een motor gaat een hoek om
+Een vrouw op een motorfiets gaat een hoek om
 Een meisje rent door het water op het strand
 Een nabije menigte mensen zoenen twee aan twee
 De militaire officier schreeuwt tegen de rekruten
@@ -3608,9 +3608,9 @@ Een jong meisje in een bikini zit op het strand
 Een jong kind staat voor enkele bomen
 De bruid verlaat de bruidegom na de bruiloft
 Een vrouw haalt twee eieren uit een pot water
-Een man op een motor rijdt niet op één wiel
+Een man op een motorfiets rijdt niet op één wiel
 Er is geen man die een bord vasthoudt en geld wil
-Een man op een motor draait een hoek om
+Een man op een motorfiets draait een hoek om
 Een wortel wordt door een persoon in stukken gesneden
 Er is geen beroemde zanger op het plafond aan het dansen
 Een man rust op een stoel en wrijft in zijn ogen
@@ -3656,7 +3656,7 @@ Een tienermeisje slaat kralen op die rood zijn
 De jongens staan voor de brandende auto
 Twee poedels zijn in de sneeuw en één ligt
 Verschillende voetballers staan samen op een veld
-Iemand voert acrobatiek uit op een motor
+Iemand voert acrobatiek uit op een motorfiets
 De pup speelt niet met een plastic bakje
 Een fietser fietst in het donker in een besneeuwd bos
 Twee bruine honden laten een frisbee achter in het water
@@ -3694,7 +3694,7 @@ Een man typt op een machine die gebruikt wordt voor stenografie
 Twee kinderen en een man spelen spelletjes in een speelhal
 Een ervaren persoon rijdt op een fiets op een wiel
 Een voetballer schopt een bal uit het doel
-Iemand doet geen trucjes op een motor
+Iemand doet geen trucjes op een motorfiets
 Een hond, die bruin is, rent door de borstel
 Twee jongens en een man spelen spelletjes in een speelhal
 Twee meisjes spelen niet in het springkasteel
@@ -3713,7 +3713,7 @@ Een rode hindernis wordt besprongen door een grote bruine hond
 De hond is aan de lijn en loopt in het water
 Een man is op zoek naar een teken en houdt wat geld vast
 Kleine kinderen komen van een standbeeld in een park
-De persoon op de motor houdt een arm omhoog
+De persoon op de motorfiets houdt een arm omhoog
 Boter wordt door een man in een container gehakt
 Er is geen vrouw die danst en zingt in de regen
 Een skateboarder doet acrobatiek op een halfpipe
@@ -3743,7 +3743,7 @@ Een natte jongen springt rond op vies en nat gras
 De vrouw speelt met twee jonge jongens bij een park
 Een gehandschoend persoon schopt tegen de hand van een aap
 Een surfer in een wit wetsuit rijdt op een schuimende golf
-De persoon op de motor houdt zijn arm omhoog
+De persoon op de motorfiets houdt zijn arm omhoog
 De man zit buiten onder een paarse paraplu
 Een vogel wappert hevig met zijn vleugels op het water
 Een kind zwemt speels onder water in een zwembad
@@ -3762,7 +3762,7 @@ Een jonge moeder speelt met haar jongen in het park
 Een hond in een gekleurde vacht loopt over het erf
 Een man en een vrouw wandelen door een bosrijke omgeving
 De paprika wordt gesneden door een vrouw met een mes
-De artiest bedriegt een persoon op een motor
+De artiest bedriegt een persoon op een motorfiets
 Er rinkelen wat belletjes bij een kok die paprika's snijdt
 Een kind in oranje speelt buiten met een sneeuwbal
 Een snowboarder doet een salto over een hoopje sneeuw
@@ -3940,7 +3940,7 @@ Een groep rolschaatsers staat in de rij op straat
 Het land in de buurt van een witte vogel wordt snel bewaterd
 Een man met tatoeages houdt een bank vast met een potlood
 Twee mensen zijn aan het vechten en toeschouwers kijken toe
-Een getatoeëerde man zit op een bank en houdt een potlood vast
+Een getatoeëerde man zit op een sofa en houdt een potlood vast
 De mannen plaatsen koffers in de kofferbak van een auto
 Een jachtluipaard wordt door zijn prooi afgeschud door een veld heen
 Twee jongens liggen in het water bij het strand
@@ -3987,7 +3987,7 @@ Een groep vrouwen speelt met een bal op het strand
 Er is geen meisje met een zwarte tas op een drukke trein
 De kinderen spelen niet voor een grote deur
 Een man staat op een zandheuvel naast een zwarte auto
-Er is geen man die op een motor door de stad rijdt
+Er is geen man die op een motorfiets door de stad rijdt
 Mensen peddelen in de buurt van een vlot dat wordt bereden
 Vier atleten zijn met een persoon in een druk stadion
 Een tennisser in het midden van het spel houdt geen racket vast
@@ -4060,10 +4060,10 @@ Een groep mensen uit Azië eet in een restaurant
 Een man, een vrouw en twee meisjes lopen op het strand
 Twee mannen kijken uit en één houdt een verrekijker vast
 Een klein meisje lacht en rent het huis uit
-Een man op een motor rijdt op een spoor en zwaait
+Een man op een motor rijdt op een circuit en zwaait
 Twee mensen zitten op een parkbankje op een zonnige dag
 De man in het blauw poseert voor een foto naast een auto
-De persoon op de motor houdt geen arm omhoog
+De persoon op de motorfiets houdt geen arm omhoog
 Een groep van vijf jongvolwassenen ligt te loungen in de kamer
 Een kind in oranje speelt buiten met een sneeuwbal
 De kleine bij landt op een bosje gele bloemen
@@ -4125,7 +4125,7 @@ De oudere dame wacht angstig op de stoep
 Het meisje in het blauw-witte uniform is niet aan het juichen
 Een bruine hond en een rode hond zijn op het strand aan het dartelen
 De zwarte vrouw draagt een bril over de hoofdtooi
-Niemand zit op een motor en staat op de stoel
+Niemand zit op een motorfiets en staat op de stoel
 Een vrouw past zorgvuldig cosmetica toe op haar ooglid
 De man is niet voorzichtig met het voeden van een muis aan de slang
 Er is geen hond die door besneeuwd gras en rotsen springt
@@ -4239,7 +4239,7 @@ Een kleine bruine en witte hond rent op de stoep
 Iemand beklimt een rots met een touw, dat roze is
 Een persoon met een hoed achterstevoren zit op de grond
 Twee mannen gaan van een oranje vlot aan wal
-Een man en een vrouw zitten comfortabel op de bank
+Een man en een vrouw zitten comfortabel op het bankje
 De priester loopt door het gangpad om een stel te trouwen
 Een persoon bij een aantal camera's blaast op een brandende fakkel
 Een hond hoedt een roedel witte schapen op een stoffige boerderij
@@ -4367,7 +4367,7 @@ De tieners praten met een jongen en een meisje met een webcam
 Een familie poseert bij de schoorsteenmantel en de kerstboom
 De groep mannen speelt geen rugby op een modderig veld
 Een zwarte man loopt naast een gebouw in een grote stad
-Een man rijdt gevaarlijk op een motor door een stad
+Een man rijdt gevaarlijk op een motorfiets door een stad
 Een cowgirl rijdt op een vat bij een paard in de hoek
 Een grote groep Aziaten eet in een restaurant
 Iemand draagt een strohoed en rookt een sigaret
@@ -4539,7 +4539,7 @@ Een vrouw en drie mannen poseren roerloos voor een foto
 Er is geen persoon die een hoed draagt en op het gras zit
 Iemand die voetbalt, schopt een bal in het doel
 Twee vrouwen dragen bikini's en lopen op het zand
-Twee mannen gekleed in wit en zwart zitten op een bank
+Twee mannen gekleed in wit en zwart zitten op een bankje
 Een persoon die een spijkerbroek draagt, zit boven op een paardenzadel
 Een blond kind gaat op een glijbaan en gooit zijn armen omhoog
 Een blonde jongen glijdt van een zandduin af op een skateboard
@@ -4802,7 +4802,7 @@ Een man zit op een boot voor de zonsondergang, in de buurt van een vlag
 Een wandelaar is op de top van de berg en doet een vreugdevolle dans
 Twee raceauto's staan op een weg voor een grassige parkeerplaats
 Een natte jongen springt vrolijk rond op vies en nat gras
-Een man op een motor rijdt op een circuit en zwaait vrolijk
+Een man op een motorfiets rijdt op een circuit en zwaait vrolijk
 De kinderen dragen geen zwarte panty's en springen niet
 Een opblaasbare krokodil wordt door twee kinderen in een zwembad geduwd
 Een man zit op het gazon en drinkt uit een waterfles
@@ -5236,7 +5236,7 @@ Vier jonge mannen staan stil en er ontploft een auto achter hen
 Een meisje dat een gestreept shirt draagt rent blootvoets op de zandheuvel
 Sommige jonge mannen staan stil en een auto ontploft achter hen
 De man met de paarse hoed bedient geen camera die video's maakt
-Een kleine groep mensen staat en twee zitten op de bank
+Een kleine groep mensen staat en twee zitten op de sofa
 De bal wordt gedunkt door een man met een trui bij een basketbalwedstrijd
 Er is geen hond die op een been staat en wacht op een voetbal
 Vier jonge mannen exploderen en een auto staat stil achter hen
@@ -5441,7 +5441,7 @@ Een jong kind draagt groene laarzen en speelt in een plas vol modder
 Een jonge man en een vrouw rijden op fietsen op de promenade bij de oceaan
 Een kleine jongen draagt een groen voetbaltenue en rent op het gras
 Eén vrouw slaat twee eieren in de kom en gebruikt een garde van draad
-Een man in een blauwe jumpsuit slaagt er niet in een wheelie uit te voeren op een motor
+Een man in een blauwe jumpsuit slaagt er niet in een wheelie uit te voeren op een motorfiets
 Twee kinderen kijken naar de camera en één steekt zijn tong uit
 De vrouwen dragen iets goed en wijzen naar verschillende konijnenoren
 Twee bruine honden vechten om een rode bal en spelen in het gras
@@ -5494,7 +5494,7 @@ Een vrouw gebruikt een potlood voor de ogen en brengt eyeliner aan op haar oogli
 Twee kinderen in witte outfits en rode beschermende kleding zitten op een mat
 Mensen kijken naar enkele kostuums die in de buurt van het bos zijn verzameld
 Twee bruine en witte honden vechten op een met grasveld voor een plant
-Een motorrijder met een rode helm rijdt op een blauwe motor op de weg
+Een motorrijder met een rode helm rijdt op een blauwe motorfiets op de weg
 Twee vrouwen met zwart haar staan gestaag voor een wand van multiplex
 Een jonge zwemmer zit in een badpak en wacht op de volgende wedstrijd
 Een vrouw pakt een kangoeroe, die een baby is, op en houdt hem vast in haar armen
@@ -5538,7 +5538,7 @@ Een hond, die een bruine en witte vacht heeft, houdt een honkbal in zijn bek
 Het mannetje met donkere huid staat op één hand voor een geel gebouw
 Een boom valt over een brug die over de rivier is gemaakt en waar een hond overheen gaat
 Een jonge zwemmer staat in een badpak en wacht op de volgende wedstrijd
-Een man in een motorcross-uniform draagt een helm en rijdt op een rode motor
+Een man in een motorcross-uniform draagt een helm en rijdt op een rode motorfiets
 Een bruine en witte hond springt in de lucht met een tennisbal in zijn bek
 Een vrouw, die schoenloos is, zit op een deken onder een lavendelparaplu
 Een vrouw in een zwart geverfd overhemd zit naast een fluorescerende groene tas
@@ -5597,10 +5597,10 @@ Er is geen vrouw die een blauwe helm draagt en op de fiets rijdt op een parkeerp
 Twee mensen dragen grijze manden en dekens en lopen in de buurt van een gebouw
 Er is geen man die een zwart geverfd overhemd draagt, aan tafel zit en lacht
 Een jongen springt aan de kant van een stenen waterfontein voor een gebouw
-Een motorrijder zonder helm wacht op een blauwe motor in de buurt van de weg
+Een motorrijder zonder helm wacht op een blauwe motorfiets in de buurt van de weg
 Sommige paarden rennen woedend over het groene gras en springen over een obstakel
 De man en de jongen staan boven aan de trap, die buiten is
-Een man in een blauwe jumpsuit voert moedig een wheelie uit op een motor
+Een man in een blauwe jumpsuit voert moedig een wheelie uit op een motorfiets
 De man staat op een rotsachtige berg en grijze wolken staan op de achtergrond
 Een man en een jongen staan onder aan een trap, die buiten staat
 Twee mannen en een meisje achter een houten paneelmuur poseren met gekke gezichten
@@ -5643,7 +5643,7 @@ Een kind met een pistool dat water spuit, lacht en wordt geraakt door andere jon
 De man zet de camera klaar en maakt foto's van de zonsondergang op het strand
 Een man staat op een rots hoog boven enkele bomen en staat in een vreemde positie
 De volwassenen en kinderen worden verzameld in de buurt van een buitenzitplaats
-Een persoon in een motorcross-uniform draagt een helm en rijdt op een rode motor
+Een persoon in een motorcross-uniform draagt een helm en rijdt op een rode motorfiets
 Reddingsvesten worden gedragen door een groep mensen die waterveiligheid beoefenen
 De speler is de basketbal in het net aan het dunken en er is een menigte op de achtergrond
 Een jongen onder een paraplu wordt vastgehouden door zijn vader die een blauwe jas draagt
@@ -5760,7 +5760,7 @@ Een oudere vrouw zit op een bankje en draagt een grijs jasje en een zwarte broek
 Er is geen man die verschillende gesneden en beboterde broden besprenkelt met kruiden
 Een man in een paars gekleurd pak staat bij een paarse koffer en speelt op een gitaar
 Twee grote honden, een lichtgekleurde en een donkere, slapen op een besneeuwd terrein
-Een persoon in een motorcross-uniform draagt geen helm en rijdt op een rode motor
+Een persoon in een motorcross-uniform draagt geen helm en rijdt op een rode motorfiets
 Een persoon met een rood jasje met capuchon en een zwarte rugzak loopt in de buurt van een rotswand
 Een man die speelt, dunkt de basketbal in het net en het publiek is op de achtergrond
 Twee krokodillen drijven in een groen gekleurd zwembad in de buurt van een paar spelende kinderen
@@ -5834,7 +5834,7 @@ Het jonge meisje speelt op de rand van een fontein en een oudere vrouw kijkt naa
 De kleine jongen steekt zijn tong uit voor de camera en een andere jongen kijkt toe
 De man op het strand doet geen handstand op het natte zand aan de rand van het water
 Er is geen jong meisje in een winterjas die van een kei af in het zand springt op een strand
-De man staat op een voornamelijk kale grond en filmt een wheelie die wordt gedaan met een motor
+De man staat op een voornamelijk kale grond en filmt een wheelie die wordt gedaan met een motorfiets
 Een hond die harig en zwart is, zit in een achtertuin en draagt een mandje in zijn bek
 Een model draagt een paars overhemd en zwarte leren chaps en poseert voor de camera
 Mensen bij een dragrace rennen weg van de vlammen die uit de auto's komen
@@ -5887,10 +5887,10 @@ Drie mannen zitten op een berghelling en kijken met een verrekijker naar het uit
 Een vrouw uit het Midden-Oosten staat met haar rug tegen een lantaarnpaal in de buurt van andere mensen
 Een meisje in een oranje overhemd en clown make-up loopt in een park en anderen kijken toe
 Het kleine kind waadt niet door het water en wordt niet begeleid door een ander persoon
-Twee grote personen zitten op een parkbank en hebben een flesje frisdrank tussen hen in
+Twee grote personen zitten op een parkbankje en hebben een flesje frisdrank tussen hen in
 Een vrouw die een roze boa draagt, rijdt op een fiets over een brug die voor voetgangers is gebouwd
 Een jongen, die er jong uitziet en een rood badpak draagt, springt in een blauw kinderbadje
-Een dappere artiest doet een wheelie met een motor over een man in een blauw jumpsuit
+Een dappere artiest doet een wheelie met een motorfiets over een man in een blauw jumpsuit
 De vrouw houdt een wit jasje en een rood glas vast voor de man die een t-shirt draagt
 Een man en een vrouw staan voor een kunstgalerie en kijken naar een uithangbord
 Een man staat aan het stuur van een klassieke Amerikaanse auto die de deur en de kofferbak open heeft
@@ -5939,7 +5939,7 @@ Een hond, die groot en grijs is, draagt een bal in zijn bek en rent over het gra
 Twee grote honden, een lichtgekleurde en een donkere, bewegen snel door besneeuwd terrein
 Iemand staat achter het stuur van een klassieke Amerikaanse auto die de deur en de kofferbak open heeft
 Een kind spettert in een zwembad voor kinderen en andere kinderen spelen op de achtergrond
-Een racer in volle uitrusting draagt een helm met sponsorlogo's en rijdt op een blauwe sportmotor
+Een racer in volle uitrusting draagt een helm met sponsorlogo's en rijdt op een blauwe sportmotorfiets
 Een groep mensen loopt niet op straat en een persoon met een groene hoed is aan de telefoon
 Een man gekleed in zwart-wit houdt het tennisracket omhoog en wacht op de bal
 Een groep kinderen in uniformen staat bij een poort en er is niemand die de moeder kust
@@ -5958,7 +5958,7 @@ Een man hurkt naast een hond en glimlacht naar een meisje dat op de stoep zit
 Een vrouw staat in de schemering op een bijna ongerepte, besneeuwde weg, die alleen door koplampen wordt verlicht
 In een krant staat een vrouw met groot formaat handen die een zonnebril vasthoudt en een jas draagt
 Er is geen vrouw die een blauw shirt draagt met een wit vest en een witte pet, die praat en marcheert
-Een man in volle uitrusting draagt een helm met sponsorlogo's en rijdt op een rode sportmotor
+Een man in volle uitrusting draagt een helm met sponsorlogo's en rijdt op een rode sportmotorfiets
 Een vrouw in een blauwe spijkerbroek staat voor een groep kinderen naast een huis van steen
 Een meisje in een blauw shirt, dat er jong uitziet, loopt op de stoep en houdt een roze bord vast
 Er is geen klaslokaal vol met leerlingen die in dezelfde richting kijken binnenin een bamboestructuur
@@ -5983,7 +5983,7 @@ De vrouw in een rood kostuum leunt niet tegen een stenen muur en bespeelt geen i
 Een man staat met ontblote borst naast een gele kano op enkele rotsen met water op de achtergrond
 Er is geen persoon op een fiets die door de lucht springt met de zon die door het fietsframe schijnt
 Een grote tennisbal wordt gebruikt om een hond te leren rennen in het gras en hem te vangen met zijn bek
-Een racer in volle uitrusting draagt een helm met sponsorlogo's en rijdt op een rode sportmotor
+Een racer in volle uitrusting draagt een helm met sponsorlogo's en rijdt op een rode sportmotorfiets
 Twee personen van groot formaat zitten op een parkbankje en hebben een flesje frisdrank tussen hen in
 Twee jongens dragen bruine shirts en trekken enthousiast aan een touw op een houten platform
 Het blonde meisje met het roze topje lacht en draagt een grappige bril met een grote neus erop
