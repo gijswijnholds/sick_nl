@@ -331,7 +331,7 @@ Een man snijdt een ui
 Een jongen is zijn haar aan het stylen
 De spreker houdt van papegaaien
 Een vrouw rijdt op een paard
-Een aap rijdt op een fiets
+Een aap rijdt op een motor
 Een jongen speelt op een gitaar
 Een man leest een e-mail
 Een man is een uitgesneden doos aan het plakken
@@ -1739,7 +1739,7 @@ De vrouw is onbevreesd aan het waterskiën
 Twee mannen zijn aan het knokken in een ring
 Een kat kijkt naar een toonbank
 Een muzikant speelt op twee keyboards
-De agent zit op een politiefiets
+De agent zit op een politiemotor
 De mannen zijn aan het knokken in een ring
 Een man speelt een spel met een bal
 Een paar politievrouwen zijn aan het zingen
@@ -2396,7 +2396,7 @@ De dame kraakt een ei in een schaal
 De dame neemt een ei uit een kom
 De man wordt van een paard af getikt
 Een trieste familie poseert bij de open haard
-De agent zit niet op een politiefiets
+De agent zit niet op een politiemotor
 Twee mensen stoppen op een motorfiets
 Een man repareert tegels met zijn handen
 Een man doet een sprong op een fiets
@@ -3287,7 +3287,7 @@ De cameraman spijkert een hamer in de muur
 Een meisje raakt een kleine slagpaal met een honkbal
 Een ei wordt door een vrouw in een kom gekraakt
 Een vrouw kraakt wat eieren in een container
-Een kind speelt slip en slide in het gras
+Een kind is aan het buikschuiven in het gras
 Een hond, die zwart is, loopt in het gras
 Het dier met de grote ogen is gulzig aan het eten
 Een grote groen gekleurde bal raakt een aardappel
@@ -3754,7 +3754,7 @@ Twee witte honden en één bruine hond zitten achter een stuk speelgoed aan
 Iemand doet onzorgvuldig vlees in een koekenpan
 Het paard springt over de ruiter heen bij de slagboom
 Een aap schopt tegen de gehandschoende hand van een persoon
-Een kind speelt geen slip en slide in het gras
+Een kind is niet aan het buikschuiven in het gras
 Een jongen speelt in het park met zijn moeder
 Een jongen draagt een oranje hemd en een gestreepte stropdas
 Een wit racevoertuig rijdt door een plas
@@ -3949,7 +3949,7 @@ Een persoon is een reling af aan het snowboarden in de sneeuw
 Het onderwerp wordt bestudeerd door een man met een camera
 Mensen in kostuums lopen rond in de straat
 Een man draagt een hoed die hard is en danst
-Een persoon snijdt knoflook in stukken met een mes
+Een persoon snijdt knoflook door in stukken met een mes
 De motorcrossrijder draagt een blauwe en zwarte broek
 Twee witte honden en één bruine hond zitten achter een bal aan
 Een man op een fiets springt op een piramidevormige helling
