@@ -50,7 +50,7 @@ with open(sick_translation_out_fn, 'w') as out_file:
 print("All done, translated dataset written to {}".format(sick_translation_out_fn))
 
 cnter = Counter([s_out for (s_in, s_out) in sick_translation_dict.items()])
-doubles = [(k,cnter[k]) for k in cnter if cnter[k]>1]
+doubles = [(k, cnter[k]) for k in cnter if cnter[k]>1]
 
 # for d,i in doubles:
 #     print(d)
