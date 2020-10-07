@@ -1,0 +1,89 @@
+sentence_A  sentence_B  entailment_label
+Een man met een trui is de bal aan het dunken bij een basketbalwedstrijd	Een man met een trui is bij een basketbalwedstrijd de bal aan het dunken	ENTAILMENT
+De man is afwezig een banaan bij een boom aan het eten	De man is afwezig bij een boom een banaan aan het eten	ENTAILMENT
+Een verre persoon met een blauwe rugzak is aan het wandelen in rotsachtig gebied	Een verre persoon met een blauwe rugzak is in rotsachtig gebied aan het wandelen	ENTAILMENT
+Twee honden zijn aan het dartelen in de sneeuw	Twee honden zijn in de sneeuw aan het dartelen	ENTAILMENT
+Twee meisjes zijn gelukkig aan het spelen in een springkasteel	Twee meisjes zijn gelukkig in een springkasteel aan het spelen	ENTAILMENT
+De mannen zijn niet aan het knokken in een ring	De mannen zijn niet in een ring aan het knokken	ENTAILMENT
+Een hond is opgewonden aan het spelen met water in een veld	Een hond is opgewonden in een veld aan het spelen met water	ENTAILMENT
+De mannen zijn aan het knokken in een ring	De mannen zijn in een ring aan het knokken	ENTAILMENT
+Een hond is opgewonden aan het spelen met water in het gras	Een hond is opgewonden in het gras aan het spelen met water	ENTAILMENT
+Een kind in een rode outfit is gevaarlijk aan het springen op een trampoline	Een kind in een rode outfit is gevaarlijk op een trampoline aan het springen	ENTAILMENT
+Twee kinderen zijn aan het voetballen in het park	Twee kinderen zijn in het park aan het voetballen	ENTAILMENT
+Een paar zwemmers zijn aan het racen in een meer	Een paar zwemmers zijn in een meer aan het racen	ENTAILMENT
+De man is aan het zwemmen in een waterlichaam bij een waterval	De man is in een waterlichaam bij een waterval aan het zwemmen	ENTAILMENT
+Een kind is aan het buikschuiven in het gras	Een kind is in het gras aan het buikschuiven	ENTAILMENT
+Twee mannen zijn aan het knokken in een ring	Twee mannen zijn in een ring aan het knokken	ENTAILMENT
+De hond is aan het uitrusten in de woonkamer	De hond is in de woonkamer aan het uitrusten	ENTAILMENT
+Twee mannen zijn aan het vechten in een veehouderij	Twee mannen zijn in een veehouderij aan het vechten	ENTAILMENT
+De man is vrolijk aan het wandelen in het bos	De man is vrolijk in het bos aan het wandelen	ENTAILMENT
+De man is aan het wandelen in het bos	De man is in het bos aan het wandelen	ENTAILMENT
+Een jongen is aan het buikschuiven in het gras	Een jongen is in het gras aan het buikschuiven	ENTAILMENT
+De hond is aan het uitrusten in het park	De hond is in het park aan het uitrusten	ENTAILMENT
+Een kind is niet aan het buikschuiven in het gras	Een kind is niet in het gras aan het buikschuiven	ENTAILMENT
+Twee grote honden zijn aan het dartelen in een grasveld	Twee grote honden zijn in een grasveld aan het dartelen	ENTAILMENT
+Twee grote honden zijn aan het stoeien in een veld	Twee grote honden zijn in een veld aan het stoeien	ENTAILMENT
+Een man is aan het wandelen in het bos	Een man is in het bos aan het wandelen	ENTAILMENT
+Twee jongens liggen in de oceaan tot ver aan het strand	Twee jongens liggen tot ver aan het strand in de oceaan	ENTAILMENT
+Niemand is aan het knokken in een ring	Niemand is in een ring aan het knokken	ENTAILMENT
+Een bruine hond en een zwarte hond zijn aan het dartelen in het zand	Een bruine hond en een zwarte hond zijn in het zand aan het dartelen	ENTAILMENT
+Een bruine en witte hond is aan het rusten in het gras	Een bruine en witte hond is in het gras aan het rusten	ENTAILMENT
+De man is niet aan het wandelen in het bos	De man is niet in het bos aan het wandelen	ENTAILMENT
+Een persoon is een reling af aan het snowboarden in de sneeuw	Een persoon is in de sneeuw een reling af aan het snowboarden	ENTAILMENT
+Een man is aan het touwtje springen in een veld	Een man is in een veld aan het touwtje springen	ENTAILMENT
+Een man is langzaam aan het wandelen in het bos	Een man is in het bos langzaam aan het wandelen	ENTAILMENT
+Twee mensen zijn aan het knokken in een ring	Twee mensen zijn in een ring aan het knokken	ENTAILMENT
+De man is onhandig met een trainer aan het kickboksen	De man is onhandig aan het kickboksen met een trainer	ENTAILMENT
+Iemand is wat papier aan het knippen met een schaar	Iemand is met een schaar wat papier aan het knippen	ENTAILMENT
+Iemand is een cameralens aan het spijkeren met luide knallen	Iemand is met luide knallen een cameralens aan het spijkeren	ENTAILMENT
+Een persoon is snel champignons aan het hakken met een mes	Een persoon is met een mes snel champignons aan het hakken	ENTAILMENT
+Een man is snel wat champignons aan het hakken met een mes	Een man is met een mes snel wat champignons aan het hakken	ENTAILMENT
+De jongen is het gras aan het inkorten bij de stoep met een schaar	De jongen is met een schaar het gras aan het inkorten bij de stoep	ENTAILMENT
+Een kerel is vrolijk aan het spelen met de hacky sack	Een kerel is vrolijk met de hacky sack aan het spelen	ENTAILMENT
+Een kat is aan het spelen met een watermeloen	Een kat is met een watermeloen aan het spelen	ENTAILMENT
+Een vrouw is aan het tornen met een machine	Een vrouw is met een machine aan het tornen	ENTAILMENT
+Twee preadolescente tweelingkinderen zijn aan het duelleren met stokken	Twee preadolescente tweelingkinderen zijn met stokken aan het duelleren	ENTAILMENT
+Een persoon is niet snel champignons aan het hakken met een mes	Een persoon is niet met een mes snel champignons aan het hakken	ENTAILMENT
+Een kerel is vrolijk aan het spelen met een hacky sack	Een kerel is vrolijk met een hacky sack aan het spelen	ENTAILMENT
+De jongen is niet het gras bij de stoeprand met een schaar aan het maaien	De jongen is niet het gras bij de stoeprand aan het maaien met een schaar	ENTAILMENT
+Een man is vlug wat champignons aan het hakken met een mes	Een man is met een mes vlug wat champignons aan het hakken	ENTAILMENT
+Iemand is iets aan het noteren met een potlood	Iemand is met een potlood iets aan het noteren	ENTAILMENT
+De man is niet aan het kickboksen met een trainer	De man is niet met een trainer aan het kickboksen	ENTAILMENT
+De man is een boomstam aan het hakken met een bijl	De man is met een bijl een boomstam aan het hakken	ENTAILMENT
+De kat is aan het spelen met een watermeloen	De kat is met een watermeloen aan het spelen	ENTAILMENT
+Een baby is vrolijk aan het spelen met een hond	Een baby is vrolijk met een hond aan het spelen	ENTAILMENT
+Iemand is de ingrediënten aan het bowlen naar de man bij de mixer	Iemand is de ingrediënten naar de man bij de mixer aan het bowlen	ENTAILMENT
+Een vrouw is twee eieren naar een breakdanser aan het bowlen	Een vrouw is twee eieren aan het bowlen naar een breakdanser	ENTAILMENT
+Een vrouw is aan het wakeboarden op een meer	Een vrouw is op een meer aan het wakeboarden	ENTAILMENT
+De bruine honden zijn speels aan het vechten op de zandkust	De bruine honden zijn speels op de zandkust aan het vechten	ENTAILMENT
+Iemand is aan het typen op een toetsenbord	Iemand is op een toetsenbord aan het typen	ENTAILMENT
+Een kind in een rode outfit is gevaarlijk aan het springen op een trampoline	Een kind in een rode outfit is gevaarlijk op een trampoline aan het springen	ENTAILMENT
+Twee voetballers zijn aan het klauteren voor de bal op het veld	Twee voetballers zijn op het veld aan het klauteren voor de bal	ENTAILMENT
+De bruine honden zijn niet speels aan het vechten op het zandstrand	De bruine honden zijn niet speels op het zandstrand aan het vechten	ENTAILMENT
+Een zwarte man is aan het breakdansen op de stoep	Een zwarte man is op de stoep aan het breakdansen	ENTAILMENT
+Er is geen beroemde zanger op het plafond aan het dansen	Er is geen beroemde zanger aan het dansen op het plafond	ENTAILMENT
+De man is de tekening op het bord aan het uitwissen	De man is de tekening aan het uitwissen op het bord	ENTAILMENT
+Een man is langzaam aan het dansen op de weg	Een man is langzaam op de weg aan het dansen	ENTAILMENT
+Een meisje is aan het skateboarden op een halfpipe	Een meisje is op een halfpipe aan het skateboarden	ENTAILMENT
+Twee lange basketbalspelers zijn aan het klauteren voor de bal op het veld	Twee lange basketbalspelers zijn op het veld aan het klauteren voor de bal	ENTAILMENT
+Een bruine hond en een rode hond zijn op het strand aan het dartelen	Een bruine hond en een rode hond zijn aan het dartelen op het strand	ENTAILMENT
+Een vrouw is aan het wakeboarden op het meer	Een vrouw is op het meer aan het wakeboarden	ENTAILMENT
+De jongen is aan het draven op het paard	De jongen is op het paard aan het draven	ENTAILMENT
+Een man is aan het skateboarden op een halfpipe	Een man is op een halfpipe aan het skateboarden	ENTAILMENT
+Er is geen hond aan het racen op een parcours	Er is geen hond op een parcours aan het racen	ENTAILMENT
+Een zwarte man is vakkundig op de stoep aan het breakdansen	Een zwarte man is vakkundig aan het breakdansen op de stoep	ENTAILMENT
+Een zwarte hond en een witte hond zijn aan het worstelen op het bed	Een zwarte hond en een witte hond zijn op het bed aan het worstelen	ENTAILMENT
+Iemand is aan het typen op het toetsenbord	Iemand is op het toetsenbord aan het typen	ENTAILMENT
+De bruine hond en de rode hond zijn aan het dartelen op het strand	De bruine hond en de rode hond zijn op het strand aan het dartelen	ENTAILMENT
+Twee vrouwen dragen bikini's en zijn op het zand aan het lopen	Twee vrouwen dragen bikini's en zijn aan het lopen op het zand	ENTAILMENT
+Twee grote honden zijn aan het dartelen op een parkeerplaats	Twee grote honden zijn op een parkeerplaats aan het dartelen	ENTAILMENT
+De bruine honden zijn speels aan het vechten op het zandstrand	De bruine honden zijn speels op het zandstrand aan het vechten	ENTAILMENT
+Een jongen is aan het skateboarden op een halfpipe	Een jongen is op een halfpipe aan het skateboarden	ENTAILMENT
+Er is geen man op de fiets op het strand aan het rijden	Er is geen man op de fiets aan het rijden op het strand	ENTAILMENT
+Twee honden zijn vrolijk samen aan het spelen op het gras	Twee honden zijn vrolijk samen op het gras aan het spelen	ENTAILMENT
+Twee kinderen zijn aan het strekken op een aantal metalen staven	Twee kinderen zijn op een aantal metalen staven aan het strekken	ENTAILMENT
+Vier honden zijn niet aan het spelen op een grasveld	Vier honden zijn niet op een grasveld aan het spelen	ENTAILMENT
+De vrouw is niet op de gitaar, die akoestisch is, aan het spelen, of aan het zingen	De vrouw is niet aan het spelen op de gitaar, die akoestisch is, of aan het zingen	ENTAILMENT
+Het meisje is aan het draven op het paard	Het meisje is op het paard aan het draven	ENTAILMENT
+Twee basketbalspelers zijn aan het klauteren voor de bal op het veld	Twee basketbalspelers zijn op het veld aan het klauteren voor de bal	ENTAILMENT
+De man is aan het typen op een machine die gebruikt wordt voor stenografie	De man is op een machine aan het typen die gebruikt wordt voor stenografie	ENTAILMENT

@@ -1,0 +1,384 @@
+sentence_A  sentence_B  entailment_label
+Een jongen is het gazon aan het maaien	Een jongen maait het gazon	ENTAILMENT
+Een hond, die groot en grijs is, is moeizaam een bal in zijn bek aan het dragen en over het gras aan het rennen	Een hond, die groot en grijs is, draagt moeizaam een bal in zijn bek en rent over het gras	ENTAILMENT
+Een man is snel wat champignons aan het hakken met een mes	Een man hakt snel wat champignons met een mes	ENTAILMENT
+De vrouw is een kangoeroe aan het oppakken die klein is	De vrouw pakt een kangoeroe op die klein is	ENTAILMENT
+Een persoon is aan het spugen	Een persoon spuugt	ENTAILMENT
+De hond, die zwart-wit is, is aan het rennen en er staat een persoon achter	De hond, die zwart-wit is, rent en er staat een persoon achter	ENTAILMENT
+Een grote hond en een kleine hond met een witte vacht zijn samen aan het spelen	Een grote hond en een kleine hond met een witte vacht spelen samen	ENTAILMENT
+De kinderen van een familie zijn geduldig aan het spelen en wachten	De kinderen van een familie spelen en wachten geduldig	ENTAILMENT
+Een groep jongens in een tuin is aan het spelen en een man staat op de achtergrond	Een groep jongens in een tuin speelt en een man staat op de achtergrond	ENTAILMENT
+Er is geen vrouw die een vis aan het doorsnijden is	Er is geen vrouw die een vis doorsnijdt	ENTAILMENT
+Drie Aziatische kinderen zijn aan het dansen en er is geen man die kijkt	Drie Aziatische kinderen dansen en er is geen man die kijkt	ENTAILMENT
+Een vrouw is groenten in schijfjes aan het snijden	Een vrouw snijdt groenten in schijfjes	ENTAILMENT
+De jongen is het gras aan het inkorten bij de stoep met een schaar	De jongen kort het gras in bij de stoep met een schaar	ENTAILMENT
+Iemand is wat uien in schijfjes aan het snijden	Iemand snijdt wat uien in schijfjes	ENTAILMENT
+Een vrouw is broccoli aan het hakken	Een vrouw hakt broccoli	ENTAILMENT
+Twee mannen zijn aan het vechten in een veehouderij	Twee mannen vechten in een veehouderij	ENTAILMENT
+De man met een helm is aan het dansen	De man met een helm danst	ENTAILMENT
+De man is vrolijk aan het wandelen in het bos	De man wandelt vrolijk in het bos	ENTAILMENT
+De man is aan het sporten	De man sport	ENTAILMENT
+Een kind is niet aan het buikschuiven in het gras	Een kind buikschuift in het gras	ENTAILMENT
+Een paar mensen zijn aan het dansen	Een paar mensen dansen	ENTAILMENT
+Een kind is een sneeuwbal aan het verpletteren	Een kind verplettert een sneeuwbal	ENTAILMENT
+De vrouw is sap aan het persen uit een citroen	De vrouw perst sap uit een citroen	ENTAILMENT
+Mannen zijn houtblokken aan het zagen	Mannen zagen houtblokken	ENTAILMENT
+Een groep honden is aan het racen en heeft een muilkorf op de neus	Een groep honden racet en heeft een muilkorf op de neus	ENTAILMENT
+Twee vrouwen zijn aan het dansen	Twee vrouwen dansen	ENTAILMENT
+Een vrouw is twee eieren naar een breakdanser aan het bowlen	Een vrouw bowlt twee eieren naar een breakdanser	ENTAILMENT
+Een persoon is een tortilla aan het vouwen	Een persoon vouwt een tortilla	ENTAILMENT
+Een meisje draagt een spijkerbroek en een roze overhemd en is vrolijk aan het rennen	Een meisje draagt een spijkerbroek en een roze overhemd en rent vrolijk	ENTAILMENT
+Iemand is een keyboard aan het opbergen	Iemand bergt een keyboard op	ENTAILMENT
+De man is brood in sneetjes aan het snijden	De man snijdt brood in sneetjes	ENTAILMENT
+Een man is aardappelen in schijfjes aan het snijden	Een man snijdt aardappelen in schijfjes	ENTAILMENT
+Een man is aan het skateboarden op een halfpipe	Een man skateboardt op een halfpipe	ENTAILMENT
+Een auto is risicovol over een meisje aan het springen	Een auto springt risicovol over een meisje	ENTAILMENT
+Een kleine groep mensen is aan het wachten om in een restaurant te eten	Een kleine groep mensen wacht om in een restaurant te eten	ENTAILMENT
+Een hond is opgewonden aan het spelen met water in een veld	Een hond speelt opgewonden met water in een veld	ENTAILMENT
+Een bulldog is de aap aan het borstelen	Een bulldog borstelt de aap	ENTAILMENT
+De persoon is uien in schijfjes aan het snijden	De persoon snijdt uien in schijfjes	ENTAILMENT
+Twee vrouwen zijn aan het praten	Twee vrouwen praten	ENTAILMENT
+De dame is een ei aan het kraken voor de mixer	De dame kraakt een ei voor de mixer	ENTAILMENT
+Een persoon is aan het dansen	Een persoon danst	ENTAILMENT
+De man is voorzichtig een stenograaf aan het bedienen	De man bedient voorzichtig een stenograaf	ENTAILMENT
+Sommige oude vrouwen zijn aan het praten	Sommige oude vrouwen praten	ENTAILMENT
+Twee kinderen zijn aan het voetballen in het park	Twee kinderen voetballen in het park	ENTAILMENT
+Iemand is een tomaat in schijfjes aan het snijden	Iemand snijdt een tomaat in schijfjes	ENTAILMENT
+Een vrouw is een vis aan het doorsnijden	Een vrouw snijdt een vis door	ENTAILMENT
+Iemand is een dier aan het schoonmaken	Iemand maakt een dier schoon	ENTAILMENT
+Sommige cheerleaders zijn aan het ontspannen	Sommige cheerleaders ontspannen	ENTAILMENT
+Een paar zwemmers zijn aan het racen in een meer	Een paar zwemmers racen in een meer	ENTAILMENT
+Een vrouw is een aardappel aan het schillen	Een vrouw schilt een aardappel	ENTAILMENT
+Twee mannen zijn aan het boksen	Twee mannen boksen	ENTAILMENT
+Twee mensen zijn aan het knokken in een ring	Twee mensen knokken in een ring	ENTAILMENT
+Een vrouw is een varkenskotelet aan het paneren	Een vrouw paneert een varkenskotelet	ENTAILMENT
+Sommige kittens zijn aan het eten	Sommige kittens eten	ENTAILMENT
+Een bruine hond en een zwarte hond zijn aan het dartelen in het zand	Een bruine hond en een zwarte hond dartelen in het zand	ENTAILMENT
+Een man is boter aan het hakken in een container	Een man hakt boter in een container	ENTAILMENT
+Een vrouw is van een reling af aan het snowboarden in de sneeuw	Een vrouw snowboardt van een reling af in de sneeuw	ENTAILMENT
+Twee basketbalspelers zijn aan het klauteren voor de bal op het veld	Twee basketbalspelers klauteren voor de bal op het veld	ENTAILMENT
+Een kind in een rode outfit is gevaarlijk aan het springen op een trampoline	Een kind in een rode outfit springt gevaarlijk op een trampoline	ENTAILMENT
+Twee honden zijn aan het dartelen in de sneeuw	Twee honden dartelen in de sneeuw	ENTAILMENT
+De jongen in de blauwe overall is aan het schilderen	De jongen in de blauwe overall schildert	ENTAILMENT
+Een vrouw is tofu in schijfjes aan het snijden	Een vrouw snijdt tofu in schijfjes	ENTAILMENT
+Twee welpen zijn aan het spelen	Twee welpen spelen	ENTAILMENT
+Een hond is een stok aan het halen uit zeer helder water	Een hond haalt een stok uit zeer helder water	ENTAILMENT
+Een meisje is haar nagels aan het vijlen	Een meisje vijlt haar nagels	ENTAILMENT
+Een man is een wapen aan het slijpen	Een man slijpt een wapen	ENTAILMENT
+Een vrouw is de aardappel aan het schillen	Een vrouw schilt de aardappel	ENTAILMENT
+Een man is aan het lunchen	Een man luncht	ENTAILMENT
+De bruine honden zijn speels aan het vechten op het zandstrand	De bruine honden vechten speels op het zandstrand	ENTAILMENT
+Een persoon is een reling af aan het snowboarden in de sneeuw	Een persoon snowboardt een reling af in de sneeuw	ENTAILMENT
+Eén vis is aan het zwemmen	Eén vis zwemt	ENTAILMENT
+Iemand is aan het schrijven	Iemand schrijft	ENTAILMENT
+Twee honden zijn aan het vechten	Twee honden vechten	ENTAILMENT
+Een hond is opgewonden aan het spelen met water in het gras	Een hond speelt opgewonden met water in het gras	ENTAILMENT
+Twee mensen zijn aan het kickboksen en toeschouwers kijken niet	Twee mensen kickboksen en toeschouwers kijken niet	ENTAILMENT
+De vrouw is een fluit aan het opbergen	De vrouw bergt een fluit op	ENTAILMENT
+Een man is een schoen aan het vastbinden	Een man bindt een schoen vast	ENTAILMENT
+Een persoon is een ui aan het inpakken	Een persoon pakt een ui in	ENTAILMENT
+Een kleine zwart-witte hond draagt een stok en is aan het zwemmen	Een kleine zwart-witte hond draagt een stok en zwemt	ENTAILMENT
+Twee mannen zijn aan het racen in een bandenrolwedstrijd	Twee mannen racen in een bandenrolwedstrijd	ENTAILMENT
+De hond is aan het uitrusten in het park	De hond rust uit in het park	ENTAILMENT
+Een bij is aan het opstijgen van een gele bloem	Een bij stijgt op van een gele bloem	ENTAILMENT
+Een dier is aan het rusten	Een dier rust	ENTAILMENT
+Twee honden zijn vrolijk samen aan het spelen op het gras	Twee honden spelen vrolijk samen op het gras	ENTAILMENT
+Iemand is een cameralens aan het spijkeren met luide knallen	Iemand spijkert een cameralens met luide knallen	ENTAILMENT
+Iemand is een stuk papier aan het vouwen	Iemand vouwt een stuk papier	ENTAILMENT
+Een wandelaar is op de top van de berg en is aan het dansen	Een wandelaar is op de top van de berg en danst	ENTAILMENT
+Drie jongens in karatekostuums zijn aan het vechten	Drie jongens in karatekostuums vechten	ENTAILMENT
+Een paar politievrouwen zijn aan het zingen	Een paar politievrouwen zingen	ENTAILMENT
+Een man is aan het touwtje springen in een veld	Een man springt touwtje in een veld	ENTAILMENT
+Een vrouw is een vis aan het uitbenen	Een vrouw beent een vis uit	ENTAILMENT
+De man is een tomaat in schijfjes aan het snijden	De man snijdt een tomaat in schijfjes	ENTAILMENT
+Een baby is vrolijk aan het waggelen	Een baby waggelt vrolijk	ENTAILMENT
+Vrouwen zijn houtblokken aan het zagen	Vrouwen zagen houtblokken	ENTAILMENT
+De bruine honden zijn speels aan het vechten op de zandkust	De bruine honden vechten speels op de zandkust	ENTAILMENT
+Een persoon is een ui in elkaar aan het knutselen	Een persoon knutselt een ui in elkaar	ENTAILMENT
+Drie vrouwen zijn aan het dansen	Drie vrouwen dansen	ENTAILMENT
+Een meisje is aan het sporten	Een meisje sport	ENTAILMENT
+Een vrouw is buiten aan het touwtje springen	Een vrouw springt buiten touwtje	ENTAILMENT
+De man is aan het zwemmen in een waterlichaam bij een waterval	De man zwemt in een waterlichaam bij een waterval	ENTAILMENT
+Een grote hond en een kleine hond staan naast het keukenaanrecht en zijn aan het snuffelen	Een grote hond en een kleine hond staan naast het keukenaanrecht en snuffelen	ENTAILMENT
+De dame is de aardappel aan het schillen	De dame schilt de aardappel	ENTAILMENT
+Sommige mannen zijn aan het rusten	Sommige mannen rusten	ENTAILMENT
+Een man is een broodje in sneetjes aan het snijden	Een man snijdt een broodje in sneetjes	ENTAILMENT
+Sommige cheerleaders zijn aan het dansen	Sommige cheerleaders dansen	ENTAILMENT
+Iemand is wat papier aan het knippen met een schaar	Iemand knipt wat papier met een schaar	ENTAILMENT
+Een vrouw is het water uit een mok aan het legen	Een vrouw leegt het water uit een mok	ENTAILMENT
+De man is afwezig een banaan bij een boom aan het eten	De man eet afwezig een banaan bij een boom	ENTAILMENT
+Een vrouw is wat eten aan het bakken	Een vrouw bakt wat eten	ENTAILMENT
+Iemand is een kat aan het borstelen	Iemand borstelt een kat	ENTAILMENT
+Het meisje is aan het loungen	Het meisje lounget	ENTAILMENT
+Eén panda is aan het klimmen	Eén panda klimt	ENTAILMENT
+De man is een papieren bord aan het snijden	De man snijdt een papieren bord	ENTAILMENT
+Een man is aan het rusten	Een man rusten	ENTAILMENT
+Twee mannen zijn aan het praten	Twee mannen praten	ENTAILMENT
+Een man is de gitaar aan het inpakken	Een man pakt de gitaar in	ENTAILMENT
+Een groep mensen is aan het dansen	Een groep mensen danst	ENTAILMENT
+Een vrouw is knoflook in stukken aan het hakken	Een vrouw hakt knoflook in stukken	ENTAILMENT
+Een zwart topless persoon is een stapel stenen aan het inpakken en er is een wolkenfront op de achtergrond	Een zwart topless persoon pakt een stapel stenen in en er is een wolkenfront op de achtergrond	ENTAILMENT
+Twee mensen in twee stoelen zijn aangenaam aan het lezen	Twee mensen in twee stoelen lezen aangenaam	ENTAILMENT
+De gespierde man is aan het dansen en de man achter hem draagt groene kralen	De gespierde man danst en de man achter hem draagt groene kralen	ENTAILMENT
+Een machine is een mes aan het slijpen	Een machine slijpt een mes	ENTAILMENT
+Een man is een ui in schijfjes aan het snijden	Een man snijdt een ui in schijfjes	ENTAILMENT
+Een man is hersenloos de wortel in schijfjes aan het snijden met een machine	Een man snijdt hersenloos de wortel in schijfjes met een machine	ENTAILMENT
+Een paard is aan het racen	Een paard racet	ENTAILMENT
+Een vrouw is een rode ui aan het hakken	Een vrouw hakt een rode ui	ENTAILMENT
+Een leeuw is de hele pen aan het vermoeien door te stappen	Een leeuw vermoeit de hele pen door te stappen	ENTAILMENT
+Een vrouw is een ui aan het hakken	Een vrouw hakt een ui	ENTAILMENT
+Een man is van een reling af aan het snowboarden in de sneeuw	Een man snowboardt van een reling af in de sneeuw	ENTAILMENT
+Een man is een container van plastic volledig aan het legen	Een man leegt een container van plastic volledig	ENTAILMENT
+Iemand is iets aan het noteren met een potlood	Iemand noteert iets met een potlood	ENTAILMENT
+Een persoon is een stuk papier aan het vouwen	Een persoon vouwt een stuk papier	ENTAILMENT
+Een meisje is aan het skateboarden op een halfpipe	Een meisje skateboardt op een halfpipe	ENTAILMENT
+Een vrouw is vlees aan het snijden	Een vrouw snijdt vlees	ENTAILMENT
+Een das, die sluw is, is de aarde aan het graven	Een das, die sluw is, graaft de aarde	ENTAILMENT
+De man is wat aardappelen in schijfjes aan het snijden	De man snijdt wat aardappelen in schijfjes	ENTAILMENT
+Een grote hond en een kleine witte hond zijn samen aan het spelen	Een grote hond en een kleine witte hond spelen samen	ENTAILMENT
+Twee mensen in twee stoelen zijn aan het lezen	Twee mensen in twee stoelen lezen	ENTAILMENT
+Een jongen is aan het skateboarden op een halfpipe	Een jongen skateboardt op een halfpipe	ENTAILMENT
+Een man is een uitgesneden doos aan het plakken	Een man plakt een uitgesneden doos	ENTAILMENT
+Een man is aan het luieren	Een man luiert	ENTAILMENT
+Een blond meisje is aan het surfen	Een blond meisje surft	ENTAILMENT
+Een vrouw is een aubergine in schijfjes aan het snijden	Een vrouw snijdt een aubergine in schijfjes	ENTAILMENT
+Een man is vlug wat champignons aan het hakken met een mes	Een man hakt vlug wat champignons met een mes	ENTAILMENT
+Sommige vrouwen zijn aan het praten	Sommige vrouwen praten	ENTAILMENT
+Een man is gras aan het maaien	Een man maait gras	ENTAILMENT
+Een kind is aan het buikschuiven in het gras	Een kind buikschuift in het gras	ENTAILMENT
+Een vrouw is wat vlees in plakjes aan het snijden	Een vrouw snijdt wat vlees in plakjes	ENTAILMENT
+Een persoon is snel champignons aan het hakken met een mes	Een persoon hakt snel champignons met een mes	ENTAILMENT
+Een klein kind is buiten op de trap aan het klimmen in een grasveld	Een klein kind klimt buiten op de trap in een grasveld	ENTAILMENT
+Twee honden zijn binnen aan het spelen	Twee honden spelen binnen	ENTAILMENT
+De man is aan het vasten	De man vast	ENTAILMENT
+Twee voetballers zijn aan het klauteren voor de bal op het veld	Twee voetballers klauteren voor de bal op het veld	ENTAILMENT
+De mannen zijn aan het praten	De mannen praten	ENTAILMENT
+Een man is atletisch op een muur aan het springen	Een man springt atletisch op een muur	ENTAILMENT
+Een kat is aan het spelen met een watermeloen	Een kat speelt met een watermeloen	ENTAILMENT
+Een persoon is een ui aan het schillen	Een persoon schilt een ui	ENTAILMENT
+Een meisje is twee stukken boter aan het smelten	Een meisje smelt twee stukken boter	ENTAILMENT
+Een man is een container van plastic aan het legen	Een man leegt een container van plastic	ENTAILMENT
+De man is onhandig met een trainer aan het kickboksen	De man kickbokst onhandig met een trainer	ENTAILMENT
+Een vrouw is aan het telefoneren	Een vrouw telefoneert	ENTAILMENT
+De das is een gat aan het graven	De das graaft een gat	ENTAILMENT
+Iemand die aan het snowboarden is, springt in de lucht	Iemand die snowboardt, springt in de lucht	ENTAILMENT
+Een vrouw is een octopus in schijfjes aan het snijden	Een vrouw snijdt een octopus in schijfjes	ENTAILMENT
+Een vrouw is aan het frituren	Een vrouw frituurt	ENTAILMENT
+De man is een aardappel aan het inpakken	De man pakt een aardappel in	ENTAILMENT
+De man en de vrouw zijn aan het wandelen	De man en de vrouw wandelen	ENTAILMENT
+De man is aan het typen op een machine die gebruikt wordt voor stenografie	De man typet op een machine die gebruikt wordt voor stenografie	ENTAILMENT
+Twee mannen zijn aan het strijden	Twee mannen strijden	ENTAILMENT
+De man is de worsten aan het kruiden	De man kruidt de worsten	ENTAILMENT
+Drie jongens in karate uniform zijn aan het sparren	Drie jongens in karate uniform sparren	ENTAILMENT
+Mannen zijn hout aan het snijden	Mannen snijden hout	ENTAILMENT
+Een man is een grote biefstuk aan het afspoelen	Een man spoelt een grote biefstuk af	ENTAILMENT
+Drie Aziatische kinderen zijn aan het dansen en een man kijkt	Drie Aziatische kinderen dansen en een man kijkt	ENTAILMENT
+De persoon is snel een groente in schijfjes aan het snijden	De persoon snijdt snel een groente in schijfjes	ENTAILMENT
+Een vrouw is langzaam een aardappel aan het schillen	Een vrouw schilt langzaam een aardappel	ENTAILMENT
+Twee mannen in een race zijn de banden van een tractor aan het omdraaien	Twee mannen in een race draaien de banden van een tractor om	ENTAILMENT
+Een vrouw is knoflook aan het hakken	Een vrouw hakt knoflook	ENTAILMENT
+De persoon is aan het schilderen	De persoon schildert	ENTAILMENT
+Twee vrouwen dragen bikini's en zijn op het zand aan het lopen	Twee vrouwen dragen bikini's en lopen op het zand	ENTAILMENT
+Een man is een stenograafmachine aan het opbergen	Een man bergt een stenograafmachine op	ENTAILMENT
+Een man is een vis aan het doorsnijden	Een man snijdt een vis door	ENTAILMENT
+Een man is een akoestische gitaar aan het opbergen	Een man bergt een akoestische gitaar op	ENTAILMENT
+Een zwarte man is aan het breakdansen op de stoep	Een zwarte man breakdanst op de stoep	ENTAILMENT
+Het meisje in een blauwe overall is aan het schilderen	Het meisje in een blauwe overall schildert	ENTAILMENT
+Twee grote honden zijn aan het stoeien in een veld	Twee grote honden stoeien in een veld	ENTAILMENT
+Een man is langzaam aan het wandelen in het bos	Een man wandelt langzaam in het bos	ENTAILMENT
+De vrouwen zijn goddelijk aan het dansen buiten	De vrouwen dansen goddelijk buiten	ENTAILMENT
+Een man is boter aan het hakken in een klein bakje	Een man hakt boter in een klein bakje	ENTAILMENT
+Een man is boter in plakjes aan het snijden	Een man snijdt boter in plakjes	ENTAILMENT
+De persoon is een kat aan het borstelen	De persoon borstelt een kat	ENTAILMENT
+De man is een aardappel in schijfjes aan het snijden	De man snijdt een aardappel in schijfjes	ENTAILMENT
+Een kerel is vrolijk aan het spelen met de hacky sack	Een kerel speelt vrolijk met de hacky sack	ENTAILMENT
+Een man in een rood uniform is aan het racen en maakt een sprong over een fiets in het zand	Een man in een rood uniform racet en maakt een sprong over een fiets in het zand	ENTAILMENT
+Een persoon is een ui in schijfjes aan het snijden	Een persoon snijdt een ui in schijfjes	ENTAILMENT
+Een vrouw is aan het tornen met een machine	Een vrouw tornt met een machine	ENTAILMENT
+De man is de tekening op het bord aan het uitwissen	De man wist de tekening op het bord uit	ENTAILMENT
+Drie mannen zijn aan het dansen	Drie mannen dansen	ENTAILMENT
+Een jongen is zijn haar aan het stylen	Een jongen stylet zijn haar	ENTAILMENT
+Een man is aan het wandelen in het bos	Een man wandelt in het bos	ENTAILMENT
+Een zwarte hond en een witte hond zijn aan het worstelen op het bed	Een zwarte hond en een witte hond worstelen op het bed	ENTAILMENT
+De rijders zijn aan het schermen in een metalen jongensfiets	De rijders schermen in een metalen jongensfiets	ENTAILMENT
+Een vrouw is voedsel aan het schillen	Een vrouw schilt voedsel	ENTAILMENT
+De chef is de olie aan het kruiden	De chef kruidt de olie	ENTAILMENT
+Twee teams zijn enthousiast aan het voetballen	Twee teams voetballen enthousiast	ENTAILMENT
+Een vrouw is een groente in schijfjes aan het snijden	Een vrouw snijdt een groente in schijfjes	ENTAILMENT
+Een kleine hond is aan het vertragen en de eigenaar stopt met hem achtervolgen	Een kleine hond vertraagt en de eigenaar stopt met hem achtervolgen	ENTAILMENT
+Een persoon is een jasje aan het cementeren in een blauwe hoge muur en aan het springen	Een persoon cementeert een jasje in een blauwe hoge muur en springt	ENTAILMENT
+Het meisje is het werk van de andere man van het bord aan het wissen	Het meisje wist het werk van de andere man van het bord	ENTAILMENT
+Een man is een aardappel in schijfjes aan het snijden	Een man snijdt een aardappel in schijfjes	ENTAILMENT
+Twee mannen zijn aan het vechten	Twee mannen vechten	ENTAILMENT
+De mannen zijn aan het knokken in een ring	De mannen knokken in een ring	ENTAILMENT
+Twee jonge kinderen zijn aan het vasten	Twee jonge kinderen vasten	ENTAILMENT
+Een man is aan het rennen	Een man rent	ENTAILMENT
+Twee sumoworstelaars zijn aan het vechten	Twee sumoworstelaars vechten	ENTAILMENT
+Iemand is een rode ui aan het hakken	Iemand hakt een rode ui	ENTAILMENT
+Een vrouw is knoflook in schijfjes aan het snijden	Een vrouw snijdt knoflook in schijfjes	ENTAILMENT
+De dame is een tomaat in schijfjes aan het snijden	De dame snijdt een tomaat in schijfjes	ENTAILMENT
+De vrouw is een aardappel aan het schillen	De vrouw schilt een aardappel	ENTAILMENT
+Een vrouw is aan het sporten	Een vrouw sport	ENTAILMENT
+De baby is vrolijk aan het kruipen	De baby kruipt vrolijk	ENTAILMENT
+Een groep mannen is aan het vechten	Een groep mannen vecht	ENTAILMENT
+Een snowboarder is van een een lange reling af aan het schuren	Een snowboarder schuurt van een een lange reling af	ENTAILMENT
+Twee toeschouwers zijn aan het kickboksen en sommige mensen kijken toe	Twee toeschouwers kickboksen en sommige mensen kijken toe	ENTAILMENT
+Een vrouw is een ham aan het kruiden	Een vrouw kruidt een ham	ENTAILMENT
+De dame is het vlees in plakjes aan het snijden	De dame snijdt het vlees in plakjes	ENTAILMENT
+Een persoon is een komkommer in schijfjes aan het snijden	Een persoon snijdt een komkommer in schijfjes	ENTAILMENT
+Een kerel is vrolijk aan het spelen met een hacky sack	Een kerel speelt vrolijk met een hacky sack	ENTAILMENT
+Twee kinderen zijn aan het strekken op een aantal metalen staven	Twee kinderen strekken op een aantal metalen staven	ENTAILMENT
+Een vrouw is afwezig een aardappel aan het schillen	Een vrouw schilt afwezig een aardappel	ENTAILMENT
+De speler is de basketbal in het net aan het dunken en er is een menigte op de achtergrond	De speler dunkt de basketbal in het net en er is een menigte op de achtergrond	ENTAILMENT
+De vrouw is knoflook aan het hakken	De vrouw hakt knoflook	ENTAILMENT
+Twee vrouwen zijn aan het sparren in een kickbokswedstrijd	Twee vrouwen sparren in een kickbokswedstrijd	ENTAILMENT
+Een vrouw in een rode jurk is een instrument aan het opbergen	Een vrouw in een rode jurk bergt een instrument op	ENTAILMENT
+De kat is aan het spelen met een watermeloen	De kat speelt met een watermeloen	ENTAILMENT
+Het dier met de grote ogen is gulzig aan het eten	Het dier met de grote ogen eet gulzig	ENTAILMENT
+De persoon is een groente in schijfjes aan het snijden	De persoon snijdt een groente in schijfjes	ENTAILMENT
+Een vrouw is uien aan het hakken	Een vrouw hakt uien	ENTAILMENT
+De vrouw is de olie aan het kruiden	De vrouw kruidt de olie	ENTAILMENT
+De dame is uien aan het snijden	De dame snijdt uien	ENTAILMENT
+Twee grote honden zijn aan het dartelen in een grasveld	Twee grote honden dartelen in een grasveld	ENTAILMENT
+Twee vrouwen zijn lekker aan het dansen	Twee vrouwen dansen lekker	ENTAILMENT
+Twee mannen zijn aan het knuffelen	Twee mannen knuffelen	ENTAILMENT
+Een man is een aardappel aan het hakken	Een man hakt een aardappel	ENTAILMENT
+Het meisje in de blauwe overall is aan het schilderen	Het meisje in de blauwe overall schildert	ENTAILMENT
+Een man is een plastic container aan het legen	Een man leegt een plastic container	ENTAILMENT
+Een vrouw is voorzichtig haar make-up aan het verwijderen	Een vrouw verwijdert voorzichtig haar make-up	ENTAILMENT
+Iemand is aan het typen	Iemand is typet	ENTAILMENT
+De hond is aan het uitrusten in de woonkamer	De hond rust uit in de woonkamer	ENTAILMENT
+Een paar kittens zijn aan het eten	Een paar kittens eten	ENTAILMENT
+Twee poedels liggen in de sneeuw en één is aan het springen	Twee poedels liggen in de sneeuw en één springt	ENTAILMENT
+Een man is een zittende gitarist aan het vloeren	Een man vloert een zittende gitarist	ENTAILMENT
+Sommige mannen zijn aan het vechten	Sommige mannen vechten	ENTAILMENT
+Iemand is een banaan aan het schillen	Iemand schilt een banaan	ENTAILMENT
+Twee preadolescente tweelingkinderen zijn aan het duelleren met stokken	Twee preadolescente tweelingkinderen duelleren met stokken	ENTAILMENT
+Een man is uien in schijfjes aan het snijden	Een man snijdt uien in schijfjes	ENTAILMENT
+Een groep honden is woedend aan het racen en heeft muilkorven op de neuzen	Een groep honden racet woedend en heeft muilkorven op de neuzen	ENTAILMENT
+Twee mensen in een race zijn de banden van een tractor aan het omdraaien	Twee mensen in een race draaien de banden van een tractor om	ENTAILMENT
+De lopers zijn aan het racen in een wedstrijd	De lopers racen in een wedstrijd	ENTAILMENT
+Twee mensen in twee stoelen zijn aan het praten	Twee mensen in twee stoelen praten	ENTAILMENT
+Een paar mannen zijn aan het dansen	Een paar mannen dansen	ENTAILMENT
+Sommige vrouwen zijn vrolijk aan het dansen	Sommige vrouwen dansen vrolijk	ENTAILMENT
+Een baby is vrolijk aan het spelen met een hond	Een baby speelt vrolijk met een hond	ENTAILMENT
+De vrouw is de tekening op het bord aan het uitwissen	De vrouw wist de tekening op het bord uit	ENTAILMENT
+Een man is aan het bidden	Een man bidt	ENTAILMENT
+Een man is een ui aan het schillen	Een man schilt een ui	ENTAILMENT
+De man is aan het trainen	De man traint	ENTAILMENT
+De jongen en het meisje zijn vrolijk aan het spelen en dragen zwembandjes	De jongen en het meisje spelen vrolijk en dragen zwembandjes	ENTAILMENT
+Twee jonge vrouwen zijn aan het sparren in een kickboksgevecht	Twee jonge vrouwen sparren in een kickboksgevecht	ENTAILMENT
+Twee mensen zijn aan het kickboksen en toeschouwers kijken toe	Twee mensen kickboksen en toeschouwers kijken toe	ENTAILMENT
+Een vrouw is vis aan het bakken	Een vrouw bakt vis	ENTAILMENT
+Twee mensen zijn aan het vechten en toeschouwers kijken toe	Twee mensen vechten en toeschouwers kijken toe	ENTAILMENT
+Een vrouw is een vis voorzichtig aan het uitbenen	Een vrouw beent een vis voorzichtig uit	ENTAILMENT
+Een Aziatische man is aan het dansen en drie kinderen kijken	Een Aziatische man danst en drie kinderen kijken	ENTAILMENT
+Een paar vrouwen zijn aan het dansen	Een paar vrouwen dansen	ENTAILMENT
+De vrouw is een ui in schijfjes aan het snijden	De vrouw snijdt een ui in schijfjes	ENTAILMENT
+Iemand is de ingrediënten aan het bowlen naar de man bij de mixer	Iemand bowlt de ingrediënten naar de man bij de mixer	ENTAILMENT
+De aap is een bulldog aan het borstelen	De aap borstelt een bulldog	ENTAILMENT
+De dame is een ei aan het breken voor de mixer	De dame breekt een ei voor de mixer	ENTAILMENT
+Een panda is aan het klimmen	Een panda klimt	ENTAILMENT
+Drie Aziatische kinderen zijn aan het dansen en een serieuze man kijkt	Drie Aziatische kinderen dansen en een serieuze man kijkt	ENTAILMENT
+Mannen zijn aan het zagen	Mannen zagen	ENTAILMENT
+Een bruine en witte hond is aan het rusten in het gras	Een bruine en witte hond rust in het gras	ENTAILMENT
+Twee katten zijn speels aan het vechten met elkaar	Twee katten vechten speels met elkaar	ENTAILMENT
+Een dame is wat vlees aan het snijden	Een dame snijdt wat vlees	ENTAILMENT
+Een maki is aan het eten	Een maki eet	ENTAILMENT
+Iemand is een piano aan het demonteren	Iemand demonteert een piano	ENTAILMENT
+Een baby is vrolijk aan het kruipen	Een baby kruipt vrolijk	ENTAILMENT
+Een man is eten aan het bakken	Een man bakt eten	ENTAILMENT
+Een bruine en witte hond met een bruine en zwarte bandana is snel aan het rennen	Een bruine en witte hond met een bruine en zwarte bandana rent snel	ENTAILMENT
+De vrouw is geen knoflook in blokjes aan het snijden	De vrouw snijdt geen knoflook in blokjes	ENTAILMENT
+Twee mensen zijn aan het praten	Twee mensen praten	ENTAILMENT
+Het meisje is aan het draven op het paard	Het meisje draaft op het paard	ENTAILMENT
+Iemand is aan het typen op een toetsenbord	Iemand typet op een toetsenbord	ENTAILMENT
+Iemand is aan het typen op het toetsenbord	Iemand typet op het toetsenbord	ENTAILMENT
+Een man is een mes aan het slijpen	Een man slijpt een mes	ENTAILMENT
+Een jongen is aan het buikschuiven in het gras	Een jongen buikschuift in het gras	ENTAILMENT
+Twee mannen zijn aan het raften in de buurt van een ruiter in het oranje op de oever	Twee mannen raften in de buurt van een ruiter in het oranje op de oever	ENTAILMENT
+Sommige mannen zijn aan het zagen	Sommige mannen zagen	ENTAILMENT
+Een persoon is aan het sporten	Een persoon sport	ENTAILMENT
+Iemand is stevig eieren in een kom aan het kloppen	Iemand klopt stevig eieren in een kom	ENTAILMENT
+Twee grote honden zijn aan het dartelen op een parkeerplaats	Twee grote honden dartelen op een parkeerplaats	ENTAILMENT
+Er is geen man die aan het mixen is	Er is geen man die mixt	ENTAILMENT
+Het meisje is aan het sporten	Het meisje sport	ENTAILMENT
+Een meisje met rood haar en rode wenkbrauwen is aan het spreken	Een meisje met rood haar en rode wenkbrauwen spreekt	ENTAILMENT
+De vrouw is een babykangoeroe aan het oppakken en vasthouden	De vrouw pakt een babykangoeroe op en houdt deze vast	ENTAILMENT
+Drie jonge mannen zijn woedend aan het rennen, springen en schoppen in de buurt van een verkoopautomaat	Drie jonge mannen rennen, springen en schoppen woedend in de buurt van een verkoopautomaat	ENTAILMENT
+Een vrouw is een hond aan het aaien in de buurt van een stenen pad	Een vrouw aait een hond in de buurt van een stenen pad	ENTAILMENT
+Twee jongens zijn aan het studeren	Twee jongens studeren	ENTAILMENT
+Een vrouw is een komkommer in schijfjes aan het snijden	Een vrouw snijdt een komkommer in schijfjes	ENTAILMENT
+Een vrouw is aardappelen in schijfjes aan het snijden	Een vrouw snijdt aardappelen in schijfjes	ENTAILMENT
+Een persoon is een vel aan het vouwen	Een persoon vouwt een vel	ENTAILMENT
+Een verre persoon met een blauwe rugzak is aan het wandelen in rotsachtig gebied	Een verre persoon met een blauwe rugzak wandelt in rotsachtig gebied	ENTAILMENT
+Een man is aan het mixen	Een man mixt	ENTAILMENT
+De man is de tape op de doos aan het knippen	De man knipt de tape op de doos	ENTAILMENT
+Een vrouw is boter in plakjes aan het snijden	Een vrouw snijdt boter in plakjes	ENTAILMENT
+De man is het werk van de andere man van het bord aan het wissen	De man wist het werk van de andere man van het bord	ENTAILMENT
+Een hond is aan het rennen	Een hond rent	ENTAILMENT
+Twee witte honden zijn aan het rennen en springen langs een strand	Twee witte honden rennen en springen langs een strand	ENTAILMENT
+De man is het vlees aan het kruiden	De man kruidt het vlees	ENTAILMENT
+Een vis is aan het zwemmen	Een vis zwemt	ENTAILMENT
+Een zwarte man is vakkundig op de stoep aan het breakdansen	Een zwarte man breakdanst vakkundig op de stoep	ENTAILMENT
+De man is de aardappel in schijfjes aan het snijden	De man snijdt de aardappel in schijfjes	ENTAILMENT
+Een zwarte hond en een bruingele hond zijn aan het vechten	Een zwarte hond en een bruingele hond vechten	ENTAILMENT
+De vrouw is kruiden aan het snijden	De vrouw snijdt kruiden	ENTAILMENT
+De bruine hond en de rode hond zijn aan het dartelen op het strand	De bruine hond en de rode hond dartelen op het strand	ENTAILMENT
+Een kleine jongen is een hond aan het uitschelden	Een kleine jongen scheldt een hond uit	ENTAILMENT
+Een man met een helm is aan het dansen	Een man met een helm is aan het dansen	ENTAILMENT
+De vrouw is aan het waterskiën	De vrouw waterskiet	ENTAILMENT
+De man is aardappelen in schijfjes aan het snijden	De man snijdt aardappelen in schijfjes	ENTAILMENT
+Een man is wat cijfers aan het wissen	Een man wist wat cijfers	ENTAILMENT
+Een man is langzaam aan het dansen op de weg	Een man danst langzaam op de weg	ENTAILMENT
+Een vrouw is vlees aan het bakken	Een vrouw bakt vlees	ENTAILMENT
+De jongen is aan het draven op het paard	De jongen draaft op het paard	ENTAILMENT
+De vrouw is een wortel in blokjes aan het snijden	De vrouw snijdt een wortel in blokjes	ENTAILMENT
+Een man is een ui aan het hakken	Een man hakt een ui	ENTAILMENT
+Een persoon is een ui aan het hakken	Een persoon hakt een ui	ENTAILMENT
+Een meisje is haar haar aan het stylen	Een meisje stylet haar haar	ENTAILMENT
+Een vrouw is een aardappel aan het wegzetten	Een vrouw zet een aardappel weg	ENTAILMENT
+Een man met een trui is de bal aan het dunken bij een basketbalwedstrijd	Een man met een trui dunkt de bal bij een basketbalwedstrijd	ENTAILMENT
+Een hond is een stuk hout aan het halen uit zeer helder water	Een hond haalt een stuk hout uit zeer helder water	ENTAILMENT
+De persoon is een ui aan het schillen	De persoon schilt een ui	ENTAILMENT
+Iemand die aan het voetballen is draagt zwarte armbanden	Iemand die voetbalt draagt zwarte armbanden	ENTAILMENT
+Een grote zwart-witte hond draagt een stok en is aan het zwemmen	Een grote zwart-witte hond draagt een stok en zwemt	ENTAILMENT
+Twee mannen zijn aan het knokken in een ring	Twee mannen knokken in een ring	ENTAILMENT
+Een zwarte hond en een gele hond zijn met elkaar aan het spelen	Een zwarte hond en een gele hond spelen met elkaar	ENTAILMENT
+Een vrouw is aan het wakeboarden op een meer	Een vrouw wakeboardt op een meer	ENTAILMENT
+De persoon is de aardappel in schijfjes aan het snijden	De persoon snijdt de aardappel in schijfjes	ENTAILMENT
+De man is een boomstam aan het hakken met een bijl	De man hakt een boomstam met een bijl	ENTAILMENT
+De vrouw is onbevreesd aan het waterskiën	De vrouw waterskiet onbevreesd	ENTAILMENT
+De dame is eieren die rauw zijn aan het breken in een kom	De dame breekt eieren die rauw zijn in een kom	ENTAILMENT
+Een man is buiten aan het touwtje springen	Een man springt buiten touwtje	ENTAILMENT
+Twee meisjes zijn gelukkig aan het spelen in een springkasteel	Twee meisjes spelen gelukkig in een springkasteel	ENTAILMENT
+Een man is aan het racen	Een man racet	ENTAILMENT
+Iemand is een dier aan het bevuilen	Iemand bevuilt een dier	ENTAILMENT
+Een vrouw is een ui in schijfjes aan het snijden	Een vrouw snijdt een ui in schijfjes	ENTAILMENT
+De man is wild aan het dansen	De man danst wild aan het dansen	ENTAILMENT
+De zwart-witte hond is aan het rennen en er staat een persoon achter	De zwart-witte hond rent en er staat een persoon achter	ENTAILMENT
+De persoon is aan het wandelen	De persoon wandelt	ENTAILMENT
+Een man is deeg aan het kneden	Een man kneedt deeg	ENTAILMENT
+Twee honden zijn aan het worstelen en knuffelen	Twee honden worstelen en knuffelen	ENTAILMENT
+De man is voorzichtig een muis aan de slang aan het voeden	De man voedt voorzichtig een muis aan de slang	ENTAILMENT
+De vrouw is knoflook in schijfjes aan het snijden	De vrouw snijdt knoflook in schijfjes	ENTAILMENT
+Eén man is aan het dansen	Eén man danst	ENTAILMENT
+Een man is aan het sporten	Een man sport	ENTAILMENT
+Een bruine hond en een rode hond zijn op het strand aan het dartelen	Een bruine hond en een rode hond dartelen op het strand	ENTAILMENT
+Een vrouw is aan het wakeboarden op het meer	Een vrouw wakeboardt op het meer	ENTAILMENT
+Een dame is precies wat vlees aan het snijden	Een dame snijdt precies wat vlees	ENTAILMENT
+Een man is de schoen aan het vastbinden	Een man bindt de schoen vast	ENTAILMENT
+De vrouw is een tomaat in schijfjes aan het snijden	De vrouw snijdt een tomaat in schijfjes	ENTAILMENT
+Een man is tomaten in schijfjes aan het snijden	Een man snijdt tomaten in schijfjes	ENTAILMENT
+Een vrouw is iets aan het bakken	Een vrouw bakt iets	ENTAILMENT
+Een motorfiets is rechtop aan het rijden op het zadel van het voertuig	Een motorfiets rijdt rechtop op het zadel van het voertuig	ENTAILMENT
+De man is groenten in schijfjes aan het snijden	De man snijdt groenten in schijfjes	ENTAILMENT
+Een man is een jachtgeweer aan het herladen	Een man herlaadt een jachtgeweer	ENTAILMENT
+De hond met de bruine vacht is buiten aan het spelen	De hond met de bruine vacht speelt buiten	ENTAILMENT
+De man is aan het wandelen in het bos	De man wandelt in het bos	ENTAILMENT
+Twee lange basketbalspelers zijn aan het klauteren voor de bal op het veld	Twee lange basketbalspelers klauteren voor de bal op het veld	ENTAILMENT
+Het meisje zit op de bank en is aan het haken	Het meisje zit op de bank en haakt	ENTAILMENT
+De mannen zijn koffers aan het inpakken in de kofferbak van een auto	De mannen pakken koffers in in de kofferbak van een auto	ENTAILMENT
+Een vrouw is aan het surfen	Een vrouw surft	ENTAILMENT
+Eén persoon die snowboarden aan het oefenen is, springt in de lucht	Eén persoon die snowboarden oefent, springt in de lucht	ENTAILMENT
+Een vrouw is een stuk vlees aan het kruiden	Een vrouw kruidt een stuk vlees	ENTAILMENT
