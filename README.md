@@ -1,2 +1,2 @@
-# sick_nl
+# SICK-NL
 A translation of the SICK dataset, for evaluating relatedness and entailment models for Dutch
