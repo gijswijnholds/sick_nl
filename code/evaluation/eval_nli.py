@@ -1,12 +1,10 @@
 import os
 import pickle
 import torch
-from transformers import BertTokenizer, BertForSequenceClassification
-from transformers import RobertaTokenizer, RobertaForSequenceClassification
 from sick_nl.code.config import (models_folder, results_folder, bert, bert_nl,
                                  roberta, roberta_nl, mbert)
 from sick_nl.code.loaders.sick import load_sick_en, load_sick_nl
-from sick_nl.code.models.bert_finetune import SICK_BERT_DATASET, BERTFineTuner
+from sick_nl.code.loaders.nli_models import load_bert_nli_model
 
 
 def save_model(out_folder, model, dataset_name, name, epoch=1):
@@ -70,25 +68,13 @@ def consolidate_results_and_models(dataset_name, name, model_folder, result_fold
         os.remove(fn)
 
 
-def run_finetuner(sick_dataset, name, setting='bert', freeze=False, num_epochs=3,
+def run_finetuner(sick_dataset, name, setting='bert', num_epochs=3,
                   model_folder='models', result_folder='results'):
-    print("Loading BERT model...")
-    if setting == 'bert':
-        tokenizer = BertTokenizer.from_pretrained(name)
-        model = BertForSequenceClassification.from_pretrained(name, num_labels=3)
-    elif setting == 'roberta':
-        tokenizer = RobertaTokenizer.from_pretrained(name)
-        model = RobertaForSequenceClassification.from_pretrained(name, num_labels=3)
-    print("Preparing datasets...")
-    train_dataset = SICK_BERT_DATASET(sick_dataset.train_data, tokenizer)
-    eval_dataset = SICK_BERT_DATASET(sick_dataset.test_data, tokenizer)
-    print("Loading finetuning model...")
-    tuner = BERTFineTuner(name, tokenizer, model, train_dataset, eval_dataset,
-                          num_epochs=1, freeze=freeze)
+    tuner = load_bert_nli_model(sick_dataset, name, setting)
     eval_results = []
     train_results = []
     eval_results.append(tuner.evaluate())
-    save_results(results_folder, eval_results[-1], sick_dataset.name, name, epoch=0)
+    save_results(result_folder, eval_results[-1], sick_dataset.name, name, epoch=0)
 
     epochs = num_epochs
     for i in range(epochs):
@@ -96,8 +82,8 @@ def run_finetuner(sick_dataset, name, setting='bert', freeze=False, num_epochs=3
         print(f"Training for epoch {j}/{epochs}...")
         train_results.append(tuner.train())
         eval_results.append(tuner.evaluate())
-        save_results(results_folder, eval_results[-1], sick_dataset.name, name, epoch=j)
-        save_model(models_folder, tuner.model, sick_dataset.name, name, epoch=j)
+        save_results(result_folder, eval_results[-1], sick_dataset.name, name, epoch=j)
+        save_model(model_folder, tuner.model, sick_dataset.name, name, epoch=j)
     last_acc = eval_results[-1]['eval_accuracy']
     print(f"Finished running! The last test accuracy was {last_acc}!")
     consolidate_results_and_models(sick_dataset.name, name, model_folder, result_folder)
@@ -106,13 +92,13 @@ def run_finetuner(sick_dataset, name, setting='bert', freeze=False, num_epochs=3
 
 def evaluate_en_nli_models():
     en_sick = load_sick_en()
-    run_finetuner(en_sick, mbert, setting='bert', freeze=False, num_epochs=20)
-    run_finetuner(en_sick, bert, setting='bert', freeze=False, num_epochs=20)
-    run_finetuner(en_sick, roberta, setting='roberwta', freeze=False, num_epochs=20)
+    run_finetuner(en_sick, mbert, setting='bert', num_epochs=20, model_folder=models_folder, result_folder=results_folder)
+    run_finetuner(en_sick, bert, setting='bert', num_epochs=20, model_folder=models_folder, result_folder=results_folder)
+    run_finetuner(en_sick, roberta, setting='roberta', num_epochs=20, model_folder=models_folder, result_folder=results_folder)
 
 
 def evaluate_nl_nli_models():
     nl_sick = load_sick_nl()
-    run_finetuner(nl_sick, bert_nl, setting='bert', freeze=False, num_epochs=20)
-    run_finetuner(nl_sick, roberta_nl, setting='roberta', freeze=False, num_epochs=20)
-    run_finetuner(nl_sick, mbert, setting='bert', freeze=False, num_epochs=20)
+    run_finetuner(nl_sick, bert_nl, setting='bert', num_epochs=20, model_folder=models_folder, result_folder=results_folder)
+    run_finetuner(nl_sick, roberta_nl, setting='roberta', num_epochs=20, model_folder=models_folder, result_folder=results_folder)
+    run_finetuner(nl_sick, mbert, setting='bert', num_epochs=20, model_folder=models_folder, result_folder=results_folder)
