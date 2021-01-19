@@ -1,45 +1,44 @@
-import torch
-from transformers import BertTokenizer, RobertaTokenizer
-from sick_nl.code.models.bert_finetune import SICK_BERT_DATASET, BERTFineTuner
-from sick_nl.code.config import prep_order_fn, present_tense_fn
-
-"""TODO: evaluate on the stress test itself, and evaluate on SICK-test pairs with
-    replacement of stress test rewrites."""
-
-
-def load_stress_test(test_fn: str):
-    with open(test_fn) as inf:
-        data = [ln.split('\t') for ln in inf.readlines()[1:]]
-    return data
+from sick_nl.code.config import (bert_nl, best_bert_nl_model,
+                                 roberta_nl, best_roberta_nl_model,
+                                 mbert, best_mbert_nl_model)
+from sick_nl.code.loaders.stress_tests import (load_prep_order, load_present_tense,
+                                               load_switched_sick)
+from sick_nl.code.loaders.nli_models import load_bert_nli_model_stress_test
 
 
-def load_prep_order():
-    return load_stress_test(prep_order_fn)
+def evaluate_switched_sick(data, model_fn, name, setting):
+    data_before, data_after = load_switched_sick(data)
+    results_before = load_bert_nli_model_stress_test(data_before, model_fn, name, setting).evaluate()
+    results_after = load_bert_nli_model_stress_test(data_before, model_fn, name, setting).evaluate()
+    return results_before, results_after
 
 
-def load_present_tense():
-    return load_stress_test(present_tense_fn)
+def evaluate_stress_test(data, model_fn, name, setting):
+    left_to_right_data, right_to_left_data = load_stress_test_bidirectional(data)
+    results_left_to_right = load_bert_nli_model_stress_test(left_to_right_data, model_fn, name, setting).evaluate()
+    results_right_to_left = load_bert_nli_model_stress_test(right_to_left_data, model_fn, name, setting).evaluate()
+    return results_left_to_right, results_right_to_left
 
 
-def evaluate_trained_model(old_pairs, new_pairs, fn, name, setting='bert'):
-    print("Loading model...")
-    if setting == 'bert':
-        tokenizer = BertTokenizer.from_pretrained(name)
-    elif setting == 'roberta':
-        tokenizer = RobertaTokenizer.from_pretrained(name)
-    model = torch.load(fn)
-    print("Loading datasets...")
-    old_dataset = SICK_BERT_DATASET(old_pairs, tokenizer)
-    new_dataset = SICK_BERT_DATASET(new_pairs, tokenizer)
-    print("Loading finetuning model...")
-    old_tuner = BERTFineTuner(name, tokenizer, model, old_dataset, old_dataset,
-                              num_epochs=1, freeze=False)
-    new_tuner = BERTFineTuner(name, tokenizer, model, new_dataset, new_dataset,
-                              num_epochs=1, freeze=False)
-    old_results = old_tuner.evaluate()
-    new_results = new_tuner.evaluate()
-    return old_results, new_results
+def evaluate_switched_sicks():
+    prep_order_data, pres_tense_data = load_prep_order(), load_present_tense()
+    results = {'bert_nl': {}, 'roberta_nl': {}, 'mbert': {}}
+    results['bert_nl']['prep_order'] = evaluate_switched_sick(prep_order_data, best_bert_nl_model, bert_nl, setting='bert')
+    results['roberta_nl']['prep_order'] = evaluate_switched_sick(prep_order_data, best_roberta_nl_model, roberta_nl, setting='roberta')
+    results['mbert']['prep_order'] = evaluate_switched_sick(prep_order_data, best_mbert_nl_model, mbert, setting='bert')
+    results['bert_nl']['pres_tense'] = evaluate_switched_sick(pres_tense_data, best_bert_nl_model, bert_nl, setting='bert')
+    results['roberta_nl']['pres_tense'] = evaluate_switched_sick(pres_tense_data, best_roberta_nl_model, roberta_nl, setting='roberta')
+    results['mbert']['pres_tense'] = evaluate_switched_sick(pres_tense_data, best_mbert_nl_model, mbert, setting='bert')
+    return results
 
 
-def evaluate_on_stress_tests():
-    pass
+def evaluate_stress_tests():
+    prep_order_data, pres_tense_data = load_prep_order(), load_present_tense()
+    results = {'bert_nl': {}, 'roberta_nl': {}, 'mbert': {}}
+    results['bert_nl']['prep_order'] = evaluate_stress_test(prep_order_data, best_bert_nl_model, bert_nl, setting='bert')
+    results['roberta_nl']['prep_order'] = evaluate_stress_test(prep_order_data, best_roberta_nl_model, roberta_nl, setting='roberta')
+    results['mbert']['prep_order'] = evaluate_stress_test(prep_order_data, best_mbert_nl_model, mbert, setting='bert')
+    results['bert_nl']['pres_tense'] = evaluate_stress_test(pres_tense_data, best_bert_nl_model, bert_nl, setting='bert')
+    results['roberta_nl']['pres_tense'] = evaluate_stress_test(pres_tense_data, best_roberta_nl_model, roberta_nl, setting='roberta')
+    results['mbert']['pres_tense'] = evaluate_stress_test(pres_tense_data, best_mbert_nl_model, mbert, setting='bert')
+    return results
