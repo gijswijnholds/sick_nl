@@ -8,7 +8,6 @@ De mannen zijn niet aan het knokken in een ring	De mannen zijn niet in een ring 
 Een hond is opgewonden aan het spelen met water in een veld	Een hond is opgewonden in een veld aan het spelen met water	ENTAILMENT
 De mannen zijn aan het knokken in een ring	De mannen zijn in een ring aan het knokken	ENTAILMENT
 Een hond is opgewonden aan het spelen met water in het gras	Een hond is opgewonden in het gras aan het spelen met water	ENTAILMENT
-Een kind in een rode outfit is gevaarlijk aan het springen op een trampoline	Een kind in een rode outfit is gevaarlijk op een trampoline aan het springen	ENTAILMENT
 Twee kinderen zijn aan het voetballen in het park	Twee kinderen zijn in het park aan het voetballen	ENTAILMENT
 Een paar zwemmers zijn aan het racen in een meer	Een paar zwemmers zijn in een meer aan het racen	ENTAILMENT
 De man is aan het zwemmen in een waterlichaam bij een waterval	De man is in een waterlichaam bij een waterval aan het zwemmen	ENTAILMENT
