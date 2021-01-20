@@ -17,9 +17,10 @@ sick_fn_nl = os.path.join(sick_folder, 'SICK_NL.txt')
 skipgram_fn = os.path.join(vectors_folder, 'GoogleNews-vectors-negative300_SICK.txt')
 skipgram_fn_nl = os.path.join(vectors_folder, '320/wikipedia-320.txt')
 
-models_folder = os.path.join(data_folder, 'models')
-models_agg_folder = os.path.join(data_folder, 'models_agg')
-results_folder = os.path.join(data_folder, 'results')
+model_data_folder = 'sick_nl/model_data'
+models_folder = os.path.join(model_data_folder, 'models')
+models_agg_folder = os.path.join(model_data_folder, 'models_agg')
+results_folder = os.path.join(model_data_folder, 'results')
 
 prep_order_fn = os.path.join(stress_test_folder, 'prep_phrase_order.txt')
 present_tense_fn = os.path.join(stress_test_folder, 'present_cont_present_simple.txt')

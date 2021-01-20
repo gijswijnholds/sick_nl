@@ -2,14 +2,14 @@ from sick_nl.code.config import (bert_nl, best_bert_nl_model,
                                  roberta_nl, best_roberta_nl_model,
                                  mbert, best_mbert_nl_model)
 from sick_nl.code.loaders.stress_tests import (load_prep_order, load_present_tense,
-                                               load_switched_sick)
+                                               load_switched_sick, load_stress_test_bidirectional)
 from sick_nl.code.loaders.nli_models import load_bert_nli_model_stress_test
 
 
 def evaluate_switched_sick(data, model_fn, name, setting):
     data_before, data_after = load_switched_sick(data)
     results_before = load_bert_nli_model_stress_test(data_before, model_fn, name, setting).evaluate()
-    results_after = load_bert_nli_model_stress_test(data_before, model_fn, name, setting).evaluate()
+    results_after = load_bert_nli_model_stress_test(data_after, model_fn, name, setting).evaluate()
     return results_before, results_after
 
 

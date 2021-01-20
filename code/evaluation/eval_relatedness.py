@@ -2,8 +2,8 @@
 from sklearn.metrics.pairwise import cosine_similarity
 from scipy.stats import spearmanr, pearsonr
 from tqdm import tqdm
-from sick_nl.code.loader.sick import load_sick_nl, load_sick_en
-from sick_nl.code.loader.relatedness_models import load_models_nl, load_models_en
+from sick_nl.code.loaders.sick import load_sick_nl, load_sick_en
+from sick_nl.code.loaders.relatedness_models import load_models_nl, load_models_en
 
 
 class Evaluator(object):

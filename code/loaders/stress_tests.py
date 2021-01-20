@@ -4,7 +4,7 @@ from sick_nl.code.config import prep_order_fn, present_tense_fn
 
 def load_stress_test(test_fn: str):
     with open(test_fn) as inf:
-        data = [ln.split('\t') for ln in inf.readlines()[1:]]
+        data = [ln.strip().split('\t') for ln in inf.readlines()[1:]]
     return data
 
 
@@ -20,13 +20,15 @@ def load_switched_sick(stress_data):
     nl_sick = load_sick_nl()
     stress_dict = {s1: s2 for (s1, s2, el) in stress_data}
     before_data = list(set([(s1, s2, el, rl) for (s1, s2, el, rl)
-                            in nl_sick.test_data() if s1 in stress_dict] +
+                            in nl_sick.test_data if s1 in stress_dict] +
                            [(s1, s2, el, rl) for (s1, s2, el, rl)
-                            in nl_sick.test_data() if s2 in stress_dict]))
+                            in nl_sick.test_data if s2 in stress_dict]))
     after_data = list(set([(stress_dict[s1], s2, el, rl) for (s1, s2, el, rl)
-                           in nl_sick.test_data() if s1 in stress_dict] +
+                           in nl_sick.test_data if s1 in stress_dict and s2 not in stress_dict] +
                           [(s1, stress_dict[s2], el, rl) for (s1, s2, el, rl)
-                           in nl_sick.test_data() if s2 in stress_dict]))
+                           in nl_sick.test_data if s2 in stress_dict and s1 not in stress_dict] +
+                          [(stress_dict[s1], stress_dict[s2], el, rl) for (s1, s2, el, rl)
+                           in nl_sick.test_data if s2 in stress_dict and s1 in stress_dict]))
     return before_data, after_data
 
 
