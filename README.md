@@ -37,9 +37,9 @@ For the Dutch models, we evaluated with [BERTje][bertje] and [RobBERT][robbert].
 ### NLI results (threeway classification accuracy)
 |         | SICK  |         | SICK-NL |
 | ------- |:-----:| ------- |:-------:|
-| BERT    | 50.78 | BERTje  |  49.06  |
-| mBERT   | 50.78 | mBERT   |  49.06  |
-| RoBERTa | 62.71 | RobBERT |  52.33  |
+| BERT    | 87.34 | BERTje  |  83.94  |
+| mBERT   | 87.02 | mBERT   |  84.53  |
+| RoBERTa | 90.11 | RobBERT |  82.02  |
 
 
 [skipgram_vectors]: https://code.google.com/archive/p/word2vec/
