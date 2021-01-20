@@ -2,7 +2,7 @@
 
 A translation of the SICK dataset, for evaluating relatedness and entailment models for Dutch. SICK-NL was obtained by semi-automatically translating SICK (Marelli et al., 2014). Additionally, we provide two stress tests derived from our translation, that deal with semantically equivalent but syntactically different phrasings of the same sentence.
 
-We display some of the evaluation results below. For full details please refer to our paper, which we ask you to cite if you used any of the code, data, or information from the paper:
+We display some of the evaluation results below. For full details please refer to our EACL 2021 paper, which we ask you to cite if you used any of our code, data, or information from the paper:
 
 ```
 @inproceedings{wijnholds-etal-2021-sicknl,
