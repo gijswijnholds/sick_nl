@@ -21,7 +21,7 @@ We display some of the evaluation results below. For full details please refer t
 
 The code implements the evaluation of English and Dutch BERT/RoBERTa/Multilingual BERT models on SICK and SICK-NL and the two stress tests as Natural Language Inference tasks. As a baseline we also evaluate static embeddings on the relatedness task of SICK and SICK-NL.
 
-We use the [HuggingFace Transformers][transformers] library to load and train the models.
+For relatedness, we use the skipgram vectors of [word2vec][skipgram_vectors], and [Dutch skipgram vectors][dutch_skipgram_vectors]. We use the [HuggingFace Transformers][transformers] library to load and train the models.
 For the Dutch models, we evaluated with [BERTje][bertje] and [RobBERT][robbert].
 
 ### Relatedness results (Pearson r)
@@ -42,6 +42,8 @@ For the Dutch models, we evaluated with [BERTje][bertje] and [RobBERT][robbert].
 | RoBERTa | 62.71 | RobBERT |  52.33  |
 
 
+[skipgram_vectors]: https://code.google.com/archive/p/word2vec/
+[dutch_skipgram_vectors]: https://github.com/clips/dutchembeddings
 [transformers]: https://github.com/huggingface/transformers
 [bertje]: https://github.com/wietsedv/bertje
 [robbert]: https://github.com/iPieter/RobBERT
