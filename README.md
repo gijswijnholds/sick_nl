@@ -2,7 +2,7 @@
 
 A translation of the SICK dataset, for evaluating relatedness and entailment models for Dutch. SICK-NL was obtained by semi-automatically translating SICK (Marelli et al., 2014). Additionally, we provide two stress tests derived from our translation, that deal with semantically equivalent but syntactically different phrasings of the same sentence.
 
-We display some of the evaluation results below. For full details please refer to our EACL 2021 paper, which we ask you to cite if you used any of our code, data, or information from the paper:
+We display some of the evaluation results below. For full details please refer to [our EACL 2021 paper], which we ask you to cite if you used any of our code, data, or information from the paper:
 
 ```
 @inproceedings{wijnholds-etal-2021-sicknl,
@@ -13,7 +13,7 @@ We display some of the evaluation results below. For full details please refer t
     year = "2021",
     address = "Online",
     publisher = "Association for Computational Linguistics",
-    url = "https://arxiv.org/abs/2101.05716",
+    url = "https://www.aclweb.org/anthology/2021.eacl-main.126/",
 }
 ```
 
@@ -47,3 +47,4 @@ For the Dutch models, we evaluated with [BERTje][bertje] and [RobBERT][robbert].
 [transformers]: https://github.com/huggingface/transformers
 [bertje]: https://github.com/wietsedv/bertje
 [robbert]: https://github.com/iPieter/RobBERT
+[our EACL 2021 paper]: https://www.aclweb.org/anthology/2021.eacl-main.126/
